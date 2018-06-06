@@ -1,19 +1,3 @@
-# My New Year's Resolution Site
-
-This is the third in a series that will help you build a website - an app where you can keep your friends, family, and audience up to date on whether or not you're achieving your New Year's Resolution goals. Not doing New Years resolutions? Choose any yes or no status, like "Is it too cold for Jenn to drink iced almond milk lattes?" 
-
-This project relates to video 3 of 4 in the [Website Starter Kit](https://glitch.com/website-starter-kit) video series.
-
-[![](https://cdn.glitch.com/6d561a98-036e-47a6-b152-a2a66a73d13e%2FnikiPlay.png?1518516257955)](https://www.youtube.com/watch?v=yV9KMOeKghc)
-
-Coding is challenging, but if you take it day by day and practice, you can build the app of your dreams in no time - and we at Glitch and in the community are here to help!
-
-Here's the entire list of apps in this series:
-
-* [intro to html](https://glitch.com/edit/#!/intro-to-html)
-* [intro to css](https://glitch.com/edit/#!/intro-to-css)
-* [intro to js](https://glitch.com/edit/#!/intro-to-js)
-* [intro to node](https://glitch.com/edit/#!/intro-to-node)
 
 ## Here is a very short introduction to JavaScript
 
@@ -24,7 +8,7 @@ Much like CSS, you can write JavaScript inline in your HTML, except you use the 
 ```
 <script>
   window.onload = function() {
-    alert('hello from glitch!');
+    alert('hello from code cooperative!');
   };
 </script>
 ```
@@ -39,7 +23,7 @@ Let's take a look at the first example, because a lot of powerful stuff is happe
 
 ```
 window.onload = function() {
-  alert('hello from glitch!');
+  alert('hello from code cooperative!');
 };
 ```
 
@@ -108,10 +92,6 @@ Tomorrow, we'll learn about writing JavaScript on the server with Node.js so we 
 ヽ(๏∀๏ )ﾉ
 
 ## What files are in this project?
-
-### assets
-
-This is a folder where you can upload assets like images. This project has an illustration of books because the example resolution has to do with reading.
 
 ### ← README.md
 
