@@ -1,5 +1,8 @@
 Run with: `python -m SimpleHTTPServer 8000` or [View on Codepen](https://codepen.io/yelly/pen/vrKxWy)
 
+
+![Spotify Search](spotify-search.png)
+
 - [Spotify API](https://developer.spotify.com/documentation/web-api/quick-start/)
 - [Get OAuth Token](https://developer.spotify.com/console/get-artist-albums/)
 
