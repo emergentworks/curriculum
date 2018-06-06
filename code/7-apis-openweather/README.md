@@ -1,4 +1,4 @@
-![Weather Website][weather.png]
+![Weather Website](weather.png)
 
 Uses two APIs:
 
