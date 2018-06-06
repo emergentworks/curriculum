@@ -1,15 +1,7 @@
-# My New Year's Resolution App
+# My New Year's Resolution Website
 
-This is the first of a week-long series that will help you build your first Glitch app in 2018 - an app where you can keep your friends, family, and audience up to date on whether or not you're achieving your New Year's Resolution goals. Not doing New Years resolutions? Choose any yes or no status, like "Is it too cold for Jenn to drink iced almond milk lattes?" 
+This is a website where you can keep your friends, family, and audience up to date on whether or not you're achieving your New Year's Resolution goals. Not doing New Years resolutions? Choose any yes or no status.
 
-Coding is challenging, but if you take it day by day and practice, you can build the app of your dreams in no time - and we at Glitch and in the community are here to help!
-
-Here's the entire list of apps in this series:
-
-* [intro to html](https://glitch.com/edit/#!/first-app-html)
-* [intro to css](https://glitch.com/edit/#!/first-app-css)
-* [intro to js](https://glitch.com/edit/#!/first-app-js)
-* [intro to node](https://glitch.com/edit/#!/first-app-node)
 
 ## Here is a very short introduction to HTML
 
@@ -110,10 +102,6 @@ Tomorrow, we'll learn about Cascading Stylesheets (CSS) and how to use that lang
 ヽ(๏∀๏ )ﾉ
 
 ## What files are in this project?
-
-### assets
-
-This is a folder where you can upload assets like images. This project has an illustration of books because the example resolution has to do with reading.
 
 ### ← README.md
 
