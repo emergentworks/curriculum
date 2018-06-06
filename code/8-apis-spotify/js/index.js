@@ -2,7 +2,7 @@
     "use strict";
     var searchButton = document.getElementById('search');
     var resultsContainer = document.getElementById('results-cont');
-    // get accessToken from spotify: https://developer.spotify.com/console/get-artist-albums/
+    // get accessToken from spotify:https://developer.spotify.com/console/get-search-item/
     var accessToken = '';
 
     // Event listeners.
