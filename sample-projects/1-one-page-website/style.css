@@ -9,3 +9,7 @@ h1 {
   font-style: italic;
   color: #373fff;
 }
+
+img {
+	width: 300px;
+}
