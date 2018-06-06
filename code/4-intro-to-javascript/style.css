@@ -1,0 +1,70 @@
+/* the following styles apply to both of our pages */
+
+body {
+  background-color: darkcyan;
+  font-family: 'Georgia', 'Times New Roman', serif;
+  padding: 3em;
+}
+
+h1 {
+  font-size: 1.5em;
+  font-weight: normal;
+  margin: 0;
+}
+
+h1 a {
+  color: darkcyan;
+}
+
+h1 a:hover {
+  font-weight: bold;
+}
+
+h1, footer {
+  background-color: cyan;
+  padding: 1em;
+  letter-spacing: .05em;
+
+}
+
+main {
+  background-color: white;
+  padding: 2em;;
+}
+
+footer {
+  font-size: .8em;
+}
+
+/* the body with id #index is only on our index.html page */
+body#index {
+  text-align: center;
+}
+
+#index main {
+  padding: 4em;
+}
+
+#date {
+  font-style: italic;
+  font-weight: bold;
+}
+
+#status {
+  text-transform: uppercase;
+  font-size: 8em;
+}
+
+/* the following rules are added for the resolution.html page but
+    they apply anywhere this css file is imported */
+
+nav {
+  padding: 1em; 
+  background: #ffffff;
+}
+
+img {
+  max-width: 400px;
+  display: block;
+  margin: 0 auto;
+}

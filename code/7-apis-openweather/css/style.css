@@ -1,0 +1,62 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+  background-color: #0f0f0f;
+  color: #fff;
+  text-align: center;
+}
+
+h1 {
+  font-weight: 400;
+  font-size: 50px;
+}
+
+span {
+  cursor: pointer;
+  font-weight: 400;
+}
+
+a,
+a:visited,
+span {
+  text-decoration: none;
+  color: #22a7f0;
+}
+
+a:hover,
+span:hover {
+  color: #2980b9;
+}
+
+.weather > div {
+  margin-top: 1em;
+}
+
+.city {
+  font-size: 20px;
+  padding-bottom: 0.5em;
+}
+
+.temp {
+  font-weight: 400;
+  display: inline;
+  font-size: 34px;
+}
+
+.icon,
+.forecast {
+  margin: 0;
+}
+
+.forecast {
+  font-size: 14px;
+}
+
+.wrapper {
+  height: 100px;
+  width: 100%;
+  position: absolute;
+  top: 50%;
+  left: 0;
+  margin-top: -170px;
+}

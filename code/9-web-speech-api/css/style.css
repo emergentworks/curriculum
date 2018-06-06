@@ -1,0 +1,9 @@
+body {
+  padding: 20px 40px;
+  font-family: 'Roboto';
+}
+
+nav a {
+  display: inline-block;
+  padding: 10px 20px;
+}

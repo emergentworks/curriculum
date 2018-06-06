@@ -1,0 +1,141 @@
+html {
+  box-sizing: border-box;
+  outline: none;
+}
+html *, html *:before, html *:after {
+  box-sizing: inherit;
+}
+html *:focus, html *:before:focus, html *:after:focus {
+  outline: inherit;
+}
+
+.title {
+  text-align: center;
+  font-weight: 200;
+  margin-top: 50px;
+}
+
+.input-wrapper {
+  position: relative;
+  width: 90%;
+  max-width: 500px;
+  margin: 50px auto 0;
+  transition: 300ms ease;
+}
+.input-wrapper .query {
+  height: 50px;
+  width: 100%;
+  display: block;
+  padding: 0 25px;
+  border: 1px solid #ccc;
+  transition: 300ms ease;
+}
+.input-wrapper .query:focus {
+  outline: none;
+  border: 1px solid #2196F3;
+  transition: 300ms ease;
+}
+.input-wrapper .loader {
+  height: 5px;
+  margin: 0;
+  padding: 0;
+  background: white;
+  margin: 0 auto;
+  position: relative;
+}
+.input-wrapper .loader:before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: #2196F3;
+  width: 0%;
+  height: 5px;
+  transition: 300ms ease;
+}
+.input-wrapper .loader.done:before {
+  width: 100%;
+}
+.input-wrapper .clear {
+  position: absolute;
+  top: 0;
+  right: 0;
+  height: 50px;
+  width: 30px;
+  opacity: 1;
+}
+.input-wrapper .clear:before {
+  content: '\00d7';
+  color: #2196F3;
+  position: absolute;
+  top: 0;
+  left: 0;
+  text-align: center;
+  width: 100%;
+  line-height: 50px;
+  transition: 300ms ease;
+}
+.input-wrapper .clear:hover:before {
+  cursor: pointer;
+}
+.input-wrapper.active {
+  margin-top: -55px;
+}
+.input-wrapper.active .query {
+  height: 30px;
+  margin-top: 0px;
+  transition: 300ms ease;
+}
+.input-wrapper.active .clear {
+  height: 30px;
+}
+.input-wrapper.active .clear:before {
+  line-height: 30px;
+}
+.input-wrapper.empty .clear {
+  opacity: 0;
+}
+
+.result {
+  width: 100%;
+  max-width: 500px;
+  margin: 0 auto;
+  padding: 5% 25px 0;
+  /* background: #eee; */
+}
+.result img, .result p.no-results {
+  width: 100%;
+  max-width: 500px;
+  height: auto;
+  opacity: 1;
+  transition: 300ms ease;
+}
+.result img.hidden, .result p.no-results.hidden {
+  opacity: 0;
+  transition: 300ms ease;
+}
+.result p.no-result {
+  font-weight: 200;
+}
+.result p.no-result.center {
+  text-align: center;
+}
+
+.random {
+  width: 90%;
+  max-width: 500px;
+  margin: 50px auto;
+  height: 50px;
+  display: block;
+  background: #2196F3;
+  color: white;
+  border: none;
+  opacity: 0;
+  transition: 300ms ease;
+}
+.random:hover {
+  background: #0c7cd5;
+}
+.random.active {
+  opacity: 1;
+}

@@ -1,0 +1,61 @@
+body {
+  text-align: center;
+  font-family: 'Helvetica Neue', arial;
+  font-weight: 100;
+}
+
+h1 {
+  font-weight: 100;
+  font-size: 3em;
+}
+
+p {
+  margin: 0;
+}
+
+div.eight-ball {
+  background-color: black;
+  border: 1px solid black;
+  border-radius: 50%;
+  width: 300px;
+  height: 300px;
+  margin: 0 auto;
+}
+
+div.answer {
+  background-color: #333;
+  border: 1px solid #333;
+  border-radius: 50%;
+  width: 50%;
+  height: 50%;
+  margin: 25% auto;
+}
+
+p#eight {
+  font-size: 5em;
+  margin: 20% auto;
+  color: white;
+}
+
+p#answer {
+  padding: 25px;
+  color: lightblue;
+  letter-spacing: 2px;
+}
+
+button, input {
+  margin: 20px;
+  padding: 10px;
+  border: 1px solid black;
+  border-radius: 10px;
+  cursor: pointer;
+  font-size: 1.2em;
+  font-family: 'Helvetica Neue', arial;
+  font-weight: 100;
+  letter-spacing: 2px;
+  transition: .5s font-size;
+}
+
+button:hover {
+  font-size: 1.4em;
+}

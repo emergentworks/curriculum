@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Am I Keeping My New Year's Resolution?</title>
+    
+    <!-- here is where we import our CSS file -->
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  
+  <!-- giving this <body> the id attribute of "index"
+        so we can select it in our style.css code -->
+  <body id="index">
+    
+    <h1>Am I keeping <a href="/about.html">My New Year's Resolution</a>?</h1>
+    
+    <main>
+      
+      <p>
+        <!-- wrapping the date in a span tag with id of "date"
+              and giving our status strong tag an id of "status"
+              so we can select them and style it 
+
+              also, we changed our date to say "today" so that
+              it is correct even if our JavaScript is broken -->
+        As of <span id="date">today</span>...<br />
+        <strong id="status">yes!</strong>
+      </p>
+    
+    </main>
+    
+    <footer>
+      <p>
+        This site was built on <a href="http://glitch.com">Glitch.com</a> &bull; <a href="https://glitch.com/edit/#!/first-app-node">View the source and remix it!</a>
+      </p>
+    </footer>
+    
+    <!-- here is where we import our JavaScript file -->
+    <script src="app.js"></script>
+  </body>
+</html>
