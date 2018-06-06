@@ -21,7 +21,12 @@
 
 [10-giphy-api](../sample-projects/10-giphy-api)
 
-# More resources for ideas
+# Part 2: NODEJS
+
+[intro-to-nodejs](../sample-projects/1-intro-to-nodejs)
+
+
+## More resources for ideas
 
 - [Just make websites](https://github.com/melanierichards/just-build-websites/blob/master/README.md)
 - [Front end Libraries Projects](https://learn.freecodecamp.org/front-end-libraries/front-end-libraries-projects/)
