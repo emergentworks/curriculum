@@ -1,30 +1,30 @@
 
-# Sample projects to create
+# Part 1: HTML + CSS + JAVASCRIPT
 
 You can follow these in order or not. After number 6, they are all fairly equal in difficulty.
 
 [1-one-page-website](../sample-projects/1-one-page-website)
 
-2-multi-page-website
+[2-multi-page-website](../sample-projects/2-multi-page-website)
 
-3-intro-to-css
+[3-intro-to-css](../sample-projects/3-intro-to-css)
 
-4-intro-to-javascript
+[4-intro-to-javascript](../sample-projects/4-intro-to-javascript)
 
-5-javascript-part-two
+[5-javascript-part-two](../sample-projects/5-javascript-part-two)
 
-6-javascript-part-three
+[6-javascript-part-three](../sample-projects/6-javascript-part-three)
 
-7-apis-openweather
+[7-apis-openweather](../sample-projects/7-apis-openweather)
 
-8-apis-spotify
+[8-apis-spotify](../sample-projects/8-apis-spotify)
 
-9-web-speech-api
+[9-web-speech-api](../sample-projects/9-web-speech-api)
 
-10-giphy-api
+[10-giphy-api](../sample-projects/10-giphy-api)
 
 # More resources for ideas
 
-[Just make websites](https://github.com/melanierichards/just-build-websites/blob/master/README.md)
-[Front end Libraries Projects](https://learn.freecodecamp.org/front-end-libraries/front-end-libraries-projects/)
-[Project Ideas](https://github.com/karan/Projects#web)
+- [Just make websites](https://github.com/melanierichards/just-build-websites/blob/master/README.md)
+- [Front end Libraries Projects](https://learn.freecodecamp.org/front-end-libraries/front-end-libraries-projects/)
+- [Project Ideas](https://github.com/karan/Projects#web)
