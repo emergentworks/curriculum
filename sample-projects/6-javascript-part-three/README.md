@@ -5,7 +5,8 @@ This is a web page that allows users to enter their hours and weeks of work to s
 
 Looks like this:
 
-![Minimum Wage Website](Screen Shot 2018-06-06 at 7.08.29 AM.png)
+![Minimum Wage Website](minimum-wage.png)
+
+Live [here](https://minimum-wage.glitch.me/)
 
 Made by [Jenn](https://glitch.com/@jennschiffer) at Fog Creek!
-

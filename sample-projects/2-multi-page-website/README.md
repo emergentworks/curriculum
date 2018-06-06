@@ -1,7 +1,13 @@
 # My New Year's Resolution Website
 
+![New Year Website](new-year.png)
+
 This is a website where you can keep your friends, family, and audience up to date on whether or not you're achieving your New Year's Resolution goals. Not doing New Years resolutions? Choose any yes or no status.
 
+## Resources
+- [Intro to HTML video](https://www.youtube.com/watch?v=xkenZ6bukEo) -- is for this specific website, 6m
+- [HTML Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
+- [Intro to HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML)
 
 ## Here is a very short introduction to HTML
 
@@ -37,9 +43,9 @@ Within an HTML document, there is a "head" and "body" - the head holds info for 
 </head>
 
 <body>
-  
+
   <p>Here is some content.</p>
-  
+
 </body>
 </html>
 ```
@@ -57,7 +63,7 @@ Depending on your preferences, you may want more or less whitespace. Whatever he
 Another way to make your code readable and maintainable is with comments:
 
 ```
-<!-- this is a comment that you can only 
+<!-- this is a comment that you can only
       see in the source code -->
 <h1>This is a heading!</h1>
 ```

@@ -7,3 +7,4 @@ You're going to make this:
 
 ![Magic 8 Ball website](https://github.com/oa495/curriculum/blob/master/sample-projects/5-javascript-part-two/1_z_UiOng94Wis3ClFjc8jhA.png)
 
+Can be seen live [here](https://8ball.glitch.me/)

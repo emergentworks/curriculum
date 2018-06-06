@@ -1,8 +1,6 @@
 
 # Part 1: HTML + CSS + JAVASCRIPT
 
-You can follow these in order or not. After number 6, they are all fairly equal in difficulty.
-
 [1-one-page-website](../sample-projects/1-one-page-website)
 
 [2-multi-page-website](../sample-projects/2-multi-page-website)

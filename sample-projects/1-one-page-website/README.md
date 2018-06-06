@@ -2,13 +2,17 @@ About me
 ------------
 ![About me Website](new-year.png)
 
+## Resources
+- [HTML Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
+- [Intro to HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML)
+
 ### ← README.md
 
 That's this file, where you can tell people what your cool website does and how you built it.
 
 ### ← index.html
 
-Where you'll write the content of your website. 
+Where you'll write the content of your website.
 
 ### ← style.css
 
@@ -56,9 +60,9 @@ Within an HTML document, there is a "head" and "body" - the head holds info for 
 </head>
 
 <body>
-  
+
   <p>Here is some content.</p>
-  
+
 </body>
 </html>
 ```
@@ -76,7 +80,7 @@ Depending on your preferences, you may want more or less whitespace. Whatever he
 Another way to make your code readable and maintainable is with comments:
 
 ```
-<!-- this is a comment that you can only 
+<!-- this is a comment that you can only
       see in the source code -->
 <h1>This is a heading!</h1>
 ```

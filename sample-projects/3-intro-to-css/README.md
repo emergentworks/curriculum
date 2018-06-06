@@ -1,5 +1,12 @@
 # My New Year's Resolution App
 
+![New Year Website](new-year.png)
+
+## Resources
+
+- [Intro to CSS Video: New Year Website](https://www.youtube.com/watch?v=4Qy02WLcHDM) 5m
+- [CSS Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics)
+- [CSS Diner](http://flukeout.github.io/)
 
 ## Here is a very short introduction to CSS
 
@@ -34,9 +41,9 @@ The added declaration above sets the font to "Georgia" followed by some fall-bac
 Like with most languages, there is syntax for leaving comments in CSS. The following comment doesn't change the style, but it gives info to you and others viewing the source, making the code more readable and maintainable.
 
 ```
-/* the following css changes font size. "em" is a 
-    unit that means multiple of the current font size - 
-    so 2em is 2x the set font size. browsers tend 
+/* the following css changes font size. "em" is a
+    unit that means multiple of the current font size -
+    so 2em is 2x the set font size. browsers tend
     to default to 16px (px meaning pixels) as the font size. */
 body {
   background-color: magenta;
@@ -60,7 +67,7 @@ Now I can select that element so my code only affects the body element with that
 
 id selectors are prefixed with `#` while class selectors are prefixed with a period - `.`
 
-There are so many ways you can style your elements in CSS, that the best way to learn is to view the source of existing CSS files. Check out `style.css` in this app to see existing rule sets. 
+There are so many ways you can style your elements in CSS, that the best way to learn is to view the source of existing CSS files. Check out `style.css` in this app to see existing rule sets.
 
 Having your CSS in a .css file allows you to maintain a clean separation of languages between CSS and HTML. But you have to tell the app to use that file, so some HTML is required. Between the `<head></head>` tags we have to tell the browser to import our file like so:
 

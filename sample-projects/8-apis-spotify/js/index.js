@@ -2,8 +2,8 @@
     "use strict";
     var searchButton = document.getElementById('search');
     var resultsContainer = document.getElementById('results-cont');
-    // get accessToken from spotify: https://developer.spotify.com/documentation/general/guides/authorization-guide/
-    var accessToken;
+    // get accessToken from spotify: https://developer.spotify.com/console/get-artist-albums/
+    var accessToken = '';
 
     // Event listeners.
     searchButton.addEventListener('click', searchSpotify);
