@@ -1,6 +1,6 @@
 About me
 ------------
-![About me Website](new-year.png)
+![About me Website](about-me.png)
 
 ## Resources
 - [HTML Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
