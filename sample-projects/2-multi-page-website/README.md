@@ -96,10 +96,6 @@ What's great about building for the Web in HTML is that there are a lot of resou
 
 Probably the most fun way to dive into HTML is to just go for it - check out the files in this project and play around until it has the content you want it to have!
 
-Tomorrow, we'll learn about Cascading Stylesheets (CSS) and how to use that language to make this app look nicer!
-
-
-ヽ(๏∀๏ )ﾉ
 
 ## What files are in this project?
 
