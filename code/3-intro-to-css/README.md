@@ -1,3 +1,6 @@
+[Previous Project](../2-multi-page-website)
+[Next Project](../4-intro-to-javascript)
+
 # My New Year's Resolution App
 
 ![New Year Website](new-year.png)
