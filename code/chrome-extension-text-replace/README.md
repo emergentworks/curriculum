@@ -1,4 +1,4 @@
-[Next Project](../chrome-extension-tutorial-image-replace)
+[Next Project](../chrome-extension-tutorial)
 
 This is hosted as [glitch](https://women-not-females-start.glitch.me/) project but you can adapt it for github / just a folder on the computer. Let the students choose the text to replace!
 
