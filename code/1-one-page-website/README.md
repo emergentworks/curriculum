@@ -1,3 +1,5 @@
+[Next project](../2-multi-page-website)
+
 About me
 ------------
 ![About me Website](about-me.png)
