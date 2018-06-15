@@ -1,4 +1,4 @@
-We decided to go with project based learning. In each folder is a "complete" (self-contained) project with resources on what concepts to teach while / before / after making the projects with your students. Feel free to adapt them how you like. The projects are PART 1 are in order up until number 6. After that you can do the API projects in however order you see fit. 
+We decided to go with project based learning. In each folder is a "complete" (self-contained) project with resources on what concepts to teach while / before / after making the projects with your students. Feel free to adapt them how you like. The projects are PART 1 are in order up until number 6. After that you can do the API projects in however order you see fit or just do any number of them.
 
 # Part 1: HTML + CSS + JAVASCRIPT
 
@@ -24,14 +24,15 @@ We decided to go with project based learning. In each folder is a "complete" (se
 
 # Part 2: NODEJS
 
-- [intro-to-nodejs](1-intro-to-nodejs)
-
+- [intro-to-nodejs](intro-to-nodejs)
+- [node-twitter-bot](node-twitter-bot)
 
 ## General Resources
 
 - [ScriptEd Foundations, has practice games and interactive examples](https://github.com/ScriptEdcurriculum/curriculum17-18/wiki/1.-Foundations#foundations-course-resources)
 - [Khan Academy HTML + CSS](https://www.khanacademy.org/computing/computer-programming/html-css)
 - [Codeacademy HTML + CSS](https://www.codecademy.com/en/tracks/web)
+- [Programming with Text](http://thecodingtrain.com/Courses/programming-with-text/)
 
 ## Project ideas
 
