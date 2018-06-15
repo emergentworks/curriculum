@@ -24,7 +24,7 @@ At some point students should download a text editor like Sublime or Atom but yo
 
 - [10-giphy-api](10-giphy-api)
 
-- [chrome-extension-text-replace](chrome-extension-text-replace)[BONUS!]
+- [chrome-extension-text-replace](chrome-extension-text-replace)
 
 - [chrome-extension-tutorial-image-replace](chrome-extension-tutorial) [BONUS!]
 
