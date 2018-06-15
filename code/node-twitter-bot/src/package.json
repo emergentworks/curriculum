@@ -1,0 +1,16 @@
+{
+  "name": "first-node-bot-tutorial",
+  "version": "1.0.0",
+  "description": "A tutorial for making your first Node application: a Twitter bot. Tutorial code.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Emily Aviva Kapor-Mater",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.13.3",
+    "lodash": "^3.10.1",
+    "twitter": "^1.2.5"
+  }
+}
