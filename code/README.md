@@ -1,4 +1,6 @@
-We decided to go with project based learning. In each folder is a "complete" (self-contained) project with resources on what concepts to teach while / before / after making the projects with your students. Feel free to adapt them how you like. The projects are PART 1 are in order up until number 6. After that you can do the API projects in however order you see fit or just do any number of them.
+We decided to go with project based learning. In each folder is a "complete" (self-contained) project with resources on what concepts to teach while / before / after making the projects with your students. Feel free to adapt them how you like. The projects are PART 1 are in order up until number 5. After that you can pick and choose. Use your discretion! If you feel like they need more JS practice before they get into APIs, do number 6. If they need more experience with APIs, do multiple API projects. Most importantly, gauge their interest. Tell them about what they _can_ do with code (the [project showcase](../project-showcase) will help) and see what they're interested in. 
+
+At some point students should download a text editor like Sublime or Atom but you can choose to use an online text editor in the beginning.
 
 # Part 1: HTML + CSS + JAVASCRIPT
 
@@ -22,9 +24,12 @@ We decided to go with project based learning. In each folder is a "complete" (se
 
 - [10-giphy-api](10-giphy-api)
 
+- [chrome-extension-tutorial](chrome-extension-tutorial)
+
 # Part 2: NODEJS
 
 - [intro-to-nodejs](intro-to-nodejs)
+
 - [node-twitter-bot](node-twitter-bot)
 
 ## General Resources
