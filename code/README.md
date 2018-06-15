@@ -1,3 +1,4 @@
+We decided to go with project based learning. In each folder is a "complete" (self-contained) project with resources on what concepts to teach while / before / after making the projects with your students. Feel free to adapt them how you like. The projects are PART 1 are in order up until number 6. After that you can do the API projects in however order you see fit. 
 
 # Part 1: HTML + CSS + JAVASCRIPT
 
