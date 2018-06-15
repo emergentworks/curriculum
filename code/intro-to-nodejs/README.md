@@ -1,4 +1,5 @@
 [Previous Project](../10-giphy-api)
+[Next Project](../node-twitter-bot)
 
 # My New Year's Resolution Site
 

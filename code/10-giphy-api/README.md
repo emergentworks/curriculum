@@ -1,6 +1,7 @@
 [Previous Project](../9-web-speech-api)
 [Next Project](../intro-to-nodejs)
 
+
 You can find this one at https://codepen.io/blaketarter/pen/wBgWbV.
 
 Quick example of the [Giphy Api](https://github.com/giphy/GiphyAPI).

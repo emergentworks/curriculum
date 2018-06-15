@@ -1,3 +1,11 @@
+[Previous Project](../intro-to-nodejs)
+
+## Resources
+
+- [Make a Twitter bot that tweets random images](https://botwiki.org/resource/tutorial/random-image-tweet/)
+
+- [Botwiki Resources](https://botwiki.org/resources/twitterbots/)
+
 # Your First Node App: Make a Twitter Bot
 
 ## Introduction
