@@ -1,5 +1,5 @@
 [Previous Project](../9-web-speech-api)
-[Next Project](../intro-to-nodejs)
+[Next Project](../chrome-extension-tutorial)
 
 You can find this one at https://codepen.io/blaketarter/pen/wBgWbV.
 
