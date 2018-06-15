@@ -1,3 +1,5 @@
+[Previous Project](../10-giphy-api)
+
 # My New Year's Resolution Site
 
 ![New Years Site](new-years.png)
