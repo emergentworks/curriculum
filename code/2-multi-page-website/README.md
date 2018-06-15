@@ -1,3 +1,6 @@
+[Previous Project](../1-one-page-website)
+[Next Project](../3-intro-to-css)
+
 # My New Year's Resolution Website
 
 ![New Year Website](new-year.png)
