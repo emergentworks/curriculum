@@ -24,7 +24,9 @@ At some point students should download a text editor like Sublime or Atom but yo
 
 - [10-giphy-api](10-giphy-api)
 
-- [chrome-extension-tutorial](chrome-extension-tutorial) [BONUS!]
+- [chrome-extension-text-replace](chrome-extension-text-replace)[BONUS!]
+
+- [chrome-extension-tutorial-image-replace](chrome-extension-tutorial) [BONUS!]
 
 # Part 2: NODEJS
 
