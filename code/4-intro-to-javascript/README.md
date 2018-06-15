@@ -1,3 +1,6 @@
+[Previous Project](../3-intro-to-css)
+[Next Project](../5-javascript-part-two)
+
 ![New Year Website](new-year.png)
 
 ## What files are in this project?
