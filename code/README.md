@@ -32,12 +32,24 @@ At some point students should download a text editor like Sublime or Atom but yo
 
 - [node-twitter-bot](node-twitter-bot)
 
+  ## Twitter bot resources
+  
+  - [Make a Twitter bot that tweets random images](https://botwiki.org/resource/tutorial/random-image-tweet/)
+  
+  - [Botwiki Resources](https://botwiki.org/resources/twitterbots/)
+  
+  - [node twitter bot on glitch](https://glitch.com/edit/#!/art-connoisseur?path=README.md:1:0)
+
+
+
 ## General Resources
 
 - [ScriptEd Foundations, has practice games and interactive examples](https://github.com/ScriptEdcurriculum/curriculum17-18/wiki/1.-Foundations#foundations-course-resources)
 - [Khan Academy HTML + CSS](https://www.khanacademy.org/computing/computer-programming/html-css)
 - [Codeacademy HTML + CSS](https://www.codecademy.com/en/tracks/web)
 - [Programming with Text](http://thecodingtrain.com/Courses/programming-with-text/)
+- [NodeJS](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction)
+
 
 ## Project ideas
 
