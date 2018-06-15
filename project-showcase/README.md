@@ -1,3 +1,6 @@
+[A Dictionary of Acronyms](http://keepingup.io/)
+![](images/image31.png)
+
 [Trump Twitter Insults](https://www.nytimes.com/interactive/2016/01/28/upshot/donald-trump-twitter-insults.html)
 
 ![](images/image13.png)
