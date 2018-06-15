@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Chrome CSS extension</title>
+    <meta name="description" content="Replaces 'females' with women">
+    <link id="favicon" rel="icon" href="https://glitch.com/edit/favicon-app.ico" type="image/x-icon">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+      * {
+        box-sizing: border-box;
+      }
+      body {
+        font-family: helvetica, arial, sans-serif;
+        margin: 0;
+        padding: 0;
+      }
+      main {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        height: 100vh;
+      }
+      .row {
+        flex: 0 0 50%;
+        max-width: 500px;
+        text-align: left;
+        padding: 16px 24px 48px;
+      }
+      h1 {
+        font-weight: 100;
+        font-size: 30px;
+        color: #414549;
+      }
+      h1 span {
+        font-weight: 900;
+      }
+      p {
+        line-height: 1.5;
+        margin: 1rem 0px 2rem;
+        font-size: 15x;
+        letter-spacing: 0.5px;
+      }
+      .glitchButton img {
+        height: 30px;
+      }
+      hr {
+        width: 60px;
+        display: block;
+        height: 6px;
+        border: none;
+        background: #26C6DA;
+        margin: 40px auto;
+      }
+      a:link, a:visited {
+        color: #26C6DA;
+        text-decoration: none;
+      }
+    </style>
+  </head>
+  <body>
+    <main>
+      <div class="row">
+        <h1>A <span>Chrome extension</span> that replaces instances of the word 'females' with 'women' on twitter. Why? I
+          personally don't like it for multiple reasons. Some of which are outlined <a href="https://www.buzzfeed.com/tracyclayton/stop-calling-women-females">here.</a>
+          <div class="glitchButton"></div>
+        </h1>
+        <hr>
+          <p>
+            This was used to teach a 'making a chrome extension workshop' at <a href="https://www.afrotectopia.com/">Afrotectopia</a>. 
+            You can use this as a template to make text replacer extensions. 
+          </p>
+          <p>
+            If you're looking for inspiration, here's is a curated<a href="https://www.are.na/omayeli-arenyeka/activist-themed-chrome-extensions">
+            list of "activist" themed chrome extensions.</a>
+          </p>
+          <p>
+            <a href="https://glitch.com/edit/#!/remix/women-not-females-start">Remix!</a> See the <a href="https://glitch.com/edit/#!/women-not-females-start?path=README.md">readme</a> on how to get started!
+          </p>
+        <hr>
+      </div>
+    </main>
+    <script src="https://button.glitch.me/button.js"></script>  
+  </body>
+</html>
