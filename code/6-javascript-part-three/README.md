@@ -1,3 +1,7 @@
+[Previous Project](../5-javascript-part-two)
+[Next Project](../7-apis-openweather)
+
+
 How Much Would Your Salary Be On Minimum Wage?
 =========================
 
