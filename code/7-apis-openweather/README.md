@@ -1,3 +1,6 @@
+[Previous Project](../6-javascript-part-three)
+[Next Project](../8-apis-spotify)
+
 ![Weather Website](weather.png)
 
 Uses two APIs:
