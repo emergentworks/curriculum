@@ -1,4 +1,5 @@
-[Previous Project](../7-apis-openweather)[Next Project](../9-web-speech-api)
+[Previous Project](../7-apis-openweather)
+[Next Project](../9-web-speech-api)
 
 Run with: `python -m SimpleHTTPServer 8000` or [View on Codepen](https://codepen.io/yelly/pen/vrKxWy)
 
