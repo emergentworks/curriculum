@@ -1,3 +1,7 @@
+[Previous Project](../4-intro-to-javascript)
+[Next Project](../6-javascript-part-three)
+
+
 # Magic 8 Ball
 
 [JavaScript Magic 8 Ball with Basic DOM Manipulation tutorial](https://medium.com/@kellylougheed/javascript-magic-8-ball-with-basic-dom-manipulation-1636b83c3c26).
