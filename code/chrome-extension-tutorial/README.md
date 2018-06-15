@@ -1,3 +1,5 @@
+[Previous Project](../chrome-extension-text-replace)
+
 # chrome-extension-tutorial
 
 From: https://github.com/jumbosushi/chrome-extension-tutorial
