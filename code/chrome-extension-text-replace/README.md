@@ -1,3 +1,5 @@
+This is hosted as [glitch](https://women-not-females-start.glitch.me/) project but you can adapt it for github / just a folder on the computer.
+
 # women-not-females-extension
 
 This is a sample text-replacer chrome extension that replaces 'females' with 'women' on twitter. This is the final product of a chrome extension workshop taught at [Afrotectopia](https://www.afrotectopia.com/).
@@ -173,7 +175,7 @@ chrome.runtime.onMessage.addListener(function(message, sender, sendResponse) {
 ```
 9. Now lets reload our extension and see if it works!
 
-## 📦 Great tutorials on making chrome extensions
+## Resources
 
 1. Learnt a lot from this one -> [Chrome Extensions (and Bookmarklets) by Daniel Shiffman](http://shiffman.net/a2z/chrome-ext/)
 2. [Chrome Extensioning](https://gist.github.com/caseywatts/99e7412e9bc6ae858fd1)
