@@ -1,3 +1,6 @@
+[NYC Spending Bot](https://twitter.com/nycspendingbot)
+![](images/image32.png)
+
 [A Dictionary of Acronyms](http://keepingup.io/)
 ![](images/image31.png)
 
