@@ -42,7 +42,7 @@ This is a list of skills & concepts organized by topic that all our students sho
 
 ## 5. Email
 
-* What is email
+* What is email?
 * Creating and logging into an email account (Gmail)
 * Opening and reading emails
 * Composing, sending, replying to, and forwarding emails
