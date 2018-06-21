@@ -74,6 +74,7 @@ This is a list of skills & concepts organized by topic that all our students sho
 * Microsoft Word/Pages for word processing
 * Microsoft Excel/Numbers for spreadsheets
 * Using Google Drive, Docs, and Sheets
+* Using a Calendar application for scheduling
 
 ## 9. Mobile devices
 
