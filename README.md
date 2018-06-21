@@ -22,8 +22,8 @@ This code of conduct applies to all Code Cooperative spaces, including our class
 
 Some Code Cooperative spaces may have additional rules in place, which will be made clearly available to participants. Participants are responsible for knowing and abiding by these rules.
 
-A longer version of our Code of Conduct exists [here](code-of-conduct.md).
+A longer version of our Code of Conduct exists [here](CODE_OF_CONDUCT.md).
 
-## Open Source License
+## License
 
-TODO
+The content of this project is licensed under the [MIT license](https://opensource.org/licenses/mit-license.php).
