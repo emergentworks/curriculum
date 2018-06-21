@@ -6,7 +6,7 @@ This Code of Conduct is based on the [example policy from the Geek Feminism wiki
 
 The Code Cooperative is dedicated to providing a harassment-free experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, age, race, or religion. We do not tolerate harassment of participants in any form.
 
-This code of conduct applies to all Code Cooperative spaces, including our classes, events, communications, both online and off. Anyone who violates this code of conduct may be sanctioned or expelled from these spaces at the discretion of the Core Team.
+This code of conduct applies to all Code Cooperative spaces, including our classes, events, communications, and curriculum, both online and off. Anyone who violates this code of conduct may be sanctioned or expelled from these spaces at the discretion of the Core Team.
 
 Some Code Cooperative spaces may have additional rules in place, which will be made clearly available to participants. Participants are responsible for knowing and abiding by these rules.
 
@@ -14,7 +14,7 @@ Some Code Cooperative spaces may have additional rules in place, which will be m
 
 The Code Cooperative is dedicated to providing a harassment-free experience for everyone. We do not tolerate harassment of participants in any form.
 
-This code of conduct applies to all Code Cooperative spaces, including our classes, events, communications, both online and off. Anyone who violates this code of conduct may be sanctioned or expelled from these spaces at the discretion of the Core Team.
+This code of conduct applies to all Code Cooperative spaces, including our classes, events, communications, and curriculum, both online and off. Anyone who violates this code of conduct may be sanctioned or expelled from these spaces at the discretion of the Core Team.
 
 Some Code Cooperative spaces may have additional rules in place, which will be made clearly available to participants. Participants are responsible for knowing and abiding by these rules.
 
