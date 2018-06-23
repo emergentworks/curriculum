@@ -6,6 +6,17 @@ The Code Cooperative curriculum is **a guide** that supports our mentors and stu
 
 Each student has different learning goals and each project is different so this curriculum is a resource that doesn’t aim to cover everything but rather serves as a jumping off point and something for our members to come back to when they need help.
 
+## Learning with this curriculum
+
+The best way to work with this curriculum is to go through the following sections in order. Pay attention to the prerequisites for each section.
+
+Section | Description | Prerequisite knowledge
+---|---|---
+[1. Project Showcase](project-showcase) | Examples projects to serve as inspiration for students | None
+[2. Digital Literacy](digital-literacy) | Digital literacy guide | None
+[3. Code](code) | Project based web development curriculum | Typing, navigating your computer's file system, using Google to search for information, navigating websites
+[4. Product Development](product-development) | Guide to help our students develop their final project | Building a simple website (HTML, CSS)
+
 ## Guidelines for Contribution
 
 See our Guidelines for Contribution [here](CONTRIBUTING.md).
