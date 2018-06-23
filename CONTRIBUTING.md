@@ -46,7 +46,7 @@ If someone submits a pull request that is not perfect, and you are reviewing, it
 
 #### What about if you have problems that cannot be discussed in a public issue?
 
-Both [Alex Qin](https://github.com/noidontdig) and [Omayeli Arenyeka](https://github.com/ao495) have contactable emails on their GitHub profiles, and are happy to talk about any problems.
+Both [Alex Qin](https://github.com/noidontdig) and [Omayeli Arenyeka](https://github.com/oa495) have contactable emails on their GitHub profiles, and are happy to talk about any problems.
 
 #### Where can I get more info about this document?
 
