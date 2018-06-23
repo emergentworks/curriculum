@@ -1,9 +1,9 @@
 # Digital Literacy
 
-Code Cooperative students master essential digital literacy skills that
-will allow them to participate confidently in the digital world.
+This is a list of digital literacy skills and concepts orgniazed by topic
+that aim to guide students to participate confidently in the digital world.
 
-This is a list of skills & concepts organized by topic that all our students should master.
+You may take our digital literacy [self-assessment](digital-literacy-skills-checklist.pdf).
 
 ## 1. Computer Basics
 
@@ -83,3 +83,7 @@ This is a list of skills & concepts organized by topic that all our students sho
 * Connecting to Wi-Fi & browsing the Web
 * Common applications (Messages, Maps, Mail)
 * Adding new applications
+
+## 10. Additional Resources
+
+* [https://digitallearn.org/](Digital Learn): Online digital literacy courses
