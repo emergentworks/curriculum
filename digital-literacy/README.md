@@ -86,4 +86,4 @@ You may take our digital literacy [self-assessment](digital-literacy-skills-chec
 
 ## 10. Additional Resources
 
-* [https://digitallearn.org/](Digital Learn): Online digital literacy courses
+* [Digital Learn](https://digitallearn.org): Online digital literacy courses
