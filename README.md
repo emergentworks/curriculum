@@ -20,6 +20,10 @@ Some Code Cooperative spaces may have additional rules in place, which will be m
 
 A longer version of our Code of Conduct exists [here](CODE_OF_CONDUCT.md).
 
+## Contributors
+
+This repository is maintained by [Omayeli Arenyeka](https://github.com/ao495) and [Alex Qin](https://github.com/noidontdig).
+
 ## License
 
 The content of this project is licensed under the [MIT license](https://opensource.org/licenses/mit-license.php).
