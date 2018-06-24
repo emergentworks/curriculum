@@ -41,6 +41,7 @@ At some point students should download a text editor like Sublime or Atom but yo
 - [Khan Academy HTML + CSS](https://www.khanacademy.org/computing/computer-programming/html-css)
 - [Codeacademy HTML + CSS](https://www.codecademy.com/en/tracks/web)
 - [Programming with Text](http://thecodingtrain.com/Courses/programming-with-text/)
+- [Free Programming Books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md)
 
 ## Project ideas
 
