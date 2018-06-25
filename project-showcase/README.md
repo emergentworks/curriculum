@@ -1,4 +1,4 @@
-Difficulty Level from 1 - 6
+Feasibility Level from 1 - 6
 
 [Is it Christmas Yet?](https://isitchristmas.com/) - 1
 ![](images/image35.png)
