@@ -68,7 +68,10 @@ Interactive guide for when you feel like shit.
 A collection of all the cases where Muslims have condemned wrongdoings
 done falsely in the name of Islam.
 
+![](images/image19.png)
+
 [NYC Spending Bot](https://twitter.com/nycspendingbot) - 3
+
 [NYC Spending Bot Github](https://github.com/chriswhong/nyc-spending-bot/blob/master/to-title-case.js)
 ![](images/image32.png)
 
@@ -110,12 +113,6 @@ A browser extension that hides all the metrics on Twitter
 
 [Minimum Wage](https://www.nytimes.com/interactive/2014/02/09/opinion/minimum-wage.html) - 4
 ![](images/image26.png)
-
-[Vitamin Atlas](https://www.good.is/infographics/vitamin-atlas) - 4
-
-An Interactive Guide to Nutrition and the Human Body
-
-![](images/image19.png)
 
 [On the grid](https://onthegrid.city/) - 4
 
