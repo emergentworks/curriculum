@@ -1,6 +1,8 @@
-We decided to go with project based learning. In each folder is a "complete" (self-contained) project with resources(if you add #resources to the end of the url after README.md it'll take you there, e.g [intro to css resources](3-intro-to-css#resources) on what concepts to teach while / before / after making the projects with your students. Feel free to adapt them how you like. The projects are PART 1 are in order up until number 5. After that you can pick and choose. Use your discretion! If you feel like they need more JS practice before they get into APIs, do number 6. If they need more experience with APIs, do multiple API projects. Most importantly, gauge their interest. Tell them about what they _can_ do with code (the [project showcase](../project-showcase) will help) and see what they're interested in. 
+We decided to go with project based learning. In each folder is a "complete" (self-contained) project with resources(if you add #resources to the end of the url after README.md it'll take you there, e.g [intro to css resources](3-intro-to-css#resources) on what concepts to teach while / before / after making the projects with your students. Feel free to adapt them how you like. The projects are PART 1 are in order up until number 5. After that you can pick and choose. Use your discretion! If you feel like they need more JS practice before they get into APIs, do number 6. If they need more experience with APIs, do multiple API projects. Most importantly, gauge their interest. Tell them about what they _can_ do with code (the [project showcase](../project-showcase) will help) and see what they're interested in.
 
 At some point students should download a text editor like Sublime or Atom but you can choose to use an online text editor in the beginning.
+
+* [Sample Coding Exercises](sample-exercises.md)
 
 # Part 1: HTML + CSS + JAVASCRIPT
 
@@ -51,3 +53,4 @@ At some point students should download a text editor like Sublime or Atom but yo
 - [Design Challenge](https://designchallenge.xyz/)
 - [Glitch](https://glitch.com/)
 - [Codepen](http://codepen.io/)
+

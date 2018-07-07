@@ -5,6 +5,8 @@ that aim to guide students to participate confidently in the digital world.
 
 You may take our digital literacy [self-assessment](digital-literacy-skills-checklist.pdf).
 
+* [Sample Digital Literacy Exercises](sample-exercises.md)
+
 ## 1. Computer Basics
 
 * What is a computer?
