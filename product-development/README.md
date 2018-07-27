@@ -147,9 +147,9 @@ Beware of scope creep! When in doubt, ask yourself: **"Is this a Minimum Viable 
 
 ### [Example] Product: SnapKlean by Aisha
 
-<img src="images/cc18s-snap0.png" width="300">
-<img src="images/cc18s-snap1.png" width="300">
-<img src="images/cc18s-snap2.png" width="300">
+<img src="images/cc18s-snap0.png" width="300" style="display:inline">
+<img src="images/cc18s-snap1.png" width="300" style="display:inline">
+<img src="images/cc18s-snap2.png" width="300" style="display:inline">
 
 ![aisha](images/cc18s-aisha.png)
 
