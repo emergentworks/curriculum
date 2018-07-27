@@ -115,3 +115,6 @@ heavily discourage this.
 
 Beware of scope creep! When in doubt, ask yourself: **"Is this a Minimum Viable Product feature?"**
 
+## 5. Start Coding!
+
+![coding](https://i.gifer.com/7Sv8.gif)
