@@ -28,7 +28,7 @@ Once you have chosen a problem, you should be able to answer the following quest
 * What do they need to solve the problem and why?
 * Why is this problem important to you?
 
-## Example Problem Research
+### [Example] Problem Research
 
 ![problem](images/cc18s-problem.png)
 
@@ -56,11 +56,11 @@ Once you are done brainstorming, choose a solution that:
 You should be able to clearly describe your solution with
 a sentence that starts with **"A website that..."**.
 
-## Example Solution Brainstorm
+### [Example] Solution Brainstorm
 
 ![solution](images/cc18s-solution.png)
 
-## Example Solution
+### [Example] Solution Definition
 
 ![solution](images/cc18s-solution2.png)
 
@@ -95,7 +95,7 @@ The scope of our MVP will be defined by:
 
 [WATCH: How to wireframe](https://www.youtube.com/watch?v=PmmQjLqJQlY)
 
-### Example MVP
+### [Example] MVP
 
 ![mvp](images/cc18s-mvp-features.png)
 
@@ -128,7 +128,7 @@ weeks. Start with what is most important (HTML, must-have content, core function
 
 Keep track of your weekly goals your [Team Progress Tracking document](https://docs.google.com/document/d/1cO_27t2KBDFA3bzAn-YGNKSsk9_1L3XDVLHDAg7jn4c/edit).
 
-### Example Weekly Goals
+### [Example] Weekly Goals
 
 ![weekly goals](images/cc18s-weekly-goals.png)
 
@@ -145,10 +145,12 @@ Beware of scope creep! When in doubt, ask yourself: **"Is this a Minimum Viable 
 
 ![coding](https://i.gifer.com/7Sv8.gif)
 
-### Example product: SnapKlean by Aisha
+### [Example] Product: SnapKlean by Aisha
 
-![weekly goals](images/cc18s-product.png)
+![product](images/cc18s-snap0.png)
+![product](images/cc18s-snap1.png)
+![product](images/cc18s-snap2.png)
 
-![weekly goals](images/cc18s-aisha.png)
+![aisha](images/cc18s-aisha.png)
 
 Check it out at http://snapklean.codeforward.tech
