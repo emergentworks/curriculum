@@ -46,7 +46,7 @@ Once you are done brainstorming, choose a solution that:
 * You feel passionately about
 
 You should be able to clearly describe your solution with
-a sentence that starts with "A website that...".
+a sentence that starts with **"A website that..."**.
 
 ## 3. Minimum Viable Product (What?)
 
@@ -81,7 +81,7 @@ The scope of our MVP will be defined by:
 
 ## 4. Project Planning (How?)
 
-Once we have set the scope of our MVP (ie. What?), we can start planning how we will build our project (ie. How?).
+Once we have set the scope of our MVP, we can start planning how we will build our project.
 
 ### Write a Tech Spec
 
@@ -93,7 +93,7 @@ Your tech spec should answer the following questions:
 * List all the files you will need to create.
 * What are some challenges you anticipate running into?
 * Is there any complex logic? Plan it out with pseudocode or diagrams.
-* How long do you think it will take to build each page/component?
+* How long do you think it will take to build each page/feature?
 * Do you have any questions about how to start?
 
 ### Set Weekly Goals
@@ -113,5 +113,5 @@ project after we have started building it. There may
 be some good reasons to add to our MVP, but in general, we
 heavily discourage this.
 
-Beware of scope creep! When in doubt, ask yourself: "Is this a Minimum Viable Product component?"
+Beware of scope creep! When in doubt, ask yourself: **"Is this a Minimum Viable Product feature?"**
 
