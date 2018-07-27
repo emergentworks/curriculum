@@ -12,14 +12,14 @@ The first step to building your project is to **start
 with the problem**. Pick a problem that you have identified and
 make sure you understand it.
 
-Ways to understand the problem:
+There are a few ways to understand a problem:
 * Observe it
 * Talk with the users experiencing it
 * Find market research about it
 
-Become an expert on the problem!
+**You should try to become an expert on the problem!**
 
-You should be able to answer the following questions:
+Once you have chosen a problem, you should be able to answer the following questions:
 * What is the problem you are trying to solve?
 * Why is this problem happening?
 * Who does this problem affect?
@@ -28,12 +28,20 @@ You should be able to answer the following questions:
 
 ## 2. The Solution
 
-Brainstorm multiple solutions
-Come up with at least 10 ideas
+Once we have identified a problem we want to solve, we
+can ideate a solution.
+
+### Brainstorm solutions
+
+Your first idea may is not always the best one so brainstorm
+multiple solutions with the help of others. Try coming up
+with at least 5 ideas.
 
 TODO Link to brainstorming video
 
-Choose a solution that:
+### Define the solution
+
+Once you are done brainstorming, choose a solution that:
 * You believe will address the problem
 * You can build in a reasonable amount of time
 * You feel passionately about
@@ -60,7 +68,7 @@ The scope of our MVP will be defined by:
   * eg. Home page, about page,...
 * Wireframes for each page (and optionally user flows)
 
-### Setting the scope of your MVP
+### Set the scope of your MVP
 
 * Create a list of features for your website
   * On this website, the user will be able to...
