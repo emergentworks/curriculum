@@ -1,10 +1,12 @@
 # Product Development
 
-Code Cooperative students build technology solutions to
-the problems that affect them and their communities.
+*Code Cooperative students build technology solutions to
+the problems that affect them and their communities.*
 
-**Your product:** A website that addresses a problem you have
-identified in your community.
+This document outlines a recommended approach to developing your final project, aka. your product.
+
+**Your final project: A website that addresses a problem you have
+identified in your community.**
 
 ## 1. The Problem (Why?)
 
