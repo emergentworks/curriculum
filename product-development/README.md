@@ -28,6 +28,12 @@ Once you have chosen a problem, you should be able to answer the following quest
 * What do they need to solve the problem and why?
 * Why is this problem important to you?
 
+## Example Problem Research
+
+![problem](images/cc18s-problem)
+
+![problem](images/cc18s-problem2)
+
 ## 2. The Solution (What?)
 
 Once we have identified a problem we want to solve, we
@@ -49,6 +55,12 @@ Once you are done brainstorming, choose a solution that:
 
 You should be able to clearly describe your solution with
 a sentence that starts with **"A website that..."**.
+
+## Example Solution
+
+![solution](images/cc18s-solution)
+
+![solution](images/cc18s-solution2)
 
 ## 3. Minimum Viable Product (What?)
 
@@ -81,6 +93,12 @@ The scope of our MVP will be defined by:
 
 [WATCH: How to wireframe](https://www.youtube.com/watch?v=PmmQjLqJQlY)
 
+### Example MVP
+
+![mvp](images/cc18s-mvp)
+
+![mvp](images/cc18s-wireframes)
+
 ## 4. Project Planning (How?)
 
 Once we have set the scope of our MVP, we can start planning how we will build our project.
@@ -108,6 +126,10 @@ weeks. Start with what is most important (HTML, must-have content, core function
 
 Keep track of your weekly goals your [Team Progress Tracking document](https://docs.google.com/document/d/1cO_27t2KBDFA3bzAn-YGNKSsk9_1L3XDVLHDAg7jn4c/edit).
 
+### Example Weekly Goals
+
+![weekly goals](images/cc18s-weekly-goals)
+
 ### Beware of Scope Creep
 
 Scope creep is what happens when we add to the scope of our
@@ -120,3 +142,11 @@ Beware of scope creep! When in doubt, ask yourself: **"Is this a Minimum Viable 
 ## 5. Start Coding!
 
 ![coding](https://i.gifer.com/7Sv8.gif)
+
+### Example product: SnapKlean by Aisha
+
+![weekly goals](images/cc18s-product)
+
+![weekly goals](images/cc18s-aisha)
+
+Check it out at http://snapklean.codeforward.tech
