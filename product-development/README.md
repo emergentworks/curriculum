@@ -56,9 +56,11 @@ Once you are done brainstorming, choose a solution that:
 You should be able to clearly describe your solution with
 a sentence that starts with **"A website that..."**.
 
-## Example Solution
+## Example Solution Brainstorm
 
 ![solution](images/cc18s-solution.png)
+
+## Example Solution
 
 ![solution](images/cc18s-solution2.png)
 
@@ -95,7 +97,7 @@ The scope of our MVP will be defined by:
 
 ### Example MVP
 
-![mvp](images/cc18s-mvp.png)
+![mvp](images/cc18s-mvp-features.png)
 
 ![mvp](images/cc18s-wireframes.png)
 
