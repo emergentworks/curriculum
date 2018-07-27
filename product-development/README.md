@@ -3,9 +3,9 @@
 *Code Cooperative students build technology solutions to
 the problems that affect them and their communities.*
 
-This document outlines a recommended approach to developing your final project, aka. your product.
+This document outlines a recommended approach to developing your class project, aka. your product.
 
-**Your final project: A website that addresses a problem you have
+**Your class project: A website that addresses a problem you have
 identified in your community.**
 
 ## 1. The Problem (Why?)
