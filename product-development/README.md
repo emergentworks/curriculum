@@ -3,10 +3,10 @@
 Code Cooperative students build technology solutions to
 the problems that affect them and their communities.
 
-The product: A website that addresses a problem you have
+**Your product:** A website that addresses a problem you have
 identified in your community.
 
-## 1. The Problem
+## 1. The Problem (Why?)
 
 The first step to building your project is to **start
 with the problem**. Pick a problem that you have identified and
@@ -26,16 +26,15 @@ Once you have chosen a problem, you should be able to answer the following quest
 * What do they need to solve the problem and why?
 * Why is this problem important to you?
 
-## 2. The Solution
+## 2. The Solution (What?)
 
 Once we have identified a problem we want to solve, we
 can ideate a solution.
 
 ### Brainstorm solutions
 
-Your first idea may is not always the best one so brainstorm
-multiple solutions with the help of others. Try coming up
-with at least 5 ideas.
+Your first idea may is not always the best one! Take some time to brainstorm multiple solutions. You can ask others for help!
+Try coming up with **at least 5 ideas**.
 
 TODO Link to brainstorming video
 
@@ -49,13 +48,12 @@ Once you are done brainstorming, choose a solution that:
 You should be able to clearly describe your solution with
 a sentence that starts with "A website that...".
 
-## 3. Minimum Viable Product
+## 3. Minimum Viable Product (What?)
 
 A **Minimum Viable Product (or MVP)** is a product with just
-enough features to get the job done and test with users so that
-improvements can be made later.
+enough functionality to get the job done and test with users. Improvements can be made later.
 
-One of the most important principles in building technology
+We start with an MVP because one of the most important principles in building technology
 is to **launch fast and iterate**.
 
 In order to get our product out to users as quickly as possible,
@@ -81,11 +79,11 @@ The scope of our MVP will be defined by:
 
 [WATCH: How to wireframe](https://www.youtube.com/watch?v=PmmQjLqJQlY)
 
-## 4. Project Planning
+## 4. Project Planning (How?)
 
-Once we have set the scope of our MVP (what?), we can start planning how we will build our project (how?).
+Once we have set the scope of our MVP (ie. What?), we can start planning how we will build our project (ie. How?).
 
-### Tech spec
+### Write a Tech Spec
 
 A **tech spec** is a document that helps you plan out your code
 before you start coding. It details the approach you will take to building your project.
@@ -98,7 +96,7 @@ Your tech spec should answer the following questions:
 * How long do you think it will take to build each page/component?
 * Do you have any questions about how to start?
 
-### Weekly goals
+### Set Weekly Goals
 
 Setting and keeping track of goals is the best way to finish
 a project in time.
@@ -108,7 +106,7 @@ weeks. Start with what is most important (HTML, must-have content, core function
 
 Keep track of your weekly goals your [Team Progress Tracking document](https://docs.google.com/document/d/1cO_27t2KBDFA3bzAn-YGNKSsk9_1L3XDVLHDAg7jn4c/edit).
 
-### Scope Creep
+### Beware of Scope Creep
 
 Scope creep is what happens when we add to the scope of our
 project after we have started building it. There may
