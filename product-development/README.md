@@ -5,8 +5,8 @@ the problems that affect them and their communities.*
 
 This document outlines a recommended approach to developing your class project, aka. your product.
 
-**Your class project: A website that addresses a problem you have
-identified in your community.**
+_**Your class project: A website that addresses a problem you
+have identified in your community.**_
 
 ## 1. The Problem (Why?)
 
