@@ -30,9 +30,9 @@ Once you have chosen a problem, you should be able to answer the following quest
 
 ## Example Problem Research
 
-![problem](images/cc18s-problem)
+![problem](images/cc18s-problem.png)
 
-![problem](images/cc18s-problem2)
+![problem](images/cc18s-problem2.png)
 
 ## 2. The Solution (What?)
 
@@ -58,9 +58,9 @@ a sentence that starts with **"A website that..."**.
 
 ## Example Solution
 
-![solution](images/cc18s-solution)
+![solution](images/cc18s-solution.png)
 
-![solution](images/cc18s-solution2)
+![solution](images/cc18s-solution2.png)
 
 ## 3. Minimum Viable Product (What?)
 
@@ -95,9 +95,9 @@ The scope of our MVP will be defined by:
 
 ### Example MVP
 
-![mvp](images/cc18s-mvp)
+![mvp](images/cc18s-mvp.png)
 
-![mvp](images/cc18s-wireframes)
+![mvp](images/cc18s-wireframes.png)
 
 ## 4. Project Planning (How?)
 
@@ -128,7 +128,7 @@ Keep track of your weekly goals your [Team Progress Tracking document](https://d
 
 ### Example Weekly Goals
 
-![weekly goals](images/cc18s-weekly-goals)
+![weekly goals](images/cc18s-weekly-goals.png)
 
 ### Beware of Scope Creep
 
@@ -145,8 +145,8 @@ Beware of scope creep! When in doubt, ask yourself: **"Is this a Minimum Viable 
 
 ### Example product: SnapKlean by Aisha
 
-![weekly goals](images/cc18s-product)
+![weekly goals](images/cc18s-product.png)
 
-![weekly goals](images/cc18s-aisha)
+![weekly goals](images/cc18s-aisha.png)
 
 Check it out at http://snapklean.codeforward.tech
