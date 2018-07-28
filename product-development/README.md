@@ -44,8 +44,6 @@ can ideate a solution.
 Your first idea may is not always the best one! Take some time to brainstorm multiple solutions. You can ask others for help!
 Try coming up with **at least 5 ideas**.
 
-TODO Link to brainstorming video
-
 ### Define the solution
 
 Once you are done brainstorming, choose a solution that:
