@@ -1,6 +1,8 @@
 # JavaScript, HTML, CSS
   * [Hack Club](https://hackclub.com/workshops/)
     - p5, React, Next.js, Arduino, Misc
+  * [The Coding Train](https://thecodingtrain.com)
+    - Awesome video tutorials to learn JavaScript w/ p5
  
  # Git/Version Control
   * [MadLibs activity](https://github.com/yale-mgt-656-fall-2018/client-side-madlibs)
