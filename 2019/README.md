@@ -1,8 +1,6 @@
 # JavaScript, HTML, CSS
   * [Hack Club](https://hackclub.com/workshops/)
     - p5, React, Next.js, Arduino, Misc
-  * CSS Grid
-
  
  # Git/Version Control
   * [MadLibs activity](https://github.com/yale-mgt-656-fall-2018/client-side-madlibs)
