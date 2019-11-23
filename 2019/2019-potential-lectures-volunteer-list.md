@@ -10,3 +10,8 @@
 - Fundamental programming concepts (variables, conditionals, loops) - Elana
 - Freelance web design with Gatsby & Github - Mark
 - Tech industry/job-hunting/interview tips and terminology - Daniel
+
+
+# Potential breakaway lectures
+
+- JavaScript quirks and unintuitive behavior
