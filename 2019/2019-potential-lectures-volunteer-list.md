@@ -6,4 +6,6 @@
 - Persisting data, databases - Christina
 - Making games with Scratch - Christina
 - Cybersecurity - Francis
+    - <https://www.are.na/charles-broskoski/privacy-cybersecurity-at-47-canal>
+    - <https://frnsys.com/talks/cryptoparty/#0>
 - Machine Learning - Francis
