@@ -5,3 +5,5 @@
 - Accessibility - Christina
 - Persisting data, databases - Christina
 - Making games with Scratch - Christina
+- Cybersecurity - Francis
+- Machine Learning - Francis
