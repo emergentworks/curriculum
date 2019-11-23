@@ -9,3 +9,4 @@
 - Github - Mark
 - JavaScript deep dive - Elana
 - Freelance web design with Gatsby & Github - Mark
+- Tech industry/job-hunting/interview tips and terminology - Daniel
