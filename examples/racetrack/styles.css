@@ -1,0 +1,13 @@
+body {
+  background: url("assets/road.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 100vh;
+}
+
+#car {
+  position: fixed;
+  width: 20px;
+  top: 100%;
+  left: 70%;
+}
