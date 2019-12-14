@@ -5,6 +5,10 @@
 - Accessibility - Christina
 - Persisting data, databases - Christina
 - ~Making games with Scratch - Christina~ (Malik gave this amazing talk!)
+- Cybersecurity - Francis
+    - <https://www.are.na/charles-broskoski/privacy-cybersecurity-at-47-canal>
+    - <https://frnsys.com/talks/cryptoparty/#0>
+- Machine Learning - Francis
 - Terminal - Mark
 - Github - Mark
 - Fundamental programming concepts (variables, conditionals, loops) - Elana
