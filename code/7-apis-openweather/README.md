@@ -5,7 +5,7 @@
 
 Uses two APIs:
 
-[IP Address API](https://ipinfo.io
+[IP Address API](https://ipinfo.io)
 
 Gets location for an IP Address. You can [sign up](https://ipinfo.io/signup) to get an API key.
 [What's an IP Address?](https://www.dailydot.com/debug/what-is-an-ip-address/)
