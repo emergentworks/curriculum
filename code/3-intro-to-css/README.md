@@ -15,7 +15,7 @@
 
 CSS stands for Cascading Style Sheets, which is a language for styling elements on a web page or app. In CSS, we write rule sets for setting the style of an element, starting with a "selector" which describes what element we want to style. For each selector we list one or more "declarations" which have a property and a value. The following is the syntax:
 
-```
+```css
 selector {
   property: value;
   another-property: another-value;
@@ -24,7 +24,7 @@ selector {
 
 Let's use our app HTML as an example. Let's say we want our body element (our whole page) to have a different background color than the default white that our browsers typically set:
 
-```
+```css
 body {
   background-color: magenta;
 }
@@ -32,7 +32,7 @@ body {
 
 In this case, we are selecting all `<body>` elements and setting the `background-color` property to "magenta". We can add more style to the body by adding more rules to this ruleås set:
 
-```
+```css
 body {
   background-color: magenta;
   font-family: 'Georgia', 'Times New Roman', serif;
@@ -43,7 +43,7 @@ The added declaration above sets the font to "Georgia" followed by some fall-bac
 
 Like with most languages, there is syntax for leaving comments in CSS. The following comment doesn't change the style, but it gives info to you and others viewing the source, making the code more readable and maintainable.
 
-```
+```css
 /* the following css changes font size. "em" is a
     unit that means multiple of the current font size -
     so 2em is 2x the set font size. browsers tend
@@ -56,13 +56,13 @@ body {
 
 There are many kinds of selectors besides HTML element tags. You can also select elements of a certain id or class (remember id and class are attribute options for HTML elements. In this app, we only want the body element to be centered on the index page, so I added an id attribute to the body tag in index.html:
 
-```
+```html
 <body id="index">
 ```
 
 Now I can select that element so my code only affects the body element with that id:
 
-```
+```css
 #index {
   text-align: center;
 }
@@ -74,13 +74,13 @@ There are so many ways you can style your elements in CSS, that the best way to 
 
 Having your CSS in a .css file allows you to maintain a clean separation of languages between CSS and HTML. But you have to tell the app to use that file, so some HTML is required. Between the `<head></head>` tags we have to tell the browser to import our file like so:
 
-```
+```html
 <link rel="stylesheet" href="style.css" />
 ```
 
 Every html page that you have the code in will import the CSS from that file. You can also write CSS in HTML by putting it within `<style></style>` tags in the `<head></head>` tags instead:
 
-```
+```html
 <style>
   /* make the text inside all paragraphs orange */
   p {

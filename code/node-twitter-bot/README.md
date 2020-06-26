@@ -24,7 +24,7 @@ A [GitHub](github.org) account is a very good idea so you can store and show off
 
 We are writing our bot in [Node](nodejs.org), which is a runtime for JavaScript. We will be doing version tracking with Git. We need to initialize our new application by making an empty directory, making an empty Git repository, and then using `npm` (the Node package manager) to start a new blank app.
 
-```
+```bash
 mkdir my-first-node-app
 cd my-first-node-app
 git init
@@ -95,7 +95,7 @@ Randomness in JavaScript is a little tricky: there isn't a built-in function tha
 
 To install Lodash, on the terminal command line, we do:
 
-```
+```bash
 npm install --save lodash
 ```
 
@@ -123,7 +123,7 @@ console.log(generate());
 
 Then, we can run `node generate.js` from the terminal command line:
 
-```
+```bash
 $ node generate.js
 Burnt Oyster Pies Vehicle
 $ node generate.js
@@ -199,7 +199,7 @@ While we could write the application that controls our bot in vanilla Node, we'r
 
 To save Express and Twitter as dependencies in our bot, we run:
 
-```
+```bash
 npm install --save express twitter
 ```
 
@@ -241,7 +241,7 @@ Finally, we tell our app to listen for connections on the port we defined earlie
 
 Let's run this file and test it out. In our terminal, we execute this file with the `node` command:
 
-```
+```bash
 node server.js
 ```
 

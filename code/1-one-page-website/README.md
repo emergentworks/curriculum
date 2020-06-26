@@ -34,19 +34,19 @@ HTML stands for HyperText Markup Language. It is a language for adding content t
 
 The first thing you usually see in an HTML document is the "doctype":
 
-```
+```html
 <!DOCTYPE html>
 ```
 
 The doctype is a peculiar looking line that tells the browser that the code that comes after is HTML. Almost as peculiar is that the next thing you'll typically see is this:
 
-```
+```html
 <html>
 ```
 
 HTML uses tags for sandwiching content, and we call them *elements*. For example, here is a paragraph element:
 
-```
+```html
 <p>This is a paragraph!</p>
 ```
 
@@ -54,7 +54,7 @@ The content starts with a `<p>` tag and ends with a `</p>` tag, so the browser k
 
 Within an HTML document, there is a "head" and "body" - the head holds info for the browser, the body holds the content that people looking at our site can see. This app and many you'll encounter are structured like this:
 
-```
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -71,7 +71,7 @@ Within an HTML document, there is a "head" and "body" - the head holds info for 
 
 White space doesn't matter in HTML beyond a single space between words in the content. The above example renders the same as the following, which has more whitespace:
 
-```
+```html
 <p>
   This is a paragraph!
 </p>
@@ -81,7 +81,7 @@ Depending on your preferences, you may want more or less whitespace. Whatever he
 
 Another way to make your code readable and maintainable is with comments:
 
-```
+```html
 <!-- this is a comment that you can only
       see in the source code -->
 <h1>This is a heading!</h1>
@@ -91,19 +91,19 @@ In the above snippet of code, there is a comment above an element. Anyone going 
 
 Some elements don't have an ending tag and are *self-closing*, like for line breaks:
 
-```
+```html
 <br />
 ```
 
 And there are some elements that need to give the browser more info to render them, and we give that info in the form of *attributes*. Attributes have a name and value:
 
-```
+```html
 <p id="introduction">This is a paragraph!</p>
 ```
 
 The attribute above is called `id` and the value is `introduction`. We use attributes like `id` and `class` to select them in other languages like CSS and JavaScript. Some attributes are required for HTML, like in images:
 
-```
+```html
 <img src="example.png" alt="my example image" />
 ```
 
@@ -111,7 +111,7 @@ The above image element requires two attributes: `src` needs the source URL of t
 
 The true power of the Web is the ability to link to other pages. In order to make text become a link, we wrap that text in an `a` or "anchor" tag and give the url as an `href` attribute:
 
-```
+```html
 <a href="resolution.html">information about my new year's resolution</a>
 ```
 

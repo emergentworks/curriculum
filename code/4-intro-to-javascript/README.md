@@ -31,7 +31,7 @@ JavaScript (or JS) is a programming language that allows you to do more complex 
 
 Much like CSS, you can write JavaScript inline in your HTML, except you use the `<script>` tag:
 
-```
+```html
 <script>
   window.onload = function() {
     alert('hello from code cooperative!');
@@ -41,13 +41,13 @@ Much like CSS, you can write JavaScript inline in your HTML, except you use the 
 
 ...or if you put all the stuff between the `<script>` tag inside a separate file with the .js extension, you can import it into the html with the same tag but no content inside and with an `src` attribute whose value is the url of the JavaScript file you want to import:
 
-```
+```html
 <script src="example.js"></script>
 ```
 
 Let's take a look at the first example, because a lot of powerful stuff is happening. In JavaScript, you'll work a lot of with events - things that happen. Some events include the user clicking, moving their mouse, and even just the window loading. Once your browser's window loads, you may want to start your JavaScript, which is why we start with this syntax:
 
-```
+```js
 window.onload = function() {
   alert('hello from code cooperative!');
 };
@@ -57,7 +57,7 @@ This means that when the window loads, we run a function - and that function con
 
 JavaScript, like HTML and CSS, have comment syntax for allowing you to document your code inline, for better readability and maintainability:
 
-```
+```js
 /* here is a multi-line comment
     which is just like the CSS comment syntax */
 
@@ -75,7 +75,7 @@ In our app, we want to get the date, format it and update our site to show it. L
 
 If you want to assign something in JavaScript, you use the `=` sign. We did this in the above example, assigning our function to the window onload event. We assign things to variable names too so we can use them later on. It's a good idea to name your variables something meaningful so your code is easy to read. Also, it's good to remember that JavaScript is case sensitive. In this app, we have an assignment:
 
-```
+```js
 const date = new Date();
 ```
 
@@ -83,7 +83,7 @@ In here, we created a variable called `date` and we assigned it a new `Date` obj
 
 For example, we want the month. Unfortunately we don't have a nice function that tells us the month is "January." We need to get whatever info the Date object can give us and figure it out ourselves. JavaScript can be very frustrating, but these challenges are what help us practice and learn!
 
-```
+```js
 // getMonth() returns the index of a month, integers 0 - 11
 const monthIndex = date.getMonth();
 ```
@@ -92,13 +92,13 @@ Take a look [in the app.js source code](app.js) to see how we use an `array` to 
 
 One of the most powerful parts of using JavaScript is the ability to update your web page after it's loaded. Most of the websites and apps you use everyday does this with JavaScript. In our app, we want to update the element in `index.html` that has the id of "date" so that it's HTML is our newly formatted date. Here is how you get an HTML element by its id in JavaScript (we're gonna assign it to a variable:
 
-```
+```js
 const dateElement = document.getElementById('date');
 ```
 
 And once we have that element, we can set the content inside of it by setting its `innerHTML` property:
 
-```
+```js
 // assume dateString was a variable assigned a formatted date
 dateElement.innerHTML = dateString;
 ```
