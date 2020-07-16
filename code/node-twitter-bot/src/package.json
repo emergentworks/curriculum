@@ -10,7 +10,7 @@
   "license": "MIT",
   "dependencies": {
     "express": "^4.13.3",
-    "lodash": "^3.10.1",
+    "lodash": "^4.17.19",
     "twitter": "^1.2.5"
   }
 }
