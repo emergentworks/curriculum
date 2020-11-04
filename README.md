@@ -1,21 +1,24 @@
-# Code Cooperative Curriculum
+# Emergent Works Curriculum
 
 ## Description
 
-The Code Cooperative curriculum is **a guide** that supports our mentors and students in their learning goals & development of their project.
+The Emergent Works curriculum is **a guide** that supports our mentors and students in their learning goals & development of their project.
 
 Each student has different learning goals and each project is different so this curriculum is a resource that doesn’t aim to cover everything but rather serves as a jumping off point and something for our members to come back to when they need help.
 
+Some mentorship pairs may be ready immediately to begin planning a final project, others may not advance that far through the program – you can use your first session to find out where in the curriculum to start.
+
 ## Learning with this curriculum
 
-The best way to work with this curriculum is to go through the following sections in order. Pay attention to the prerequisites for each section.
+The best way to work with this curriculum is to go through the following sections in order. As you advance through the curriculum, you will gain the skills needed to build a final project. The first section is intended to give inspiration around what that project could be.
 
-Section | Description | Prerequisite knowledge
----|---|---
-[1. Project Showcase](project-showcase) | Examples projects to serve as inspiration for students | None
-[2. Digital Literacy](digital-literacy) | Digital literacy guide | None
-[3. Code](code) | Project based web development curriculum | Typing, navigating your computer's file system, using Google to search for information, navigating websites
-[4. Product Development](product-development) | Guide to help our students develop their final project | Building a simple website (HTML, CSS)
+| Section                                       | Description                                            | Prerequisite knowledge                                                                                      |
+| --------------------------------------------- | ------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------- |
+| [1. Inspiration](project-showcase)       | Examples projects to serve as inspiration for students | None                                                                                                        |
+| [2. Digital Literacy](digital-literacy)       | Digital literacy guide                                 | None                                                                                                        |
+| [3. Learning to Code](code)                               | Project based web development curriculum               | Typing, navigating your computer's file system, using Google to search for information, navigating websites |
+| [4. Product Development](product-development) | Guide to help our students develop their final project | Building a simple website (HTML, CSS) ||  Product Development](product-development) | Guide to help our students develop their final project | Building a simple website (HTML, CSS) ] |
+[5. Open Source (optional)](https://github.com/emergentworks/project-not-911)                               | Contribute to an Emergent Works mobile app by working on open issues| JS and basic React (or a willingness to learn by doing) |
 
 ## Guidelines for Contribution
 
