@@ -1,6 +1,6 @@
 # Product Development
 
-*Code Cooperative students build technology solutions to
+*Emergent Works students build technology solutions to
 the problems that affect them and their communities.*
 
 This document outlines a recommended approach to developing your class project, aka. your product.
