@@ -51,7 +51,6 @@ At some point students should download a text editor like Sublime or Atom but yo
 - [Just make websites](https://github.com/melanierichards/just-build-websites/blob/master/README.md)
 - [Front end Libraries Projects](https://learn.freecodecamp.org/front-end-libraries/front-end-libraries-projects/)
 - [Project Ideas](https://github.com/karan/Projects#web)
-- [Design Challenge](https://designchallenge.xyz/)
 - [Glitch](https://glitch.com/)
 - [Codepen](http://codepen.io/)
 
