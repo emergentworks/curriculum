@@ -18,7 +18,9 @@ The best way to work with this curriculum is to go through the following section
 | [2. Digital Literacy](digital-literacy)       | Digital literacy guide                                 | None                                                                                                        |
 | [3. Learning to Code](code)                               | Project based web development curriculum               | Typing, navigating your computer's file system, using Google to search for information, navigating websites |
 | [4. Product Development](product-development) | Guide to help our students develop their final project | Building a simple website (HTML, CSS) ||  Product Development](product-development) | Guide to help our students develop their final project | Building a simple website (HTML, CSS) ] |
-[5. Open Source (optional)](https://github.com/emergentworks/project-not-911)                               | Contribute to an Emergent Works mobile app by working on open issues| JS and basic React (or a willingness to learn by doing) |
+[5. Open Source (optional)](https://github.com/emergentworks/project-not-911)                               | Contribute to an Emergent Works mobile app by working on open issues| Sections 3-4 and basic React (or a willingness to learn by doing) |
+[6. Interviewing](interviews)                               | Data structure and algorithm knowledge necessary for interviews at bootcamps or jobs | Section 3 |
+[7. Other Technical Skills](other)                               | Broader technical skills like managing HTTP requests/responses, domains and IP addresses work, databases, etc...| Sections 1-4 |
 
 ## Guidelines for Contribution
 
