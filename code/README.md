@@ -2,7 +2,15 @@ We decided to go with project based learning. In each folder is a "complete" (se
 
 At some point students should download a text editor like Sublime or Atom but you can choose to use an online text editor in the beginning.
 
-* [Sample Coding Exercises](sample-exercises.md)
+## General Resources
+
+- [interneting is hard](https://internetingishard.com/)
+- [ScriptEd Foundations, has practice games and interactive examples](https://github.com/ScriptEdcurriculum/curriculum17-18/wiki/1.-Foundations#foundations-course-resources)
+- [Khan Academy HTML + CSS](https://www.khanacademy.org/computing/computer-programming/html-css)
+- [Codeacademy HTML + CSS](https://www.codecademy.com/en/tracks/web)
+- [Programming with Text](http://thecodingtrain.com/Courses/programming-with-text/)
+- [Free Programming Books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md)
+- [Sample Coding Exercises](sample-exercises.md)
 
 # Part 1: HTML + CSS + JAVASCRIPT
 
@@ -35,16 +43,6 @@ At some point students should download a text editor like Sublime or Atom but yo
 - [intro-to-nodejs](intro-to-nodejs)
 
 - [node-twitter-bot](node-twitter-bot)
-
-
-## General Resources
-
-- [interneting is hard](https://internetingishard.com/)
-- [ScriptEd Foundations, has practice games and interactive examples](https://github.com/ScriptEdcurriculum/curriculum17-18/wiki/1.-Foundations#foundations-course-resources)
-- [Khan Academy HTML + CSS](https://www.khanacademy.org/computing/computer-programming/html-css)
-- [Codeacademy HTML + CSS](https://www.codecademy.com/en/tracks/web)
-- [Programming with Text](http://thecodingtrain.com/Courses/programming-with-text/)
-- [Free Programming Books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md)
 
 ## Project ideas
 
