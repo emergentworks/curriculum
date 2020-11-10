@@ -6,6 +6,8 @@ At some point students should download a text editor like Sublime or Atom but yo
 
 # Part 1: HTML + CSS + JAVASCRIPT
 
+### Tip: Check these projects out on [Glitch](https://glitch.com/@emergent-works/part-1-html-css-html). You can duplicate a project by [_remixing_](https://glitch.happyfox.com/kb/article/23-what%E2%80%99s-remixing/) it and making edits of your own.
+
 - [1-one-page-website](1-one-page-website)
 
 - [2-multi-page-website](2-multi-page-website)
