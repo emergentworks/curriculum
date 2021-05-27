@@ -19,6 +19,11 @@ Each milestone has dedicated resources for both mentors and mentees. Navigate th
 ### [🖼 HTML & CSS 🖼](html-css/README.md)
 ### [⚙️ Javascript ⚙️](javascript/README.md)
 
+
+To access any resources from previous years, check the [legacy folder](legacy).
+
+***
+
 ## Guidelines for Contribution
 
 See our Guidelines for Contribution [here](CONTRIBUTING.md).
