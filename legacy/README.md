@@ -14,8 +14,8 @@ The best way to work with this curriculum is to go through the following section
 
 | Section                                       | Description                                            | Prerequisite knowledge                                                                                      |
 | --------------------------------------------- | ------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------- |
-| [1. Inspiration](project-showcase)       | Examples projects to serve as inspiration for students | None                                                                                                        |
-| [2. Digital Literacy](digital-literacy)       | Digital literacy guide                                 | None                                                                                                        |
+| [1. Inspiration](project-showcase/README.md))       | Examples projects to serve as inspiration for students | None                                                                                                        |
+| [2. Digital Literacy](2019/digital-literacy/README.md)       | Digital literacy guide                                 | None                                                                                                        |
 | [3. Learning to Code](code)                               | Project based web development curriculum               | Typing, navigating your computer's file system, using Google to search for information, navigating websites |
 | [4. Product Development](product-development) | Guide to help our students develop their final project | Building a simple website (HTML, CSS) ||  Product Development](product-development) | Guide to help our students develop their final project | Building a simple website (HTML, CSS) ] |
 [5. Open Source (optional)](https://github.com/emergentworks/project-not-911)                               | Contribute to an Emergent Works mobile app by working on open issues| Sections 3-4 and basic React (or a willingness to learn by doing) |
@@ -24,7 +24,7 @@ The best way to work with this curriculum is to go through the following section
 
 ## Guidelines for Contribution
 
-See our Guidelines for Contribution [here](CONTRIBUTING.md).
+See our Guidelines for Contribution [here](../CONTRIBUTING.md).
 
 ## Code of Conduct
 
@@ -34,7 +34,7 @@ This code of conduct applies to all Emergent Works spaces, including our classes
 
 Some Emergent Works spaces may have additional rules in place, which will be made clearly available to participants. Participants are responsible for knowing and abiding by these rules.
 
-A longer version of our Code of Conduct exists [here](CODE_OF_CONDUCT.md).
+A longer version of our Code of Conduct exists [here](../CODE_OF_CONDUCT.md).
 
 ## Contributors
 
