@@ -18,6 +18,7 @@ Each milestone has dedicated resources for both mentors and mentees. Navigate th
 ### [📖 Digital Literacy 📖](digital-literacy/README.md)
 ### [🖼 HTML & CSS 🖼](html-css/README.md)
 ### [⚙️ Javascript ⚙️](javascript/README.md)
+### [👁 Glossary️ 👁](resources/glossary.md)
 
 
 To access any resources from previous years, check the [legacy folder](legacy).
@@ -40,7 +41,7 @@ A longer version of our Code of Conduct exists [here](CODE_OF_CONDUCT.md).
 
 ## Contributors
 
-This repository is maintained by [Omayeli Arenyeka](https://github.com/oa495) and [Alex Qin](https://github.com/noidontdig).
+This repository is maintained by the Emergent Works curriculum committee. This was originally created by [Omayeli Arenyeka](https://github.com/oa495) and [Alex Qin](https://github.com/noidontdig).
 
 ## License
 
