@@ -8,6 +8,10 @@ We have split this milestone into 3 objectives:
   - [Objective B: Understand how websites are rendered on a browser](#objective-b-understand-how-websites-are-rendered-on-a-browser)
   - [Objective C: Gain general coding habits](#objective-c-gain-general-coding-habits)
 
+Here are two activities to complete:
+  - [Personal Website](personal-website.md)
+  - [Git and Command Line](git-command-line.md)
+
 #### How to navigate these objectives?
 
 The 3 objectives should be treated as equally important to each other. We recommend tackling these objectives by working on one project (e.g. [personal website](personal-website.md)).
