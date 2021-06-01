@@ -49,23 +49,23 @@ An organized collection of structured information, or data. [source](https://www
 #### editor / code editor
 A software that used to write code. *If you use Microsoft Word to write a document, you use a code editor to write code.* [source](https://www.pcmag.com/encyclopedia/term/source-code-editor)
 
-#### terminal / command line
+#### terminal / command line interface (CLI)
 A text interface that allows you to interact with your computer. [source](https://www.codecademy.com/articles/command-line-commands)
 
-#### Pseudo code
+#### pseudo code
 A way of writing out an algorithm that's comprehensible to other humans. This usually means that pseudo code does not compile or follow rules of a programming langauge. However, it can ressemble a programming language. [source](https://www.geeksforgeeks.org/how-to-write-a-pseudo-code/)
 
-#### Foo / Bar
+#### foo / bar
 Words commonly used in example code when naming variables and other data. They carry no meaning other to be placeholders when a programmer is unable to come up with an example of a variable name. [source](https://kb.iu.edu/d/aetq)
 
-#### Binary
+#### binary
 Binary can refer to a base-2 system. Binary can also refer to a file of [machine code](#machine-code). [source](https://www.computerhope.com/jargon/b/binary.htm).
 
-#### Machine code
+#### machine code
 Instructions that are usually converted from code written in a programming language. Machine code usually looks like gibberish to the human eye. Ultimately, they execute electric flows in a computer's hardware to perform everything from restarting a computer to taking a photo on your phone. [source](https://icarus.cs.weber.edu/~dab/cs1410/textbook/1.Basics/machine.html)
 
-#### File extension
+#### file extension
+The ending of a file that helps identify the type of file on a computer. `.doc`, `.pdf`, `.html`, and `.css` are examples of a file extension. [source](https://www.computerhope.com/jargon/f/fileext.htm)
 
-#### CLI
-
-#### Local environment
+#### environment
+An enironment is the combination of software and hardware used for run a program. A local environment, also known as a developer environment refers to the computer you are writing code on. If you use an online editor or a virtual machine to run your program, that is considered a virtual environment. [source](https://skillcrush.com/blog/whats-a-local-development-environment/)
