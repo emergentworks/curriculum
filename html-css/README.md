@@ -48,16 +48,37 @@ Some things to be mindful of:
 * Nesting can be a hard concept to pick up as a beginner.
 
 #### Side-Quest: Website with only HTML
-TODO
 
+What does a website look like without any styling? What does HTML look like by itself? Follow a tutorial [here](https://css-tricks.com/that-time-i-tried-browsing-the-web-without-css/) to see what websites look like when you disable CSS through the browser.
 #### Side-Quest: Buggy Files
-TODO
+
+* Preparation: Create a HTML project or fork your mentee's project. Remove or move some parts of the HTML or CSS. This can be making the layout of the website "buggy" or changing some aspects of the site that would be easy to spot. You can iterate this a couple times.
+
+Give your mentee a link to the "working" site. With each iteration you have of the website, have your mentee spot the removed or moved code. See if they can fix the bug to restore it to the "working" version.
+
+An example of this activity can be found [here](https://glitch.com/@ashleychen/computer-vomits) where `cv-endgame` is the "working" site.
 
 #### Side-Quest: Adjust CSS in the Browser
-TODO
+
+While working on a project with CSS, try opening the browser inspector with your mentee. Figure out:
+* How can I add or change CSS fields using the inspector? What happens when I refresh the page? Does the CSS changes disappear?
+
+Go to a popular website like Google.com. Try changing some HTML or CSS on the browser. Can you figure out:
+* What font does Google use on their homepage?
+* Can you change the words "I'm feeling lucky" to "Gimme random search"?
+* Can you change the background color to yellow?
+* What sort of things are not adjustable with CSS? Can you adjust the logo image to another picture?
 
 #### Side Quest: Code Pen Exploration
-TODO
+
+CodePen.io is a great website to find what other people have done with web development code.
+
+1. Go to codepen.io and find a popular project (can be found under `trending`). For [example](https://codepen.io/argyleink/pen/poEjvpd)
+2. Explore how the site works. Are there three columns? What languages are used to create the project? What happens when you remove some CSS?
+3. Try copying and pasting a project that uses only HTML and CSS to your personal website. Usually, this results in the project beomcing buggy or unaligned on your website; Why is that?
+4. Are there parts of the code that were copied/pasted that are confusing or foreign?
+
+Spend some time looking for new CSS styles or a project that is interesting to you. Break down how the project is made and figure out what might be confusing or unknown to you. If possible, apply the new things you learned to your personal website.
 
 
 ## Objective B: Understand how websites are rendered on a browser
@@ -65,7 +86,15 @@ TODO
 Whether rendering a website on a phone or a computer, the process of accessing a public web address is very complex, and it's okay not to understand the entirety of it. This objective is meant to help the mentee get a better grasp on how the Internet works. This also serves as a *baby step* before learning about requests/reponses and status codes (which will be used in the Javascript milestone). Think of this as an advanced version of digital literacy.
 
 #### Side-Quest: Path to Local files
-TODO
+
+This side-quest teaches how to develop a website on your local environment.
+1. Create or open a `index.html` file. You can do this by using a text ediitor and saving a new file with that name.
+2. Add the line `Hello World` to the file.
+3. Either drag the file to your browser's icon or right-click on the file and click `open as` -> your browser. Tada! You can now render your `html` file!
+4. Don't close your browser window yet! Add some more text to the file like `This is my first file`. Save your file and go back to your browser. Refresh the page to see if the new text appear on the page. Some questions to ponder:
+  * What the URL or web address of this file?
+  * If I don't save the file after modifying it, will it show up on my browser when I refresh the page?
+  * What other files can my browser render? Image? Word/Excel document? mp3 file?
 
 #### Side-Quest: Files on a Browser
 
