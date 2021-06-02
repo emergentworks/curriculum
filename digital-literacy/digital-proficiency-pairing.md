@@ -1,10 +1,10 @@
 # Digital Proficiency Pairing
 
-This series of questions/exercises is intended to gauge a mentee’s digital literacy to identify additional areas for improvement and/or to gauge whether additional study in the digital literacy track would be helpful. Take notes on areas where the mentee is unsure of how to do things, and note the unit next to the question in case you’d like to return to the topic with your mentee (Key for unit abbreviations is below).
+This series of questions/exercises is intended to gauge a mentee’s digital literacy to identify additional areas for improvement and/or to gauge whether additional study in the digital literacy track would be helpful. Take notes on areas where the mentee is unsure of how to do things, and note the unit next to the question in case you’d like to return to the topic with your mentee (key for unit abbreviations is below).
 
 You can start off by asking the mentee if there were any areas that jumped out at them while they were taking the Digital Literacy Survey: were there any areas that were new to the mentee? Any topics that they would like to learn more about while in the program?
 
-**Key**
+**Key**<br>
 \*CB = Computer Basics<br>
 \*Int = The Internet<br>
 \*E = Email<br>
