@@ -8,6 +8,8 @@ You are not limited to these instructions. You are free to make as many pages or
 
 This project is made to take at least 4 weeks to complete. Explore different elements and styles in HTML and CSS. If the mentee feels comfortable with HTML and CSS, they are free to start including Javascript into their personal website.
 
+[Here](http://ashleybanana.github.io/) is an example of a completed personal website ([source code](https://github.com/ashleybanana/ashleybanana.github.io)).
+
 ## Part 1
 
 ### Objective
