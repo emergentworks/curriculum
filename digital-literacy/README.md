@@ -23,7 +23,7 @@ Each lesson plan has a list of topics that correspond with items covered in our 
 ### Suggested Weekly Schedule
 **Beginner Level:**
 - 2 units/week for 4 weeks
-- Computer Basics and The Internet should be covered first, but other units can be done in any order
+- Computer Basics and The Internet should be covered first, but other units can be done in any order<br>
 **Intermediate Level:** 
 - Focus on pain points identified in pairing assessment during the first two weeks of the programming curriculum 
 - Time spent on digital literacy can be split with the HTML/CSS topics (recommend about 30 minutes out of the 2 hour session)
