@@ -1,9 +1,9 @@
 # Digital Literacy
 
 ### Objectives
-*Overall Objective:* Mentees will achieve improved digital literacy and increase their knowledge around each subject area from the Digital Literacy Survey: computer basics, the internet, search, email, digital security, software applications for productivity and using mobile devices.
+**Overall Objective:** Mentees will achieve improved digital literacy and increase their knowledge around each subject area from the Digital Literacy Survey: computer basics, the internet, search, email, digital security, software applications for productivity and using mobile devices.
 
-*Secondary Objective:* Mentees will become more comfortable researching and learning about topics in digital literacy on their own.
+**Secondary Objective:** Mentees will become more comfortable researching and learning about topics in digital literacy on their own.
 
 ### How to use this curriculum
 Each section can be taught as a stand alone unit, or as a series. If a mentee is already proficient in one or many areas, the mentee can focus on the areas where they most want to improve their digital literacy.
@@ -21,10 +21,10 @@ Each lesson plan has a list of topics that correspond with items covered in our 
 | Mobile | None |
 
 ### Suggested Weekly Schedule
-Beginner Level: 
+**Beginner Level:**
 - 2 units/week for 4 weeks
 - Computer Basics and The Internet should be covered first, but other units can be done in any order
-Intermediate Level: 
+**Intermediate Level:** 
 - Focus on pain points identified in pairing assessment during the first two weeks of the programming curriculum 
 - Time spent on digital literacy can be split with the HTML/CSS topics (recommend about 30 minutes out of the 2 hour session)
 - Assign any topics not covered in a unit during the 2 hour session as homework for self-review and study
