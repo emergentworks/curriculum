@@ -5,6 +5,11 @@
 
 **Secondary Objective:** Mentees will become more comfortable researching and learning about topics in digital literacy on their own.
 
+### Digital Literary Placement
+Incoming mentees take our [Digital Literacy Survey](https://docs.google.com/forms/d/e/1FAIpQLSfBFKSurD0ce4x5KMOFXpww1wGLXE6BsEHFyIkcKjdJQiTsgg/viewform) before starting the program, so your volunteer coordinator will let you know before the program starts whether your mentee is at a beginner/intermediate/advanced level. (The evaluation/leveling script can be found [here](https://github.com/mermatriarchy/ew_eval_script), if ruby is your thing.) 
+
+Advanced users do not need to incorporate any of the units into the 16 week program, but a suggested schedules for beginner/intermediate users can be found [here](#suggested-weekly-schedule).
+
 ### How to use this curriculum
 Each section can be taught as a stand alone unit, or as a series. If a mentee is already proficient in one or many areas, the mentee can focus on the areas where they most want to improve their digital literacy.
 
