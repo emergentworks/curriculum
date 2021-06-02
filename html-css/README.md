@@ -31,7 +31,7 @@ Feel free to create your own weekly breakdown by copying this [Google document](
 
 ## Pre-requisites
 
-1. Help the mentee download or start using a code editor tool. Check out [Sublime Text](https://www.sublimetext.com/), [Atom](https://atom.io/), or [VS Code](https://code.visualstudio.com/). Make sure they know how to access that code editor on their own time. **Tip:** A good activity to try is having them create a new file and have them take notes in it. This could help them get comfortable using an editor without needing to know how to code.
+1. Help the mentee download or start using a code editor tool. Check out the [environments page](../resources/environments.md) for recommendations. **Tip:** A good activity to try is having them create a new file and have them take notes in it. This could help them get comfortable using an editor without needing to know how to code.
 2. Coordinate with your mentee on how you plan to pair program. Will you be using screen-share (Zoom or Hangout)? Will it be through VS Code's live coding?
 
 ## Objective A: Be able to read and write basic HTML and CSS
