@@ -4,6 +4,8 @@ This is a crowd-resourced glossary specifically made for beginners to coding. De
 
 The definitions should be sourced by either a person or by another website.
 
+Have a term to add but don't know the definition? Drop it in the Slack channel #what-is
+
 ***
 
 #### syntax
