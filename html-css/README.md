@@ -48,7 +48,7 @@ Here are some references of how to introduce these topics:
 
 Some things to be mindful of:
 * Not every syntax needs to be memorized. It's important to teach the mentee to learn how to find the code they need through Google searches.
-* There are many special characters in code that are not widely used elsewhere. Be sure to cover where keys like `<, >, (, ), [, ], {, }, \, /` are found on the keyboard.
+* There are many special characters in code that are not widely used elsewhere. Be sure to cover where keys like `<, >, (, ), [, ], {, }, \, /` are found on the keyboard. [Here is a helpful document](https://docs.google.com/presentation/d/1N5GND3T-LMsIPBiBkkdB4-4JZc3Pa9VxikRTDWmik3w/edit?usp=sharing) to visualize where thse special keys are found on the keyboard.
 * Nesting can be a hard concept to pick up as a beginner.
 
 #### Side-Quest: Website with only HTML
