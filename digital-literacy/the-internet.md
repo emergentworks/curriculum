@@ -1,4 +1,5 @@
 # The Internet
+This unit goes over some basic ways to use the internet and navigate websites. This can serve as a step-by-step tutorial as well as reference documentation for mentees.
 
 ### Connecting Your Computer to the Internet via WiFi
 1. From your home screen, click on the icon that looks like a striped triangle on the top of the screen near the clock.
