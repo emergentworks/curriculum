@@ -19,11 +19,11 @@ Each lesson plan has a list of topics that correspond with items covered in our 
 
 | Unit | Prerequisites |
 | --- | --- |
-| Computer Basics | None |
-| The Internet | Computer Basics |
-| Search | Computer Basics, The Internet |
-| Email | Computer Basics, The Internet |
-| Digital Security | Computer Basics, The Internet |
+| [Computer Basics](computer-basics.md) | None |
+| [The Internet](the-internet.md) | Computer Basics |
+| [Search](search.md) | Computer Basics, The Internet |
+| [Email](email.md) | Computer Basics, The Internet |
+| [Digital Security](digital-security.md) | Computer Basics, The Internet |
 | Productivity | Computer Basics, The Internet |
 | Mobile | None |
 
