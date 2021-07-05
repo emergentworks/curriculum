@@ -1,3 +1,5 @@
+// ARITHMETIC
+
 // PART ONE: Literals
 // write a line of code that adds 2,930 and 6,272 together,
 // assign it to a constant, and print it to the console
@@ -45,16 +47,18 @@
 // if a is 16, b is 14, and c is 6, what does the expression evaluate to?
 // print the answer to the console
 
-// write an expression with three variables, x, y and z, that subtracts x from y,
+// write an expression with three variables, d, e and f, that subtracts d from e,
 // then multiplies the result by z.
-// if x is 87, z is 27 and z is 4, what does the expression evaluate to?
+// if d is 87, e is 27 and f is 4, what does the expression evaluate to?
 // bonus: if you decrement the total, what does the expression evaluate to?
+// what happens to the original value?
 // print the answer to the console
 
-// write an expression with four variables, a, b, c and d, that adds together a and b,
-// then adds together c and d, and subtracts the first result from the second.
-// if a is 132, b is 258, c is 89 and d is 41, what does the expression evaluate to?
+// write an expression with four variables, h, i, j and k, that adds together h and i,
+// then adds together j and k, and subtracts the first result from the second.
+// if h is 132, i is 258, j is 89 and k is 41, what does the expression evaluate to?
 // bonus: if you increment the total, what does the expression evaluate to?
+// what happens to the original value?
 // print the answer to the console
 
 // PART THREE: Word problems

@@ -31,12 +31,13 @@ console.log(remainder);
 
 // write a line of code that increments 100,
 // assign it to a const, and print it to the console
-const incrementOneHundred = 100++;
+let oneHundred = 100;
+const incrementOneHundred = ++oneHundred;
 console.log(incrementOneHundred);
 
 // write a line of code that decrements 100, 
 // assign it to a const, and print it to the console
-const decrementOneHundred = 100--;
+const decrementOneHundred = --oneHundred;
 console.log(decrementOneHundred);
 
 // write a line of code that adds 8,237 and 836, then subtracts 304.
@@ -51,7 +52,7 @@ console.log(multiplyAndDivide);
 
 // write a line of code that subtracts 954 from 1254, then multiply
 // it by 7. assign it to a const, and print it to the console
-const subtractAndMultiply = (954 - 1254) * 7;
+const subtractAndMultiply = (1254 - 954) * 7;
 console.log(subtractAndMultiply);
 
 // write a line of code that adds 633 and 877, then divide by 5.
@@ -78,30 +79,31 @@ let c = 6;
 const addAndDivideNums = (a + b) / c;
 console.log(addAndDivideNums);
 
-// write an expression with three variables, x, y and z, that subtracts x from y,
+// write an expression with three variables, d, e and f, that subtracts d from e,
 // then multiplies the result by z.
-// if x is 87, z is 27 and z is 4, what does the expression evaluate to?
+// if d is 87, e is 27 and f is 4, what does the expression evaluate to?
 // bonus: if you decrement the total, what does the expression evaluate to?
+// what happens to the original value?
 // print the answer to the console
-let x = 87;
-let y = 27;
-let z = 4;
-const subtractThenMultiply = (x - y) / z;
-const bonusSubtractThenMultiply = ((x - y) / z)--; 
-// const bonus = subtractThenMultiply--; also an option
+let d = 87;
+let e = 27;
+let f = 4;
+let subtractThenMultiply = (d - e) / f;
+// const bonusSubtractThenMultiply = --subtractThenMultiply; 
 console.log(subtractThenMultiply);
 
-// write an expression with four variables, a, b, c and d, that adds together a and b,
-// then adds together c and d, and subtracts the first result from the second.
-// if a is 132, b is 258, c is 89 and d is 41, what does the expression evaluate to?
+// write an expression with four variables, h, i, j and k, that adds together h and i,
+// then adds together j and k, and subtracts the first result from the second.
+// if h is 132, i is 258, j is 89 and k is 41, what does the expression evaluate to?
 // bonus: if you increment the total, what does the expression evaluate to?
+// what happens to the original value?
 // print the answer to the console
-let a = 132;
-let b = 258;
-let c = 89;
-let d = 41;
-const addThenSubtractNums = (a + b) - (c +d);
-const bonusAddThenSubtractNums = ((a + b) - (c +d))++;
+let h = 132;
+let i = 258;
+let j = 89;
+let k = 41;
+let addThenSubtractNums = (h + i) - (j +k);
+// const bonusAddThenSubtractNums = ++addThenSubtractNums;
 console.log(addThenSubtractNums);
 
 // PART THREE: Word problems
