@@ -1,16 +1,16 @@
 // PART ONE: Literals
 // write a line of code that adds 2,930 and 6,272 together,
-// assign it to a constant, and print it to the console
+// assign it to a const, and print it to the console
 const addedNumbers = 2930 + 6272;
 console.log(addedNumbers);
 
 // write a line of code that multiplies 987 and 3,129,
-// assign it to a constant, and print it to the console
+// assign it to a const, and print it to the console
 const multipliedNumbers = 987 * 3129;
 console.log(multipliedNumbers);
 
 // write a line of code that subtracts 452 from 982,
-// assign it to a constant, and print it to the console
+// assign it to a const, and print it to the console
 const subtractedNumbers = 982 - 452;
 console.log(subtractedNumbers);
 
