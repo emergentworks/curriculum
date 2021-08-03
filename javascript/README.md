@@ -16,9 +16,9 @@ This overview of JS is divided into 3 lessons, but each lesson covers a lot of m
 
 Each lesson comes with slides, exercises, homework and additional reading, which can all be found at the link above; materials have been copied here in case there are dead links.
 
-[Lesson 1](lesson-1/README.md): Intro to Programming and Intro to JS, Variables and Functions<br>
-[Lesson 2](lesson-2/README.md): Control Flows and Arrays<br>
-[Lesson 3](lesson-3/README.md): Objects
+[Lesson 1](teaching-materials.org/lesson-1/README.md): Intro to Programming and Intro to JS, Variables and Functions<br>
+[Lesson 2](teaching-materials.org/lesson-2/README.md): Control Flows and Arrays<br>
+[Lesson 3](teaching-materials.org/lesson-3/README.md): Objects
 
 ### Intro to Web Development from Code Nation
 
