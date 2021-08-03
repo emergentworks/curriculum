@@ -31,7 +31,7 @@ Feel free to create your own weekly breakdown by copying this [Google document](
 
 ## Pre-requisites
 
-1. Help the mentee download or start using a code editor tool. Check out [Sublime Text](https://www.sublimetext.com/), [Atom](https://atom.io/), or [VS Code](https://code.visualstudio.com/). Make sure they know how to access that code editor on their own time. **Tip:** A good activity to try is having them create a new file and have them take notes in it. This could help them get comfortable using an editor without needing to know how to code.
+1. Help the mentee download or start using a code editor tool. Check out the [environments page](../resources/environments.md) for recommendations. **Tip:** A good activity to try is having them create a new file and have them take notes in it. This could help them get comfortable using an editor without needing to know how to code.
 2. Coordinate with your mentee on how you plan to pair program. Will you be using screen-share (Zoom or Hangout)? Will it be through VS Code's live coding?
 
 ## Objective A: Be able to read and write basic HTML and CSS
@@ -48,7 +48,7 @@ Here are some references of how to introduce these topics:
 
 Some things to be mindful of:
 * Not every syntax needs to be memorized. It's important to teach the mentee to learn how to find the code they need through Google searches.
-* There are many special characters in code that are not widely used elsewhere. Be sure to cover where keys like `<, >, (, ), [, ], {, }, \, /` are found on the keyboard.
+* There are many special characters in code that are not widely used elsewhere. Be sure to cover where keys like `<, >, (, ), [, ], {, }, \, /` are found on the keyboard. [Here is a helpful document](https://docs.google.com/presentation/d/1N5GND3T-LMsIPBiBkkdB4-4JZc3Pa9VxikRTDWmik3w/edit?usp=sharing) to visualize where thse special keys are found on the keyboard.
 * Nesting can be a hard concept to pick up as a beginner.
 
 #### Side-Quest: Website with only HTML
