@@ -16,9 +16,9 @@ This overview of JS is divided into 3 lessons, but each lesson covers a lot of m
 
 Each lesson comes with slides, exercises, homework and additional reading, which can all be found at the link above; materials have been copied here in case there are dead links.
 
-[Lesson 1](lesson-1): Intro to Programming and Intro to JS, Variables and Functions
-[Lesson 2](lesson-2): Control Flows and Arrays
-[Lesson 3](lesson-3): Objects
+[Lesson 1](lesson-1/README.md): Intro to Programming and Intro to JS, Variables and Functions<br>
+[Lesson 2](lesson-2/README.md): Control Flows and Arrays<br>
+[Lesson 3](lesson-3/README.md): Objects
 
 ### Intro to Web Development from Code Nation
 
@@ -26,12 +26,12 @@ Code Nation is a program that provides under-resourced high schools with coding 
 
 The full GitHub repository can be found here: [https://github.com/itscodenation/curriculum-20-21/tree/master/INTRO](https://github.com/itscodenation/curriculum-20-21/tree/master/INTRO)
 
-[Unit 6](https://github.com/itscodenation/curriculum-20-21/tree/master/INTRO/units/unit6): Introduction to JavaScript
-[Unit 7](https://github.com/itscodenation/curriculum-20-21/blob/master/INTRO/units/unit7): Introduction to JavaScript
-[Unit 8](https://github.com/itscodenation/curriculum-20-21/blob/master/INTRO/units/unit8): Conditionals
+[Unit 6](https://github.com/itscodenation/curriculum-20-21/tree/master/INTRO/units/unit6): Introduction to JavaScript<br>
+[Unit 7](https://github.com/itscodenation/curriculum-20-21/blob/master/INTRO/units/unit7): Introduction to JavaScript<br>
+[Unit 8](https://github.com/itscodenation/curriculum-20-21/blob/master/INTRO/units/unit8): Conditionals<br>
 [Unit 9](https://github.com/itscodenation/curriculum-20-21/blob/master/INTRO/units/unit9): Arrays and Loops
 
 
 ## Exercises
 
-Exercises can be found [here](exercises) for mentees to practice the concepts they're learning in mentorship sessions. Directions on how to execute the exercises can be found in the Readme.
+Exercises can be found [here](exercises/README.md) for mentees to practice the concepts they're learning in mentorship sessions. Directions on how to execute the exercises can be found in the Readme.
