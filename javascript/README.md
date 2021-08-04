@@ -142,7 +142,7 @@ Instructions: Use Excalidraw or Google Draw as a whiteboard to map out the archi
 3. As you ask your mentee these questions, discuss how engineers building this existing application might solve these problems. This could mean outlining the schema for a database that keeps track of user information. You could also draw out different services like storage for photos (Instagram example) and how these services intend to interact with each other.
 4. Additionally, discuss how a design might change if they decide to introduce a new feature. For example, in Instagram, they needed to incorporate videos and a messaging system. How do engineers build a feature around the current design?
 5. Lastly, conclude that there are infinite ways this could be designed, but these are commonly the problems that engineers solve with code.
-6.
+
 **Extra Credit**: Discuss this article that goes in-depth about Netflix’s scalability.
 
 #### Side-Quest: How do passwords work?
