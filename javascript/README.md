@@ -60,6 +60,7 @@ Exercises can be found [here](exercises/README.md) for mentees to practice the c
 
 Here are some more exercises and resources to help guide this objective:
 * [learnJS](https://www.learn-js.org/)
+* [Javascript.info](https://javascript.info/)
 * [Javascript Hero](https://www.jshero.net/en/success.html)
 * [Khan Academy](https://www.khanacademy.org/computing/computer-programming/programming#variables)
 * [FreeCodeCamp](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-javascript)
