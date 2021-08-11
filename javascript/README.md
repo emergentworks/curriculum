@@ -103,11 +103,15 @@ Software engineers are well aware of the frustration and overwhelming feeling th
   * Explain the flow of software creation. Other than writing code, there's also operation and matinence of the code. 
   * Introduce abstraction and pragmatic thinking. Helpful article [here](https://thevaluable.dev/abstraction-type-software-example/).
   * Discuss what are realistic timelines for building software. Help your mentee understand that software is usually not built overnight.
+  * [Reading homework](https://www.freecodecamp.org/news/learn-the-fundamentals-of-a-good-developer-mindset-in-15-minutes-81321ab8a682/)
 * Reading what you don’t understand
   * Explain how bad documentation impacts technology and software engineers.
   * What are some ways that your mentee can get better at reading and understanding documentation?
+  * Activity: How does [this diagram](https://user-images.githubusercontent.com/2825071/128613191-8cb3b6f6-9200-4e0f-abaf-060f32b69159.jpeg) make your mentee feel?
+  * [Reading homework](https://www.freecodecamp.org/news/how-to-read-your-way-to-becoming-a-better-developer-b6432fa5bc0c/)
 * Overwhelming code
   * Break down ways to decipher code that feels overwhelming to read and understand.
+  * Extra resource on [paralysis by analysis](https://daedtech.com/the-secret-to-avoiding-paralysis-by-analysis/).
 * Pseudo code
   * Give an overview of how to communicate using pseudo code.
 * Bugs and troubleshooting
