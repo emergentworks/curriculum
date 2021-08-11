@@ -95,16 +95,28 @@ TBA
 
 ## Objective B: Have a grasp on a healthy coding mentality
 
-Software engineers are well aware of the frustration and overwhelming feeling that comes with learning how to build software. This objective is meant to help guide mentees around the emotional learning that comes with learning to code. This section is not meant to be technical. We hope that this can be a time for mentors to be vulnerable and share ways to not feel impostered by endless amounts of knowledge. Here are the following topics that should be covered:
+Software engineers are well aware of the frustration and overwhelming feeling that comes with learning how to build software. This objective is meant to help guide mentees around the emotional learning that comes with learning to code. This section is not meant to be technical although we hope some of these topics can be taught while working on a Javascript project. We hope that this can be a time for mentors to be vulnerable and share ways to not feel impostered by endless amounts of knowledge. Here are the following topics that should be covered:
 
-* Imposter Mindset
-* Learning what you don't understand
-* Overwhelming coding
-* whiteboarding and pseudo code
-* What are bugs?
-* What is debugging and troubleshooting?
-* FOMO in knowledge
+* Imposter Syndrome
+  * What is it? How can it affect a person's coding experience? As a mentor, could you share some of your experiences with feeling imposter syndrome? [Here](https://www.freecodecamp.org/news/what-is-imposter-syndrome-and-how-do-you-overcome-it/) is something that can be given a homework reading.
+* Developer Mindset
+  * Explain the flow of software creation. Other than writing code, there's also operation and matinence of the code. 
+  * Introduce abstraction and pragmatic thinking. Helpful article [here](https://thevaluable.dev/abstraction-type-software-example/).
+  * Discuss what are realistic timelines for building software. Help your mentee understand that software is usually not built overnight.
+* Reading what you don’t understand
+  * Explain how bad documentation impacts technology and software engineers.
+  * What are some ways that your mentee can get better at reading and understanding documentation?
+* Overwhelming code
+  * Break down ways to decipher code that feels overwhelming to read and understand.
+* Pseudo code
+  * Give an overview of how to communicate using pseudo code.
+* Bugs and troubleshooting
+  * Clarify to your mentee how long some bugs may take to solve and how it can impact someone's mental health. Helpful [article](https://jvns.ca/blog/2021/06/08/reasons-why-bugs-might-feel-impossible/).
+  * Come up with steps that your mentee can take when they are stuck. For example, they should spend x amount of time on a bug before asking for help from you.
+* Software FOMO
+  * Aware your mentee of being ok with not knowing everything in the current tech stack. Helpful [article](https://blog.glitch.com/post/ending-stack-anxiety)
 * How to ask for help
+  * Discuss strategies and and confidence in asking for technical help.
 
 #### Side Quest: Review documentation
 
