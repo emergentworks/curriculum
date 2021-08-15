@@ -11,6 +11,7 @@ The concepts progress in order of difficulty as:
 - Class and Objects
 - Promises 
 - Writing tests
+- Bonus: built-in functions tk
 
 ## How to Run these Exercises Files
 
