@@ -198,7 +198,7 @@ switch(currentWeather){
     case("clouds"):
       console.log("Wear sunscreen");
       break;
-      case("snow"):
+    case("snow"):
       console.log("Wear a coat");
       break;
     default:
