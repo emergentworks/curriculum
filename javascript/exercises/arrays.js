@@ -25,9 +25,10 @@
 
 // 8. Declare an array with 8 different numbers. Check if the array contains the number 32.
 
-// 9.  
-// 
-// 
-// 
+// 9a. Declare a multi-dimensional array that contains an array of 3 colors and an array of 3 numbers
 
-// PART TWO: Word Problems
+// 9b. Print the second number in the numbers array to the console.
+
+// 9c. Print the last color in the colors array to the console.
+
+// 9d. Merge the two inner arrays together into one array.

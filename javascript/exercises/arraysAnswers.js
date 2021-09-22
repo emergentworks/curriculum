@@ -45,4 +45,15 @@ console.log(daysOfWeekString);
 const arrayOfNums = [54, 16, 77, 38, 99, 100, 837, 56, 63];
 console.log(arrayOfNums.indexOf(32));
 
-// PART TWO: Word Problems
+// 9a. Declare a multi-dimensional array that contains an array of 3 colors and an array of 3 numbers
+const multidimensionalArr = [['purple', 'green', 'black'],[45, 78, 20]];
+console.log(multidimensionalArr);
+
+// 9b. Print the second number in the numbers array to the console.
+console.log(multidimensionalArr[1][1]);
+
+// 9c. Print the last color in the colors array to the console and print it to the console.
+console.log(multidimensionalArr[0][2]);
+
+// 9d. Merge the two inner arrays together into one array and print it to the console.
+console.log(multidimensionalArr.flat());
