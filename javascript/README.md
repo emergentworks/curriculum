@@ -84,9 +84,6 @@ This can be used to rate the uniqueness of a song or to create a word cloud. Che
 
 TBA
 
-#### Side-Quest: Create a visualizer with p5.js
-
-TBA
 
 ### Independent Work:
 * First lecture of Harvard’s CS50 class ([video](https://cs50.harvard.edu/college/2020/fall/weeks/0/))
@@ -128,8 +125,6 @@ Software engineers are well aware of the frustration and overwhelming feeling th
 Have your mentee try a couple different tutorials. Have them explain which made sense and which didn’t.
 
 #### Side Quest: Understanding www.
-
-#### Side Quest: Asking Questions
 
 ## Objective C: Able to communicate their understanding of how modern web applications work in the industry
 
