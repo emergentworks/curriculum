@@ -126,6 +126,11 @@ Have your mentee try a couple different tutorials. Have them explain which made 
 
 #### Side Quest: Understanding www.
 
+This side quest is meant to help the mentee identify when they might feel overwhelmed from learning about technology. You can start by showing them this diagram and asking them how much of the [diagram](https://dev.to/wassimchegham/ever-wondered-what-happens-when-you-type-in-a-url-in-an-address-bar-in-a-browser-3dob) is understood by a typical software engineer. The next part of this side-quest is to further simulate the overwhelming feeling of trying to learn about something unknown. Talk to your mentee about the content on [this page](https://github.com/joinpursuit/Pursuit-Core-Web/tree/master/html_css_dom/the_internet) as if you were explaining this to another engineer (this is an actual lesson plan from a bootcamp). This can take up to 30 minutes or more. Aftwards, discuss how your mentee felt throughout this activity. Some take-aways from this side-quest should be:
+  * Clarify to your mentee that no one is an expert at everything about the web nor is that the expectation of an engineer.
+  * Help your mentee identify when they felt lost in the material. Did they lose interest because of not having enough context around the topic? Were they pretending to understand something when in fact they didn't?
+  * Help your mentee practice asking questions especially if they feel imposter synfrome from asking the same question multiple times.
+
 ## Objective C: Able to communicate their understanding of how modern web applications work in the industry
 
 This objective is meant to help strengthen the way mentees understand and talk about technical topics. Without writing code, mentees should be able to communicate concepts like HTTP, asynchronous requests, databases, and APIs. This objective is also meant to learn more about the architecture design of software (with a focus on large-scale web applications).
