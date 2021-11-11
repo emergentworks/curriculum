@@ -15,9 +15,9 @@ As of 2021, Emergent Works will focus on three milestones:
 
 Each milestone has dedicated resources for both mentors and mentees. Navigate them in the links below:
 
-### [📖 Digital Literacy 📖](digital-literacy)
-### [🖼 HTML & CSS 🖼](html-css)
-### [⚙️ Javascript ⚙️](javascript)
+### [📖 Digital Literacy 📖 (Tier 1)](digital-literacy)
+### [🖼 HTML & CSS 🖼 (Tier 2)](html-css)
+### [⚙️ Javascript ⚙️ (Tier 3)](javascript)
 ### [👁 Glossary️ 👁](resources/glossary.md)
 
 
