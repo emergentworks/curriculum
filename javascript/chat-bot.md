@@ -21,4 +21,16 @@ Example here: https://glitch.com/~not911-bot. This is a chat bot that allows you
    * Design: It’s recommended that you either map out the conversation or create a diagram of possible text messages. Example:
 ![design-example](design-example.png)
 2. Start building your bot either on your local computer or on a virtual environment like Glitch or Repl. Some caveats when trying your bot out with Twilio's API:
-      * If developing locally, you will need to use a port-fowarding tool (Twilio uses web hooks). Glitch makes this easy because its web server is always running.
+      * If developing locally, you will need to use a port-fowarding tool (Twilio uses web hooks). Glitch makes this easy because its web server is always running. Check the troubleshooting section for instructions on how to use ngrok.
+
+### Troubleshooting
+
+#### Using ngrok
+
+If you are running your chat bot on your local environment (running on `localhost`), you will need a way to forward your port to a public URL. You can use [ngrok](https://ngrok.com/) to do this:
+
+1. Download and install ngrok by following instructions here: [https://ngrok.com/download](https://ngrok.com/download)
+2. In a terminal window, use `ngrok http 80` except replace `80` with the port number you are using for your node server. This command will start a session that forwards your local port to a public URL. It should print out some information about the session including a link that looks like `https://test.ngrok.io`. Keep your Terminal window open.
+3. Login to Twilio and go to Messaging -> Services and create a Messaging Service. Fill out the name of the service and click `Skip Setup` on the bottom of the page.
+4. Once the service is setup, click on Integrations` and  Check `Send a webhook` and copy/paste the URL from your Terminal session. For `Fallback URL` you can just use `https://www.google.com`. Then click `Save Changes`. 
+5. Your local Node server should now be able to receive Twilio messages. When you are done using Node server, you can close your Terminal window.
