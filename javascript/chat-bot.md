@@ -27,7 +27,7 @@ Example here: https://glitch.com/~not911-bot. This is a chat bot that allows you
 
 #### Using ngrok
 
-If you are running your chat bot on your local environment (running on `localhost`), you will need a way to forward your port to a public URL. You can use [ngrok](https://ngrok.com/) to do this:
+If you are running your chat bot on your local environment (running on `localhost`), you will need a way to forward your port to a public URL. For an overview of how ngrok works with Twilio, you can check [this video](https://www.youtube.com/watch?v=S1uExj7mMgM) out.You can use [ngrok](https://ngrok.com/) to do this:
 
 1. Download and install ngrok by following instructions here: [https://ngrok.com/download](https://ngrok.com/download)
 2. In a terminal window, use `ngrok http 80` except replace `80` with the port number you are using for your node server. This command will start a session that forwards your local port to a public URL. It should print out some information about the session including a link that looks like `https://test.ngrok.io`. Keep your Terminal window open.
