@@ -89,7 +89,7 @@ TBA
 * First lecture of Harvard’s CS50 class ([video](https://cs50.harvard.edu/college/2020/fall/weeks/0/))
   * This lecture goes over high-level ideas of computation and uses pseudo code to explain fundamental concepts like variables, conditionals, and loops
 * Foundational Javascript concepts ([videos](https://dev.to/nas5w/foundational-javascript-concepts-through-short-tutorial-videos-40l))
-  * Gives an introduction to concepts like memorization, first-class functions, etc.
+  * Gives an introduction to concepts like memoization, first-class functions, etc.
 
 ## Objective B: Have a grasp on a healthy coding mentality
 
