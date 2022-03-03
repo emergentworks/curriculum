@@ -24,8 +24,6 @@ Each lesson plan has a list of topics that correspond with items covered in our 
 | [Search](search.md) | Computer Basics, The Internet |
 | [Email](email.md) | Computer Basics, The Internet |
 | [Digital Security](digital-security.md) | Computer Basics, The Internet |
-| Productivity | Computer Basics, The Internet |
-| Mobile | None |
 
 ### Suggested Weekly Schedule
 **Beginner Level:**
