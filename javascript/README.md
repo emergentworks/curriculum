@@ -8,17 +8,18 @@ There are three objectives to this part of the curriculum:
 
 While these objectives should probably be introduced in this order, you should expect to work on all three objectives in parallel. Emphasis should be on objectives 1 and 2.
 
-```dot
+```mermaid
 graph TB
-    subgraph
+    subgraph  &nbsp;
+        javascripts[Read and Write <br/> Javascript] --> js_intro(JS Introduction)
+    end
+
+    subgraph  &nbsp;
+        mindset[Developer Mindset] --> ms_Intro(Introduction)
+    end
+
+    subgraph  &nbsp;
         webapps[Modern Web </br/> Applications]
     end
 
-    subgraph
-        mindset[Developer Mindset] ==> ms_Intro(Introduction)
-    end
-
-    subgraph
-        javascripts[Read and Write <br/> Jeavascript] ==> js_intro(JS Introduction)
-    end
 ```
