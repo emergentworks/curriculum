@@ -8,7 +8,7 @@ There are three objectives to this part of the curriculum:
 
 While these objectives should probably be introduced in this order, you should expect to work on all three objectives in parallel. Emphasis should be on objectives 1 and 2.
 
-```viz
+```dot
 graph TB
     subgraph
         webapps[Modern Web </br/> Applications]
