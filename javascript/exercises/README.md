@@ -3,19 +3,24 @@
 These exercises are meant to give students extra practice to internalize the basics of JavaScript. They're divided into different concepts and can be done during a mentorship session or as homework. Each file has a corresponding answer sheet; there's more than one correct answer, but the answers are meant as general approaches.
 
 The concepts progress in order of difficulty as:
-- Types
-- Arithmetic Operators
-- Conditional Statements
-- Arrays
-- Functions 
-- Class and Objects
-- Promises 
-- Writing tests
-- Bonus: built-in functions tk
+
+- [Types](types.js)
+  - [answers](typesAnswers.js)
+- [Arithmetic Operators](arithmetic.js)
+  - [answers](arithmeticAnswers.js)
+- [Conditional Statements](conditionals.js)
+  - [answers](conditionalsAnswers.js)
+- [Arrays](arrays.js)
+  - [answers](arraysAnswers.js)
+- Functions (TODO)
+- Class and Objects (TODO)
+- Promises (TODO)
+- Writing tests (TODO)
+- Bonus: [built-in functions tk] (TODO)
 
 ## How to Run these Exercises Files
 
-Exercise files can be run in the terminal, in the browser, or in a repl such as [replit.com](https://replit.com/) (you have to register to save your answers, but it's free to join). 
+Exercise files can be run in the terminal, in the browser, or in a repl such as [replit.com](https://replit.com/) (you have to register to save your answers, but it's free to join).
 
 ### Running the exercises in a Repl (Recommended)
 
@@ -30,4 +35,3 @@ If your mentee doesn't have Node on their computer yet, they can download the la
 ### Running the exercises in the browser
 
 To run these exercises in the browser, have the mentee open the index.html file in their browser. Using Chrome dev tools to inspect the page, they should be able to see their answers logged to the console. Again, the mentee should work through each problem one by one, refreshing the browser after writing up each answer to ensure they're not making any syntax errors.
-
