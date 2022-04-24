@@ -8,26 +8,22 @@ Some mentorship pairs may be ready immediately to begin planning a final project
 
 ## How to navigate this repository
 
-As of 2021, Emergent Works will focus on three milestones:
+As of 2021, Emergent Works will focus on two areas:
+
 1. Digital literacy
-2. HTML & CSS
-3. Javascript
+2. Web Development
+   - HTML & CSS
+   - Javascript (if desired)
 
 Each milestone has dedicated resources for both mentors and mentees. Navigate them in the links below:
 
-### [📖 Digital Literacy 📖 (Tier 1)](digital-literacy)
-### [🖼 HTML & CSS 🖼 (Tier 2)](html-css)
-### [⚙️ Javascript ⚙️ (Tier 3)](javascript)
-### [👁 Glossary️ 👁](resources/glossary.md)
+### [📖 Digital Literacy 📖 ](digital-literacy)
 
+### [🖼 Web Development 🖼 ](webdev)
 
 To access any resources from previous years, check the [legacy folder](legacy).
 
-***
-
-## Guidelines for Contribution
-
-See our Guidelines for Contribution [here](CONTRIBUTING.md).
+---
 
 ## Code of Conduct
 
