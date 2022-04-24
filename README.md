@@ -10,16 +10,10 @@ Some mentorship pairs may be ready immediately to begin planning a final project
 
 As of 2021, Emergent Works will focus on two areas:
 
-1. Digital literacy
-2. Web Development
+1. [📖 Digital Literacy 📖 ](digital-literacy)
+2. [🖼 Web Development 🖼 ](webdev)
    - HTML & CSS
    - Javascript (if desired)
-
-Each milestone has dedicated resources for both mentors and mentees. Navigate them in the links below:
-
-### [📖 Digital Literacy 📖 ](digital-literacy)
-
-### [🖼 Web Development 🖼 ](webdev)
 
 To access any resources from previous years, check the [legacy folder](legacy).
 
