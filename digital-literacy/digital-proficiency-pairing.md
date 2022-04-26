@@ -11,7 +11,6 @@ You can start off by asking the mentee if there were any areas that jumped out a
 \*DSec = Digital Security<br>
 \*Prod = Productivity<br>
 \*S = Search<br>
-\*M = Mobile<br>
 
 While your mentee is sharing their screen or with the mentee driving (if in-person), you can use these set-up tasks to get a sense of their digital literacy:
 

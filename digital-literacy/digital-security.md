@@ -1,4 +1,6 @@
 # Digital Security
+This unit goes over some of the basics for securing your accounts online and browsing the internet safely. We recommend reading through these resources before a session and discussing any questions that come up around these topics.
+
 ## Creating and logging into online accounts
 What is a [username](https://techterms.com/definition/username#:~:text=A%20username%20is%20a%20name,someone%20on%20a%20computer%20system.&text=This%20username%2Fpassword%20combination%20is,enter%20your%20username%20and%20password.) and [password]()?<br>
 [Single sign-on](https://searchsecurity.techtarget.com/definition/single-sign-on): logging into applications using your email account, LinkedIn, Facebook or other profiles
@@ -32,4 +34,4 @@ Have your mentee put in their email on [https://haveibeenpwned.com/](https://hav
 Have your mentee update their password for one of their online accounts and write it down on paper to store in a safe place (if not using a password manager).
 Have your mentee choose one of the free password managers and download it.
 
-Have your mentee download a free adblocker such as [Ghostery]() or [PrivacyBadger]()
+Have your mentee download a free adblocker such as [Ghostery](https://www.ghostery.com/ghostery-browser-extension) or [PrivacyBadger](https://privacybadger.org/)

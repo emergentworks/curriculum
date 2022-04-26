@@ -1,5 +1,5 @@
 # The Internet
-This unit goes over some basic ways to use the internet and navigate websites. This can serve as a step-by-step tutorial as well as reference documentation for mentees.
+This unit goes over some basic ways to use the internet and navigate websites. This can serve as a step-by-step tutorial as well as reference documentation for mentees. This unit is focused primarily on navigating the internet rather than how the internet works. Depending on your mentee's level of digital literacy, you can either pair on each of the below actions during a session together (except connecting to the internet if you're not in person), or your mentee can study this guide and come to your meeting with questions to dicuss about how to do anything on this list.
 
 ### Connecting Your Computer to the Internet via WiFi
 1. From your home screen, click on the icon that looks like a striped triangle on the top of the screen near the clock.
@@ -46,7 +46,11 @@ There are lots of ways to save files and information from the internet. Here are
 
 ### ACTIVITIES
 Go over the above sections using the Emergent Works website [https://emergentworks.org/](https://emergentworks.org/)<br>
+  - Can your mentee identify the header, footer, and menu? When you resize the browser, can they identify the hamburger menu?
+
 To practice search on a website, you can look up instructions on how to do things on WikiHow: [https://www.wikihow.com/Main-Page](https://www.wikihow.com/Main-Page)
+
+Have your mentee download a photo from Google image search and set it as their desktop background
 
 Play the “How Many Degrees” Game on WikiPedia (for groups)
 1. Go to Wikipedia https://en.wikipedia.org/wiki/Main_Page
