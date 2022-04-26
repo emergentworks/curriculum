@@ -39,4 +39,6 @@ With that foundation, the <a href="https://www.theodinproject.com/paths/foundati
 introducing JavaScript (and unlike many JavaScript focused curriculums, includes integration
 into web pages along with the language foundation)
 
+---
+
 Also check out [Supplemental and Alternative Materials](supplemental)
