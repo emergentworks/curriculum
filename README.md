@@ -29,7 +29,7 @@ This code of conduct applies to all Emergent Works spaces, including our classes
 
 Some Emergent Works spaces may have additional rules in place, which will be made clearly available to participants. Participants are responsible for knowing and abiding by these rules.
 
-A longer version of our Code of Conduct exists [here](CODE_OF_CONDUCT).
+A longer version of our Code of Conduct exists [here](code_of_conduct).
 
 ## Contributors
 
