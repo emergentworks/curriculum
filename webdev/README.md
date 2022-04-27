@@ -13,7 +13,7 @@ is a sizable community working to build a solid curriculum that references
 some of the best sources on the Internet.
 
 > Coincidentally, this is what we set out to do, and discovered that
-> it has already been done and is actively maintained by far more resources than we have to commit to a similar endevor)
+> it has already been done and is actively maintained by far more resources than we have to commit to a similar endeavor.
 
 Their <a href="https://www.theodinproject.com/paths/foundations/courses/foundations" target="_blank">Foundations</a> path seems especially well-suited
 to an introduction to Web Development.
