@@ -41,7 +41,7 @@ into web pages along with the language foundation)
 
 ---
 
-Check out:
+## Check out:
 
 - [Supplemental and Alternative Materials](supplemental)
 - [Project Templates](projectTemplates)
