@@ -1,4 +1,6 @@
-# Emergent Works Curriculum
+[![EmergentWorks Logo](EWLogo.png)](https://emergentworks.org)
+
+# Curriculum
 
 The Emergent Works curriculum is **a guide** that supports our mentors and students in their learning goals & development of their project.
 
