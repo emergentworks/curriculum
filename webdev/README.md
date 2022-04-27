@@ -41,4 +41,7 @@ into web pages along with the language foundation)
 
 ---
 
-Also check out [Supplemental and Alternative Materials](supplemental)
+Check out:
+
+- [Supplemental and Alternative Materials](supplemental)
+- [Project Templates](projectTemplates)
