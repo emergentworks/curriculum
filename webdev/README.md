@@ -1,3 +1,5 @@
+<a href="https://emergentworks.org"><img src="../EWLogo.png" alt="EmergentWorks Logo" title="EmergentWorks Logo" width="194" height="35"/></a>
+
 # Web Development
 
 In an effort to respect the time of both mentors and mentees, we're recommending a default curriculum that
