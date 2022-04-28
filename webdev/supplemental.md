@@ -1,3 +1,5 @@
+<a href="https://emergentworks.org"><img src="../EWLogo.png" alt="EmergentWorks Logo" title="EmergentWorks Logo" width="194" height="35"/></a>
+
 # Supplemental / Alternative resources
 
 There will frequently be reasons why the default curriculum is not

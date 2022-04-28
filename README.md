@@ -1,4 +1,4 @@
-[![EmergentWorks Logo](EWLogo.png)](https://emergentworks.org)
+<a href="https://emergentworks.org"><img src="EWLogo.png" alt="EmergentWorks Logo" title="EmergentWorks Logo" width="194" height="35"/></a>
 
 # Curriculum
 
@@ -12,12 +12,12 @@ Some mentorship pairs may be ready immediately to begin planning a final project
 
 As of 2021, Emergent Works will focus on two areas:
 
-1. [📖 Digital Literacy 📖 ](digital-literacy)
-2. [🖼 Web Development 🖼 ](webdev)
+1. [Digital Literacy](digital-literacy/README)
+2. [Web Development](webdev)
    - HTML & CSS
    - Javascript (if desired)
 
-To access any resources from previous years, check the [legacy folder](legacy).
+To access any resources from previous years, check the [legacy folder](legacy/README).
 
 ---
 
