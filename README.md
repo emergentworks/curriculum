@@ -17,7 +17,7 @@ As of 2021, Emergent Works will focus on two areas:
    - HTML & CSS
    - Javascript (if desired)
 
-To access any resources from previous years, check the [legacy folder](legacy/README).
+To access any resources from previous years, check the [legacy folder](legacy).
 
 ---
 
