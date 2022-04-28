@@ -2,5 +2,5 @@
 
 # Project Templates
 
-- [ChatBot](projectTemplates/chatbot/README)
-- [Generator](projectTemplates/generator/README)
+- [ChatBot](projectTemplates/chatbot)
+- [Generator](projectTemplates/generator)
