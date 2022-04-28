@@ -1,4 +1,6 @@
-# Emergent Works Curriculum
+<a href="https://emergentworks.org"><img src="EWLogo.png" alt="EmergentWorks Logo" title="EmergentWorks Logo" width="194" height="35"/></a>
+
+# Curriculum
 
 The Emergent Works curriculum is **a guide** that supports our mentors and students in their learning goals & development of their project.
 
@@ -8,26 +10,16 @@ Some mentorship pairs may be ready immediately to begin planning a final project
 
 ## How to navigate this repository
 
-As of 2021, Emergent Works will focus on three milestones:
-1. Digital literacy
-2. HTML & CSS
-3. Javascript
+As of 2021, Emergent Works will focus on two areas:
 
-Each milestone has dedicated resources for both mentors and mentees. Navigate them in the links below:
-
-### [📖 Digital Literacy 📖 (Tier 1)](digital-literacy)
-### [🖼 HTML & CSS 🖼 (Tier 2)](html-css)
-### [⚙️ Javascript ⚙️ (Tier 3)](javascript)
-### [👁 Glossary️ 👁](resources/glossary.md)
-
+1. [Digital Literacy](digital-literacy)
+2. [Web Development](webdev)
+   - HTML & CSS
+   - Javascript (if desired)
 
 To access any resources from previous years, check the [legacy folder](legacy).
 
-***
-
-## Guidelines for Contribution
-
-See our Guidelines for Contribution [here](CONTRIBUTING.md).
+---
 
 ## Code of Conduct
 
@@ -37,7 +29,7 @@ This code of conduct applies to all Emergent Works spaces, including our classes
 
 Some Emergent Works spaces may have additional rules in place, which will be made clearly available to participants. Participants are responsible for knowing and abiding by these rules.
 
-A longer version of our Code of Conduct exists [here](CODE_OF_CONDUCT.md).
+A longer version of our Code of Conduct exists [here](codeofconduct).
 
 ## Contributors
 
