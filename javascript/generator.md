@@ -8,6 +8,7 @@ Create either a webpage that generates an entity at random. For example:
 * Generate a random and unique [quilt pattern](https://quilt-generator.glitch.me/)
 
 Requirements:
+* Basic understanding of Javascript.
 * A clear idea of what to generate.
 * A place to host your project (e.g. GitHub Repo or Glitch project or Replit equivalent)
 
