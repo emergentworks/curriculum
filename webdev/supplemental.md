@@ -137,7 +137,7 @@ anyway)
 
 ## Contribution Note
 
-We want to be continuously respectful for both mentor and mentee time. If
+We want to be continuously respectful of both mentor and mentee time. If
 you have a resource to suggest, we _really_ appreciate it. There's, no doubt,
 a reason why you feel the resource is valuable. When you submit a suggestion, please provide
 a brief description of the resource, what it's value is, and any caveats that
