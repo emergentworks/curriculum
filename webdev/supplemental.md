@@ -94,6 +94,9 @@ can be a bit difficult to interpret, thought the unit tests can clarify things.
 
 [JavaScript30](https://javascript30.com)
 
+> Note: This is actually part of the practice section of [DOM MANIPULATION AND EVENTS](https://www.theodinproject.com/lessons/foundations-dom-manipulation-and-events)
+> in The Odin Project curriculum
+
 These are well done tutorials from Wes Bos, a very good instructor. Many of his
 classes are purchases, but these little tutorials are free, fun, and
 result in very nice, demo web sites. Along the way, you'll learn a few tricks,
