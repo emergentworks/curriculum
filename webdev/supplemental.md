@@ -7,9 +7,11 @@ optimum for a given mentee. The Odin project does reference good supplemental
 materials, but here is a place for us to gather additional resources that might
 prove useful. (I you want to suggest additions please see the [note](#contribution-note) below.)
 
-## freeCodeCamp
+## JavaScript
 
-### Pros:
+### freeCodeCamp
+
+#### Pros:
 
 Free Code Camp courses tend to be very accessible (easy to get started and provide a
 quick remedy to apprehension a mentee might have about something being
@@ -19,7 +21,7 @@ Pursued completely, their courses to provide a pretty thorough coverage of the m
 The material is well indexed, and it's easy to drill straight into their coverage
 of a single topic. This can be useful if you're just looking for "another explanation"
 
-### Cons:
+#### Cons:
 
 The integrated editor that allows you to get started quickly is good and bad. It
 is not how you'll actually work on projects and this is a lot of material to
@@ -40,15 +42,15 @@ covered.
   > how it's going to tie back into what you've learned about HTML and CSS and can improve
   > your web pages.
 
-## Code Academy
+### Code Academy
 
-### Pros:
+#### Pros:
 
 Courses tend to be very accessible (easy to get started and provide a
 quick remedy to apprehension a mentee might have about something being "too hard").
 You can work through the material in-browser without any local setup.
 
-### Cons:
+#### Cons:
 
 Quizzes and projects are "Pro" features and are not free.
 
@@ -59,7 +61,7 @@ take a pretty similar approach.
 
 - [introduction To JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)
 
-## Exercism
+### Exercism
 
 Exercism has a guided [syllabus](https://exercism.org/tracks/javascript/concepts) for learning
 JavaScript. Each lesson is accompanied by an exercise to complete to demonstrate
@@ -70,7 +72,7 @@ link and working locally. The local development experience will be valuable.)
 
 > Recommend this as a source for mentors picking exercises to reinforce learning.
 
-### Pros:
+#### Pros:
 
 There is some flexibility in the students selection of the path through the syllabus, but there
 where there is prerequisite material, you'll need to complete it before moving on. This is pretty nice.
@@ -82,7 +84,7 @@ of exercises (as of this writing there are 139 of them) ranging from easy to dif
 
 It can be a rich source of material to reinforce your understanding of a language.
 
-### Cons:
+#### Cons:
 
 I don't think it's a substitute for the Odin project in the breadth of the
 material that is covered, and some material introducing topics can be pretty "brief"
@@ -90,7 +92,7 @@ material that is covered, and some material introducing topics can be pretty "br
 Also, as you progress into the exercises there is a broad range in the "quality" of the exercises. Some
 can be a bit difficult to interpret, thought the unit tests can clarify things.
 
-## JavaScript30
+### JavaScript30
 
 [JavaScript30](https://javascript30.com)
 
@@ -109,6 +111,27 @@ using these tutorials. Consider them "candy" of sorts.
 They are generally short tutorials that start with nicely designed resources
 and work the student through some fun projects that demonstrate
 JavaScript integration enhanced web page interaction.
+
+## Git
+
+### [Learning Git Branching (game)](https://learngitbranching.js.org/)
+
+#### Pros:
+
+Nice graphical presentation of Git commits, branching, etc.
+
+Game challenges can be fun and make git commands a bit more approachable.
+
+#### Cons:
+
+Some concepts could use a bit more elaboration. They pretty much give you
+just enough to solve the challenge. A bit short on details.
+
+Careful if you go too far into the challenges. It wanders into areas where
+"git angels" fear to tread. They can be fun challenges, but don't think
+that you don't know Git well enough if you don't really internalize some
+of the advanced stuff. (They'd probably get you in "hot water" in some shops
+anyway)
 
 ---
 
