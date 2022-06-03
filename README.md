@@ -10,12 +10,13 @@ Some mentorship pairs may be ready immediately to begin planning a final project
 
 ## How to navigate this repository
 
-As of 2021, Emergent Works will focus on two areas:
+As of 2022, Emergent Works will focus on:
 
-1. [Digital Literacy](digital-literacy)
-2. [Web Development](webdev)
+[Web Development](webdev)
    - HTML & CSS
    - Javascript (if desired)
+
+Optionally, we have gathered some learning resources for [digital literacy](digital-literacy) for students who are looking for additional tutorials on computer basics, email, the internet, and digital security. 
 
 To access any resources from previous years, check the [legacy folder](legacy).
 
