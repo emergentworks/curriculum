@@ -1,4 +1,6 @@
 # Email
+This unit goes over the basics of email, using gmail specifically as the email provider because it's a free service and well-documented. It's assumed that your mentee already has an email because the online mentorship requires one, but you can walk through any of the email activities below with your mentee to strengthen their proficiency.
+
 For creating an email account, we recommend using [gmail](https://accounts.google.com/signup/v2/webcreateaccount).
 
 Instructions on creating an email account can be found [here](https://support.google.com/mail/answer/56256?hl=en).
@@ -9,4 +11,15 @@ Since Gmail is well documented on the internet, here are additional resources fo
 [Identifying spam email](https://www.westtek.co.uk/blog/story/9-tips-on-how-to-identify-a-spam-email)<br>
 [Searching for specific emails](https://support.google.com/a/users/answer/9259943?hl=en&ref_topic=9259942)<br>
 
-Activities & Resources tk
+## Activities
+Ensure that your mentee can:
+- Compose a new email
+- Organize their inbox in a way that feels help to them (if they want)
+- Identify spam emails
+- Search for emails
+- Find and save drafted messages
+- Add attachments to emails
+- Schedule an email
+- Forward an email
+- Add or RSVP to a calendar event
+- Explain what the cc and bcc fields are

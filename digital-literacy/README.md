@@ -1,33 +1,27 @@
 # Digital Literacy
+The lessons in this section are optional and supplementary.
 
 ### Objectives
-**Overall Objective:** Mentees will achieve improved digital literacy and increase their knowledge around each subject area from the Digital Literacy Survey: computer basics, the internet, search, email, digital security, software applications for productivity and using mobile devices.
+**Overall Objective:** This curriculum is meant to support our mentees in learning more about how to effectively use the internet, email and introduce the basics of digital security.
 
 **Secondary Objective:** Mentees will become more comfortable researching and learning about topics in digital literacy on their own.
 
-### Digital Literary Placement
-Incoming mentees take our [Digital Literacy Survey](https://docs.google.com/forms/d/e/1FAIpQLSfBFKSurD0ce4x5KMOFXpww1wGLXE6BsEHFyIkcKjdJQiTsgg/viewform) before starting the program, so your volunteer coordinator will let you know before the program starts whether your mentee is at a beginner/intermediate/advanced level. (The evaluation/leveling script can be found [here](https://github.com/mermatriarchy/ew_eval_script), if ruby is your thing.) 
-
-Advanced users do not need to incorporate any of the units into the 16 week program, but a suggested schedules for beginner/intermediate users can be found [here](#suggested-weekly-schedule).
-
 ### How to use this curriculum
-Each section can be taught as a stand alone unit, or as a series. If a mentee is already proficient in one or many areas, the mentee can focus on the areas where they most want to improve their digital literacy.
+Each section can be taught as a stand alone unit, or as a series, in a 1:1 mentorship setting or as self-paced lessons for independent study. If a mentee is already proficient in one or many areas, the mentee can focus on the areas where they most want to improve their digital literacy.
 
-During your first meeting with your mentee, you can use the [digital proficiency pairing assessment](digital-proficiency-pairing.md) to get a sense of your mentee's digital literacy, and set up some folders and files for the program.
+The lessons are divided into 5 unites: Computer Basics, The Internet, Search, Email and Digital Security. Some lessons, such as The Internet and Computer Basics, come with step-by-step instructions on how to accomplish each task; these documents are mostly for reference because most mentees entering this program will already know computer basics if they've applied to our program online. There are many How-To guides on the internet, so the lessons following Computer Basics/The Internet link to external blog posts or documentation that cover the topics in the lesson (all links are kept up to date, so none of the resources should be stale, but if a link is broken, please let us know). For **Computer Basics** and **The Internet**, you can walk through each section with your mentee as a pairing session, or your mentee can study the docs independently and bring any questions they have to the 1:1 session. For **Search**, **Email**, and **Digital Security**, we recommend that the mentor and mentee read through the resources listed in the readme before a session, and then discuss any questions or walk through any activities where the mentee has questions. Both the step-by-step lesson format and the externally linked resources can be used as a guide for the types of tasks to talk about and practice with your mentee. 
 
-Each lesson plan has a list of topics that correspond with items covered in our Tech Literacy Survey. Lessons are meant to elaborate on the areas we ask about in the survey. Some lessons, such as The Internet and Computer Basics, come with step-by-step instructions on how to accomplish each task. Because there are already a lot of How-To guides on the internet, the lessons following Computer Basics/The Internet link to external blog posts or documentation that cover the topics in the lesson (all links are kept up to date, so none of the resources should be stale, but if a link is broken, please let us know). Both the step-by-step lesson format and the externally linked resources can be used as a guide for the types of tasks to talk about and practice with your mentee. If your mentee is more advanced and feels comfortable doing self study, the lessons can be assigned as homework to review the documentation and practice the tasks themselves. If your mentee is an intermediate/beginner level and feels less comfortable with self study, you can pair on some of the tasks and talk them through the process outlined in each topic. Additional resources and activities are listed for more practice/discussion. Regardless of whether your mentee will be focused on self-study or pairing, we highly recommend helping them find videos on [Digital Learn](https://www.digitallearn.org/) that correspond to the topics covered below.
+If your mentee is more advanced and feels comfortable doing self-study, the lessons can be assigned as homework to review the documentation and practice the tasks themselves. If your mentee is an intermediate/beginner level and feels less comfortable with self-study, you can pair on some of the tasks and talk them through the process outlined in each topic. Additional resources and activities are listed at the end of each unit for more practice/discussion. Regardless of whether your mentee will be focused on self-study or pairing, we highly recommend helping them find videos on [Digital Learn](https://www.digitallearn.org/) that correspond to the topics covered below.
 
-| Unit | Prerequisites |
+| Unit | Prerequisites | 
 | --- | --- |
 | [Computer Basics](computer-basics.md) | None |
 | [The Internet](the-internet.md) | Computer Basics |
 | [Search](search.md) | Computer Basics, The Internet |
 | [Email](email.md) | Computer Basics, The Internet |
 | [Digital Security](digital-security.md) | Computer Basics, The Internet |
-| Productivity | Computer Basics, The Internet |
-| Mobile | None |
 
-### Suggested Weekly Schedule
+### Suggested Self-Paced Schedule
 **Beginner Level:**
 - 2 units/week for 4 weeks
 - Computer Basics and The Internet should be covered first, but other units can be done in any order

@@ -1,5 +1,5 @@
 # Computer Basics
-This unit details basic actions needed to effectively use a computer and serves as a reference document for mentees who want a guide/refresher for computer basics.
+This unit details basic actions needed to effectively use a computer and serves as a reference document for mentees who want a guide/refresher for computer basics. Depending on your mentee's level of digital literacy, you can either pair on each of the below actions during a session together, or your mentee can study this guide and come to your meeting with questions to dicuss about how to do anything on this list.
 
 ### Turning On Your Computer
 Computers often come with a specific power button. To turn your computer on, look for the power symbol (a circle with a vertical line through the top) and press it to turn on your machine.
@@ -121,8 +121,19 @@ Right click on the file or folder so it’s highlighted and a dropdown list appe
 - After installation is complete, the application can be found in your Applications folder
 
 ### ACTIVITIES
-Typing Exercises & Tk
+Have your mentee search for a code editor online and download it (Sublime, VS Code)
+
+Have your mentee create a folder on their desktop for EW work
+
+Have your mentee take some notes using the Text Edit application to work on creating and saving files
+  - Have them copy/paste useful information from an article into their notes and reformat it
+
+[Typing.com](https://www.typing.com/student/lessons) offers some free lessons for typing practice
+
+[Speed Coder](https://www.speedcoder.net/lessons/) has free modules for practice typing in different programming languages
 
 ### Additional Resources
-Copy/paste, undo/redo & other helpful editing shortcuts
+A full list of Mac keyboard shortcuts can be found [here](https://support.apple.com/en-us/HT201236)
+
+A list of PC keyboard shortcuts can be found [here](https://support.microsoft.com/en-us/windows/windows-keyboard-shortcuts-3d444b08-3a00-abd6-67da-ecfc07e86b98#ID0EBD=Windows_11)
 
