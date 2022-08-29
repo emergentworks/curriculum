@@ -10,7 +10,7 @@ of the phases to fit the mentee's needs.
 * Difficulty navigating computer and smartphone interface
 * No or incomplete professional portfolio
 
-## Module 1:  Using the internet safely & effectively
+## Module 1: Using the internet safely & effectively
 
 ### Duration
 4 weeks
@@ -60,7 +60,7 @@ of the phases to fit the mentee's needs.
 * Source doc: copypasta
 * This is a partial selection. Check to make sure intra-doc links work.
 
-## Module 2:  Using the internet for communication and productivity
+## Module 2: Using the internet for communication and productivity
 
 ### Duration
 4 weeks
@@ -114,7 +114,7 @@ of the phases to fit the mentee's needs.
 * Mentees will have an understanding of how to create / manage a digital workspace
 * Workflow Management
 
-## Module 3 - Research and Automation
+## Module 3: Research and Automation
 
 ### Duration
 4 weeks
