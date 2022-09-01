@@ -8,15 +8,24 @@ Each student has different learning goals and each project is different so this 
 
 Some mentorship pairs may be ready immediately to begin planning a final project, others may not advance that far through the program – you can use your first session to find out where in the curriculum to start.
 
-## How to navigate this repository
+---
+
+## Navigate by Phases
+### [Phase 1: Digital Literacy](digital-literacy/phase-1.md)
+### [Phase 2: Web Fundamentals](webdev/phase-2.md)
+### [Phase 3: Intro to Programming](webdev/phase-3.md)
+
+---
+
+## Emergent Work Resources
 
 As of 2022, Emergent Works will focus on:
 
-[Web Development](webdev)
+[Web Development](webdev/README.md)
    - HTML & CSS
    - Javascript (if desired)
 
-Optionally, we have gathered some learning resources for [digital literacy](digital-literacy) for students who are looking for additional tutorials on computer basics, email, the internet, and digital security. 
+Optionally, we have gathered some learning resources for [digital literacy](digital-literacy/README.md) for students who are looking for additional tutorials on computer basics, email, the internet, and digital security. 
 
 To access any resources from previous years, check the [legacy folder](legacy).
 
