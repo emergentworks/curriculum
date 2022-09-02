@@ -1,4 +1,7 @@
+<a href="https://emergentworks.org"><img src="../EWLogo.png" alt="EmergentWorks Logo" title="EmergentWorks Logo" width="194" height="35"/></a>
+
 # Email
+
 This unit goes over the basics of email, using gmail specifically as the email provider because it's a free service and well-documented. It's assumed that your mentee already has an email because the online mentorship requires one, but you can walk through any of the email activities below with your mentee to strengthen their proficiency.
 
 For creating an email account, we recommend using [gmail](https://accounts.google.com/signup/v2/webcreateaccount).
@@ -12,7 +15,9 @@ Since Gmail is well documented on the internet, here are additional resources fo
 [Searching for specific emails](https://support.google.com/a/users/answer/9259943?hl=en&ref_topic=9259942)<br>
 
 ## Activities
+
 Ensure that your mentee can:
+
 - Compose a new email
 - Organize their inbox in a way that feels help to them (if they want)
 - Identify spam emails
