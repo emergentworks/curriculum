@@ -3,7 +3,17 @@
 # Phase 2 - Web Fundamentals
 
 This is EW's Phase 2 Mentee Curriculum during the 12 weeks mentorship.
-Phase 2 consists of 3 Modules, with each module being 4 weeks. During the mentorship, the mentor is expected to utilize the Phase 2 curriculum and adjust the pace of it according to their mentee's needs. In the curriculum, mentor will find hyperlinked resources that they can use. Mentors will also be provided with a [lesson plan template](https://docs.google.com/document/d/1zxx33pMIud3dbVyI-OS6yUb64AkhTxDSpJbNCj7lftE/edit) that can be used to structure each lesson in accordance with the curriculum. Program staff will be of assistance for support with lesson planning if needed. If a mentee is between phases, such as mentee needs a little from Phase 1 & 2, then mentor will combine parts of each of the phases to fit the mentee's needs.
+Phase 2 consists of 3 Modules, with each module being 4 weeks.
+
+During the mentorship, the mentor is expected to utilize the Phase 2 curriculum and
+adjust the pace of it according to their mentee's needs.
+
+In the curriculum, the mentor will find hyperlinked resources that they can use.
+
+Mentors will also be provided with a <a href="https://docs.google.com/document/d/1zxx33pMIud3dbVyI-OS6yUb64AkhTxDSpJbNCj7lftE/edit" target="_blank">lesson plan template</a> that can be used to structure each lesson in accordance with the curriculum.
+
+Program staff will be of assistance for support with lesson planning if needed.
+If a mentee is between phases, such as mentee needs a little from Phase 1 & 2, then the mentor will combine parts of each of the phases to fit the mentee's needs.
 
 ### Mentee Starting Skill Level
 
@@ -47,10 +57,10 @@ Phase 2 consists of 3 Modules, with each module being 4 weeks. During the mentor
 ### Supporting Educational Resources
 
 - The Odin Project
-  - [Introduction](https://www.theodinproject.com/paths/foundations/courses/foundations#introduction)
-  - [Prerequisites](https://www.theodinproject.com/paths/foundations/courses/foundations#prerequisites)
-  - [Git Basics](https://www.theodinproject.com/paths/foundations/courses/foundations#git-basics)
-  - [HTML Foundations](https://www.theodinproject.com/paths/foundations/courses/foundations#html-foundations)
+  - <a href="https://www.theodinproject.com/paths/foundations/courses/foundations#introduction" target="_blank">Introduction</a>
+  - <a href="https://www.theodinproject.com/paths/foundations/courses/foundations#prerequisites" target="_blank">Prerequisites</a>
+  - <a href="https://www.theodinproject.com/paths/foundations/courses/foundations#git-basics" target="_blank">Git Basics</a>
+  - <a href="https://www.theodinproject.com/paths/foundations/courses/foundations#html-foundations" target="_blank">HTML Foundations</a>
 
 ## Module 2: Deep dive into HTML, CSS
 
@@ -92,8 +102,8 @@ Phase 2 consists of 3 Modules, with each module being 4 weeks. During the mentor
 ### Supporting Educational Resources
 
 - The Odin Project
-  - [CSS Foundation](https://www.theodinproject.com/paths/foundations/courses/foundations#css-foundations)
-  - [Flexbox](https://www.theodinproject.com/paths/foundations/courses/foundations#flexbox)
+  - <a href="https://www.theodinproject.com/paths/foundations/courses/foundations#css-foundations" target="_blank">CSS Foundation</a>
+  - <a href="https://www.theodinproject.com/paths/foundations/courses/foundations#flexbox" target="_blank">Flexbox</a>
 
 ## Module 3: Intro to Javascript
 
@@ -132,10 +142,10 @@ Phase 2 consists of 3 Modules, with each module being 4 weeks. During the mentor
 ### Supporting Educational Resources
 
 - The Odin Project
-  - [JavaScript Basics](https://www.theodinproject.com/paths/foundations/courses/foundations#javascript-basics)
-  - Bonus - [The Back End](https://www.theodinproject.com/paths/foundations/courses/foundations#the-back-end)
-  - [Conclusion](https://www.theodinproject.com/paths/foundations/courses/foundations#conclusion)
+  - <a href="https://www.theodinproject.com/paths/foundations/courses/foundations#javascript-basics" target="_blank">JavaScript Basics</a>
+  - Bonus - <a href="https://www.theodinproject.com/paths/foundations/courses/foundations#the-back-end" target="_blank">The Back End</a>
+  - <a href="https://www.theodinproject.com/paths/foundations/courses/foundations#conclusion" target="_blank">Conclusion</a>
 
 ### Check out
 
-- [Supplemental and Alternative Materials](supplemental)
+- <a href="supplemental" target="_blank">Supplemental and Alternative Materials</a>
