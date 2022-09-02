@@ -170,6 +170,12 @@ of the phases to fit the mentee's needs.
 - Empower mentees with skills to safely explore and teach themselves new skills
 - Create a presentation (passion project)
 
+### Supplemental resources
+
+- Optionally, we have gathered some learning resources for [digital literacy](README.md) for students who are looking for additional tutorials on computer basics, email, the internet, and digital security.
+
+---
+
 #### Footnotes
 
 \* = Already included in the section’s link

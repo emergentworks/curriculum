@@ -1,7 +1,7 @@
 <a href="https://emergentworks.org"><img src="EWLogo.png" alt="EmergentWorks Logo" title="EmergentWorks Logo" width="194" height="35"/></a>
 
 # Curriculum
- 
+
 The Emergent Works curriculum is **a guide** that supports our mentors and students in their learning goals & development of their project.
 
 Each student has different learning goals and each project is different so this curriculum is a resource that doesn’t aim to cover everything but rather serves as a jumping off point and something for our members to come back to when they need help.
@@ -20,16 +20,7 @@ Some mentorship pairs may be ready immediately to begin planning a final project
 
 ---
 
-## Emergent Work Resources
-
-As of 2022, Emergent Works will focus on:
-
-[Web Development](webdev/README.md)
-
-- HTML & CSS
-- Javascript (if desired)
-
-Optionally, we have gathered some learning resources for [digital literacy](digital-literacy/README.md) for students who are looking for additional tutorials on computer basics, email, the internet, and digital security.
+## Emergent Work Legacy Resources
 
 To access any resources from previous years, check the [legacy folder](legacy).
 

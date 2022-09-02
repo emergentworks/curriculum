@@ -135,3 +135,7 @@ Phase 2 consists of 3 Modules, with each module being 4 weeks. During the mentor
   - [JavaScript Basics](https://www.theodinproject.com/paths/foundations/courses/foundations#javascript-basics)
   - Bonus - [The Back End](https://www.theodinproject.com/paths/foundations/courses/foundations#the-back-end)
   - [Conclusion](https://www.theodinproject.com/paths/foundations/courses/foundations#conclusion)
+
+### Check out
+
+- [Supplemental and Alternative Materials](supplemental)
