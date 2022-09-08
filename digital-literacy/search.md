@@ -1,5 +1,3 @@
-<a href="https://emergentworks.org"><img src="../EWLogo.png" alt="EmergentWorks Logo" title="EmergentWorks Logo" width="194" height="35"/></a>
-
 # Internet Search
 
 This unit goes over the basics of using Google search and how to evaluate information on the internet. There are fewer activities for pairing in this unit, so for this lesson, we recommend that both mentor & mentee read through these docs ahead of time, and discuss any questions that come up during a meeting.
