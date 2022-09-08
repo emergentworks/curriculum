@@ -1,5 +1,3 @@
-<a href="https://emergentworks.org"><img src="../EWLogo.png" alt="EmergentWorks Logo" title="EmergentWorks Logo" width="194" height="35"/></a>
-
 # The Internet
 
 This unit goes over some basic ways to use the internet and navigate websites. This can serve as a step-by-step tutorial as well as reference documentation for mentees. This unit is focused primarily on navigating the internet rather than how the internet works. Depending on your mentee's level of digital literacy, you can either pair on each of the below actions during a session together (except connecting to the internet if you're not in person), or your mentee can study this guide and come to your meeting with questions to dicuss about how to do anything on this list.
