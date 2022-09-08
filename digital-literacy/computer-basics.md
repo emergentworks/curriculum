@@ -1,5 +1,3 @@
-<a href="https://emergentworks.org"><img src="../EWLogo.png" alt="EmergentWorks Logo" title="EmergentWorks Logo" width="194" height="35"/></a>
-
 # Computer Basics
 
 This unit details basic actions needed to effectively use a computer and serves as a reference document for mentees who want a guide/refresher for computer basics. Depending on your mentee's level of digital literacy, you can either pair on each of the below actions during a session together, or your mentee can study this guide and come to your meeting with questions to dicuss about how to do anything on this list.
