@@ -35,8 +35,8 @@ really recall all of the material covered. This is _normal_ for the way the mate
 It provides a basic exposure, but you will have to go back and look up things that were
 covered.
 
-- [Responsive Web Design](https://www.freecodecamp.org/learn/responsive-web-design/)
-- [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
+- <a href="https://www.freecodecamp.org/learn/responsive-web-design/" target="_blank">Responsive Web Design</a>
+- <a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/" target="_blank">JavaScript Algorithms and Data Structures</a>
   > The JavaScript curriculum is notably lacking in any sort of DOM interaction. This can result
   > in quite a lengthy period of learning JavaScript, without connecting it back to
   > how it's going to tie back into what you've learned about HTML and CSS and can improve
@@ -57,17 +57,17 @@ Quizzes and projects are "Pro" features and are not free.
 Many of the "cons" for Free Code Camp apply here as well, as both
 take a pretty similar approach.
 
-- [Learn HTML](https://www.codecademy.com/learn/learn-html)
+- <a href="https://www.codecademy.com/learn/learn-html" target="_blank">Learn HTML</a>
 
-- [introduction To JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)
+- <a href="https://www.codecademy.com/learn/introduction-to-javascript" target="_blank">introduction To JavaScript</a>
 
 ### Exercism
 
-Exercism has a guided [syllabus](https://exercism.org/tracks/javascript/concepts) for learning
+Exercism has a guided <a href="https://exercism.org/tracks/javascript/concepts" target="_blank">syllabus</a> for learning
 JavaScript. Each lesson is accompanied by an exercise to complete to demonstrate
 comprehension of the material. Exercises can be completed in an in-browser editor, or
 can be downloaded to complete locally, and the student can upload the results to have
-their work checked and progress tracked. (Recommend following the [installation](https://exercism.org/docs/tracks/javascript/installation)
+their work checked and progress tracked. (Recommend following the <a href="https://exercism.org/docs/tracks/javascript/installation" target="_blank">installation</a>
 link and working locally. The local development experience will be valuable.)
 
 > Recommend this as a source for mentors picking exercises to reinforce learning.
@@ -94,9 +94,9 @@ can be a bit difficult to interpret, thought the unit tests can clarify things.
 
 ### JavaScript30
 
-[JavaScript30](https://javascript30.com)
+<a href="https://javascript30.com" target="_blank">JavaScript30</a>
 
-> Note: This is actually part of the practice section of [DOM MANIPULATION AND EVENTS](https://www.theodinproject.com/lessons/foundations-dom-manipulation-and-events)
+> Note: This is actually part of the practice section of <a href="https://www.theodinproject.com/lessons/foundations-dom-manipulation-and-events" target="_blank">DOM MANIPULATION AND EVENTS</a>
 > in The Odin Project curriculum
 
 These are well done tutorials from Wes Bos, a very good instructor. Many of his
@@ -112,9 +112,34 @@ They are generally short tutorials that start with nicely designed resources
 and work the student through some fun projects that demonstrate
 JavaScript integration enhanced web page interaction.
 
+### JavaScript Visualized
+
+<a href="https://dev.to/lydiahallie/series/3341" target="_blank">JavaScript Visualized</a>
+
+I very nice series of blog posts covering:
+
+- <a href="https://dev.to/lydiahallie/javascript-visualized-event-loop-3dif" target="_blank">Event Loop</a>
+- <a href="https://dev.to/lydiahallie/javascript-visualized-hoisting-478h" target="_blank">Hoisting</a>
+- <a href="https://dev.to/lydiahallie/javascript-visualized-scope-chain-13pd" target="_blank">Scope</a>
+- <a href="https://dev.to/lydiahallie/javascript-visualized-the-javascript-engine-4cdf" target="_blank">JavaScript Engine</a>
+- <a href="https://dev.to/lydiahallie/javascript-visualized-prototypal-inheritance-47co" target="_blank">Prototypal Inheritance</a>
+- <a href="https://dev.to/lydiahallie/javascript-visualized-generators-and-iterators-e36" target="_blank">Generators and Iterators</a>
+- <a href="https://dev.to/lydiahallie/javascript-visualized-promises-async-await-5gke" target="_blank">Promises and Async/Await</a>
+
+#### Pros
+
+These posts cover topics that JavaScript programmers may struggle to wrap their heads around.
+
+The visualizations that accompany the posts are exceptional, and may be especially helpful in
+gaining a conceptual model of the topics.
+
+#### Cons
+
+Not really a "con", but don't expect these to be full-blown lessons for learning JavaScript.
+
 ## Git
 
-### [Learning Git Branching (game)](https://learngitbranching.js.org/)
+### <a href="https://learngitbranching.js.org/" target="_blank">Learning Git Branching (game)</a>
 
 #### Pros:
 

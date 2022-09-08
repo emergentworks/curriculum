@@ -11,21 +11,16 @@ Some mentorship pairs may be ready immediately to begin planning a final project
 ---
 
 ## Navigate by Phases
+
 ### [Phase 1: Digital Literacy](digital-literacy/phase-1.md)
+
 ### [Phase 2: Web Fundamentals](webdev/phase-2.md)
+
 ### [Phase 3: Intro to Programming](webdev/phase-3.md)
 
 ---
 
-## Emergent Work Resources
-
-As of 2022, Emergent Works will focus on:
-
-[Web Development](webdev/README.md)
-   - HTML & CSS
-   - Javascript (if desired)
-
-Optionally, we have gathered some learning resources for [digital literacy](digital-literacy/README.md) for students who are looking for additional tutorials on computer basics, email, the internet, and digital security. 
+## Emergent Work Legacy Resources
 
 To access any resources from previous years, check the [legacy folder](legacy).
 
