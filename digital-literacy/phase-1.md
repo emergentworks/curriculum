@@ -71,11 +71,9 @@ of the phases to fit the mentee's needs.
 - Get Chrome installed
 
 ### Learning Outcomes
-
-- Docs to Markdown version 1.0β33
-- Mon Aug 29 2022 15:51:49 GMT-0700 (PDT)
-- Source doc: copypasta
-- This is a partial selection. Check to make sure intra-doc links work.
+- Educate mentees on importance of public posts on social media, including how they may be viewed by potential employers and LE
+- Use online services to better understand their financials
+- Mentees will have an understanding of how to create / manage a digital workspace
 
 ## Module 2: Using the internet for communication and productivity
 
