@@ -1,5 +1,3 @@
-<a href="https://emergentworks.org"><img src="../EWLogo.png" alt="EmergentWorks Logo" title="EmergentWorks Logo" width="194" height="35"/></a>
-
 # Digital Proficiency Pairing
 
 This series of questions/exercises is intended to gauge a mentee’s digital literacy to identify additional areas for improvement and/or to gauge whether additional study in the digital literacy track would be helpful. Take notes on areas where the mentee is unsure of how to do things, and note the unit next to the question in case you’d like to return to the topic with your mentee (key for unit abbreviations is below).
