@@ -18,7 +18,8 @@ If a mentee is between phases, such as mentee needs a little from Phase 1 & 2, t
 
 ### Mentee Starting Skill Level
 
-- TODO:
+- Familiarity with an object-oriented programming language (JavaScript)
+- Proficiency in HTML and CSS
 
 ## Module 1: Intro to JavaScript and Intermediate HTML/CSS
 
