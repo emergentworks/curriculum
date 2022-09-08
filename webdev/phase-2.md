@@ -148,4 +148,4 @@ If a mentee is between phases, such as mentee needs a little from Phase 1 & 2, t
 
 ### Check out
 
-- <a href="supplemental" target="_blank">Supplemental and Alternative Materials</a>
+- [Supplemental and Alternative Materials](supplemental.md)
