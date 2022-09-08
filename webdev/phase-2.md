@@ -1,5 +1,3 @@
-<a href="https://emergentworks.org"><img src="../EWLogo.png" alt="EmergentWorks Logo" title="EmergentWorks Logo" width="194" height="35"/></a>
-
 # Phase 2 - Web Fundamentals
 
 This is EW's Phase 2 Mentee Curriculum during the 12 weeks mentorship.
