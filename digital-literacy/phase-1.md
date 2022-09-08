@@ -1,5 +1,3 @@
-<a href="https://emergentworks.org"><img src="../EWLogo.png" alt="EmergentWorks Logo" title="EmergentWorks Logo" width="194" height="35"/></a>
-
 # Phase 1 - Digital Literacy
 
 This is EW's Phase 1 Mentee Curriculum during the 12 weeks mentorship.
