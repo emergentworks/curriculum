@@ -1,5 +1,5 @@
 title: "EmergentWorks Curriculum"
 remote_theme: just-the-docs/just-the-docs
-color_scheme: "light"
+color_scheme: "dark"
 search_enabled: false
-logo: "/assets/images/EWLogo.png"
+# logo: "/assets/images/EWLogo.png"
