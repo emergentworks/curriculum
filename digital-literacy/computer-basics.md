@@ -63,7 +63,7 @@ Make sure your mentee feels comfortable with the basics of typing: letters, capi
 
 #### Creating Folders
 
-\*This is Mac specific
+**This is Mac specific.**
 The easiest ways to create a folder on your Mac is from the Finder window:
 
 1. Click on the Finder icon in the menu dock on the home screen (the menu dock is the row of icons at the edge of your screen). The icon is a blue/light blue smiley face
