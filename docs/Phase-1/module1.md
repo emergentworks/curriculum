@@ -8,7 +8,7 @@ permalink: /curriculum/phase1digitalLiteracy/module1
 
 ## Module 1: Using the internet safely & effectively
 
-### Duration
+### Duration 
 
 4 weeks
 
