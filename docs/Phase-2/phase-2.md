@@ -1,3 +1,11 @@
+---
+layout: default
+title: Phase 2 - Web Fundamentals
+nav_order: 2
+has_children: true
+permalink: /curriculum/phase2webFundamentals
+---
+
 # Phase 2 - Web Fundamentals
 
 This is EW's Phase 2 Mentee Curriculum during the 12 weeks mentorship.

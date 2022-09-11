@@ -1,3 +1,11 @@
+---
+layout: default
+title: Phase 3 - Intro to Programming
+nav_order: 3
+has_children: true
+permalink: /curriculum/phase3introToProgramming
+---
+
 # Phase 3 - Intro to Programming
 
 This is EW's Phase 3 Mentee Curriculum during the 12 weeks mentorship.

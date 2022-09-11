@@ -17,7 +17,7 @@ The lessons are divided into 5 unites: Computer Basics, The Internet, Search, Em
 If your mentee is more advanced and feels comfortable doing self-study, the lessons can be assigned as homework to review the documentation and practice the tasks themselves. If your mentee is an intermediate/beginner level and feels less comfortable with self-study, you can pair on some of the tasks and talk them through the process outlined in each topic. Additional resources and activities are listed at the end of each unit for more practice/discussion. Regardless of whether your mentee will be focused on self-study or pairing, we highly recommend helping them find videos on [Digital Learn](https://www.digitallearn.org/) that correspond to the topics covered below.
 
 | Unit                                    | Prerequisites                 |
-| --------------------------------------- | ----------------------------- |
+| :-------------------------------------- | :---------------------------- |
 | [Computer Basics](computer-basics.md)   | None                          |
 | [The Internet](the-internet.md)         | Computer Basics               |
 | [Search](search.md)                     | Computer Basics, The Internet |
