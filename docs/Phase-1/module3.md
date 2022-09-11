@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Phase 1 - Module 3: Research and Automation
+parent: Phase 1 - Digital Literacy
 has_children: false
 permalink: /curriculum/phase1digitalLiteracy/module3
 ---
