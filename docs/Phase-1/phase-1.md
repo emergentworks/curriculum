@@ -21,12 +21,18 @@ Program staff will be of assistance for support with lesson planning if needed.
 If a mentee is between phases, perhaps a mentee needs a little from Phase 1 & 2, then the mentor will combine parts of each
 of the phases to fit the mentee's needs.
 
-### Mentee Starting Skill Level
+## Mentee Starting Skill Level
 
 - Limited digital literacy
 - Difficulty navigating email
 - Difficulty navigating computer and smartphone interface
 - No or incomplete professional portfolio
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
 
 #### Footnotes
 
