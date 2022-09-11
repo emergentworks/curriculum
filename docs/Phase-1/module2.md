@@ -71,3 +71,5 @@ permalink: /curriculum/phase1digitalLiteracy/module2
 \* = Already included in the section’s link
 
 † = Articles for mentors to read before teaching the subject
+
+ˤ = Mentors should not be giving financial advice. Instead, they should help mentees feel comfortable navigating verified online tools.
