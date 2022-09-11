@@ -1,3 +1,9 @@
+---
+layout: default
+title: Curriculum
+nav_order: 1
+permalink: /
+---
 # Curriculum
 
 The Emergent Works curriculum is **a guide** that supports our mentors and students in their learning goals & development of their project.
@@ -10,11 +16,11 @@ Some mentorship pairs may be ready immediately to begin planning a final project
 
 ## Navigate by Phases
 
-### [Phase 1: Digital Literacy](digital-literacy/phase-1.md)
+### [Phase 1: Digital Literacy](docs/phase-1/phase-1.md)
 
-### [Phase 2: Web Fundamentals](webdev/phase-2.md)
+### [Phase 2: Web Fundamentals](docs/phase-2/phase-2.md)
 
-### [Phase 3: Intro to Programming](webdev/phase-3.md)
+### [Phase 3: Intro to Programming](docs/phas-3/phase-3.md)
 
 ---
 
