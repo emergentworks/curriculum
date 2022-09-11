@@ -65,3 +65,9 @@ permalink: /curriculum/phase1digitalLiteracy/module2
 - Use online services to better understand their financials
 - Mentees will have an understanding of how to create / manage a digital workspace
 - Workflow Management
+
+#### Footnotes
+
+\* = Already included in the section’s link
+
+† = Articles for mentors to read before teaching the subject
