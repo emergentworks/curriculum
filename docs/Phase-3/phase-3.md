@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Phase 3 - Intro to Programming
-nav_order: 3
+nav_order: 4
 has_children: true
 permalink: /curriculum/phase3introToProgramming
 ---
