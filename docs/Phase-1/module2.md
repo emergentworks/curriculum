@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Phase 1 - Module 2: Using the internet for communication and productivity
+parent: Phase 1 - Digital Literacy
 nav_order: 2
 has_children: false
 permalink: /curriculum/phase1digitalLiteracy/module2
