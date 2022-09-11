@@ -3,7 +3,6 @@ layout: default
 title: Phase 1 - Module 1: Using the internet safely & effectively
 parent: Phase 1 - Digital Literacy
 nav_order: 1
-has_children: false
 permalink: /curriculum/phase1digitalLiteracy/module1
 ---
 
