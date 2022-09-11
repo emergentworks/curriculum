@@ -28,7 +28,7 @@ of the phases to fit the mentee's needs.
 - Difficulty navigating computer and smartphone interface
 - No or incomplete professional portfolio
 
-## Table of contents
+## Modules
 {: .no_toc .text-delta }
 
 1. TOC
