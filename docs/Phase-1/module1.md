@@ -59,3 +59,7 @@ permalink: /curriculum/phase1digitalLiteracy/module1
 - Educate mentees on importance of public posts on social media, including how they may be viewed by potential employers and LE
 - Use online services to better understand their financials
 - Mentees will have an understanding of how to create / manage a digital workspace
+
+#### Footnotes
+
+† = Articles for mentors to read before teaching the subject
