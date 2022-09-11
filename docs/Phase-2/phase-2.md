@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Phase 2 - Web Fundamentals
-nav_order: 2
+nav_order: 3
 has_children: true
 permalink: /curriculum/phase2webFundamentals
 ---
