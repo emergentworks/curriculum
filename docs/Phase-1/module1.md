@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Phase 1 - Module 1: Using the internet safely & effectively
-parent: Phase 1 - Digital Literacy
+title: Module 1: Using the internet safely & effectively
+parent: Phase 1
 nav_order: 1
-permalink: /curriculum/phase1digitalLiteracy/module1
+permalink: /phase1digitalLiteracy/module1
 ---
 
 ## Module 1: Using the internet safely & effectively
