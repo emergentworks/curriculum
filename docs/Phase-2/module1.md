@@ -3,7 +3,7 @@ layout: default
 title: Module 1 - Intro to HTML
 parent: Phase 2 - Web Fundamentals
 nav_order: 1
-permalink: /phase1/module1
+permalink: /phase2/module1
 ---
 
 ## Module 1: Intro to HTML
