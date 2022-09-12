@@ -1,3 +1,8 @@
+---
+layout: default
+title: Project Showcase
+nav_exclude: true
+---
 Feasibility Level from 1 - 6
 
 [Is it Christmas Yet?](https://isitchristmas.com/) - 1
