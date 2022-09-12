@@ -3,7 +3,7 @@ layout: default
 title: Module 1: Using the internet safely & effectively
 parent: Phase 1
 nav_order: 1
-permalink: /phase1digitalLiteracy/module1
+permalink: /phase1/module1
 ---
 
 ## Module 1: Using the internet safely & effectively
