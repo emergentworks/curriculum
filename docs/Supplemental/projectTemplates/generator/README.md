@@ -1,5 +1,12 @@
-<a href="https://emergentworks.org"><img src="../../../EWLogo.png" alt="EmergentWorks Logo" title="EmergentWorks Logo" width="194" height="35"/></a>
-
+---
+layout: default
+title: Generator
+parent: Project Templates
+grand_parent: Supplemental Materials
+nav_order: 2
+has_children: false
+permalink: /supplemental/projectTemplates/generator
+---
 # Generator
 
 ### Objective
