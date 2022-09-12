@@ -1,3 +1,8 @@
+---
+layout: default
+title: Javascript & Developer Mindset
+nav_exclude: true
+---
 # Javascript & Developer Mindset
 
 ### Objectives
