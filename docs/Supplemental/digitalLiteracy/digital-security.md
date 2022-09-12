@@ -2,6 +2,7 @@
 layout: default
 title: Digital Security
 parent: Digital Literacy
+grand_parent: Supplemental Materials
 nav_order: 5
 permalink: /supplemental/digitalLiteracy/digitalSecurity
 ---
