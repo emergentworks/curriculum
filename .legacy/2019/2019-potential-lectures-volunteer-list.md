@@ -1,3 +1,8 @@
+---
+layout: default
+title: 2019 potential lectures volunteer list
+nav_exclude: true
+---
 # 2019 potential lectures volunteer list
 
 - CSS transitions & animations - Daniel
