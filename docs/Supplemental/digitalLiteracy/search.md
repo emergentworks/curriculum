@@ -2,6 +2,7 @@
 layout: default
 title: Internet Search
 parent: Digital Literacy
+grand_parent: Supplemental Materials
 nav_order: 3
 permalink: /supplemental/digitalLiteracy/internetSearch
 ---
