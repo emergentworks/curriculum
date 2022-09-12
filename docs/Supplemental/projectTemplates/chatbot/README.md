@@ -1,3 +1,12 @@
+---
+layout: default
+title: Chat Bot
+parent: Project Templates
+grand_parent: Supplemental Materials
+nav_order: 1
+has_children: false
+permalink: /supplemental/projectTemplates/chatbot
+---
 # Chat Bot
 
 ### Objective
