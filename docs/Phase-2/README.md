@@ -1,3 +1,8 @@
+---
+layout: default
+title: Web Development
+nav_exclude: true
+---
 # Web Development
 
 In an effort to respect the time of both mentors and mentees, we're recommending a default curriculum that
