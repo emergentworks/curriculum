@@ -3,7 +3,7 @@ layout: default
 title: Module 2 - Intro to Javascript
 parent: Phase 2 - Web Fundamentals
 nav_order: 3
-permalink: /phase1/module3
+permalink: /phase2/module3
 ---
 
 ## Module 3: Intro to Javascript
