@@ -2,6 +2,7 @@
 layout: default
 title: Digital Proficiency Pairing
 parent: Digital Literacy
+grand_parent: Supplemental Materials
 nav_order: 0
 permalink: /supplemental/digitalLiteracy/digitalProficiencyPairing
 ---
