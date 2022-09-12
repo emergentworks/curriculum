@@ -1,3 +1,8 @@
+---
+layout: default
+title: git and commandline 101
+nav_exclude: true
+---
 # Git + Command Line 101
 
 ### Objectives
