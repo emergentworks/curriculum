@@ -1,3 +1,8 @@
+---
+layout: default
+title: Product Development
+nav_exclude: true
+---
 # Product Development
 
 *Emergent Works students build technology solutions to
