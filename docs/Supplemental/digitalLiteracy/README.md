@@ -2,7 +2,7 @@
 layout: default
 title: Digital Literacy
 parent: Supplemental Materials
-nav_order: 4
+nav_order: 1
 has_children: true
 permalink: /supplemental/digitalLiteracy
 ---
