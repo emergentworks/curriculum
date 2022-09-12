@@ -2,6 +2,7 @@
 layout: default
 title: The Internet
 parent: Digital Literacy
+grand_parent: Supplemental Materials
 nav_order: 2
 permalink: /supplemental/digitalLiteracy/theInternet
 ---
