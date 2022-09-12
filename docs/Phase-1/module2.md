@@ -3,7 +3,6 @@ layout: default
 title: Module 2: Using the internet for communication and productivity
 parent: Phase 1
 nav_order: 2
-has_children: false
 permalink: /phase1/module2
 ---
 
