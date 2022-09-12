@@ -82,7 +82,6 @@ GitHub Flavored Markdown does not support the `button` element, so you'll have t
 
 ### Spacing between buttons
 
-Use the [margin utility classes]({{ site.baseurl }}{% link docs/utilities/layout.md %}#spacing) to add spacing between two buttons in the same block.
 
 <div class="code-example" markdown="1">
 [Button with space](http://example.com/){: .btn .btn-purple .mr-2 }
