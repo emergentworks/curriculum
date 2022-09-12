@@ -3,7 +3,7 @@ layout: default
 title: Module 2 - Deep dive into HTML, CSS
 parent: Phase 2 - Web Fundamentals
 nav_order: 2
-permalink: /phase1/module2
+permalink: /phase2/module2
 ---
 
 ## Module 2: Deep dive into HTML, CSS
