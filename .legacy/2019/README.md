@@ -1,3 +1,8 @@
+---
+layout: default
+title: JavaScript, HTML, CSS
+nav_exclude: true
+---
 # JavaScript, HTML, CSS
   * [Hack Club](https://hackclub.com/workshops/)
     - p5, React, Next.js, Arduino, Misc
