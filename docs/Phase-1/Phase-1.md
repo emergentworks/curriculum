@@ -3,7 +3,7 @@ layout: default
 title: Phase 1
 nav_order: 2
 has_children: true
-permalink: /phase1digitalLiteracy
+permalink: /phase1
 ---
 
 # Phase 1 - Digital Literacy
