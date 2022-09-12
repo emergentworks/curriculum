@@ -28,13 +28,6 @@ If a mentee is between phases, such as mentee needs a little from Phase 1 & 2, t
 - No or incomplete professional portfolio
 - Finished Phase 1 or is proficient in digital literacy
 
-## Table of contents
-
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
-
 ### Check out
 
 - [Supplemental and Alternative Materials](supplemental.md)
