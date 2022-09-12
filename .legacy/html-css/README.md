@@ -1,3 +1,8 @@
+---
+layout: default
+title: leacy HTML & CSS
+nav_exclude: true
+---
 # HTML & CSS
 
 ### Objectives
