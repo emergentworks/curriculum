@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Phase 1 - Digital Literacy
+title: Phase 1
 nav_order: 2
 has_children: true
-permalink: /curriculum/phase1digitalLiteracy
+permalink: /phase1digitalLiteracy
 ---
 
 # Phase 1 - Digital Literacy
