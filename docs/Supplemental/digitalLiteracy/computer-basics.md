@@ -2,6 +2,7 @@
 layout: default
 title: Computer Basics
 parent: Digital Literacy
+grand_parent: Supplemental Materials
 nav_order: 1
 permalink: /supplemental/digitalLiteracy/computerBasics
 ---
