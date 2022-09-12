@@ -1,3 +1,8 @@
+---
+layout: default
+title: personal website
+nav_exclude: true
+---
 # Personal Website Project
 
 ### Objective
