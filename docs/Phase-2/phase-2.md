@@ -33,7 +33,7 @@ If a mentee is between phases, such as mentee needs a little from Phase 1 & 2, t
 {: .no_toc .text-delta }
 
 1. TOC
-   {:toc}
+{:toc}
 
 ### Check out
 
