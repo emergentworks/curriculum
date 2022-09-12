@@ -2,6 +2,7 @@
 layout: default
 title: Email
 parent: Digital Literacy
+grand_parent: Supplemental Materials
 nav_order: 4
 permalink: /supplemental/digitalLiteracy/email
 ---
