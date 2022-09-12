@@ -1,3 +1,11 @@
+---
+layout: default
+title: Email
+parent: Digital Literacy
+nav_order: 4
+permalink: /supplemental/digitalLiteracy/email
+---
+
 # Email
 
 This unit goes over the basics of email, using gmail specifically as the email provider because it's a free service and well-documented. It's assumed that your mentee already has an email because the online mentorship requires one, but you can walk through any of the email activities below with your mentee to strengthen their proficiency.

@@ -1,3 +1,11 @@
+---
+layout: default
+title: Digital Security
+parent: Digital Literacy
+nav_order: 5
+permalink: /supplemental/digitalLiteracy/digitalSecurity
+---
+
 # Digital Security
 
 This unit goes over some of the basics for securing your accounts online and browsing the internet safely. We recommend reading through these resources before a session and discussing any questions that come up around these topics.

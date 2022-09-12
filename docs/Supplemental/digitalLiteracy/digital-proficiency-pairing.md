@@ -1,3 +1,11 @@
+---
+layout: default
+title: Digital Proficiency Pairing
+parent: Digital Literacy
+nav_order: 0
+permalink: /supplemental/digitalLiteracy/digitalProficiencyPairing
+---
+
 # Digital Proficiency Pairing
 
 This series of questions/exercises is intended to gauge a mentee’s digital literacy to identify additional areas for improvement and/or to gauge whether additional study in the digital literacy track would be helpful. Take notes on areas where the mentee is unsure of how to do things, and note the unit next to the question in case you’d like to return to the topic with your mentee (key for unit abbreviations is below).

@@ -1,3 +1,11 @@
+---
+layout: default
+title: Internet Search
+parent: Digital Literacy
+nav_order: 3
+permalink: /supplemental/digitalLiteracy/internetSearch
+---
+
 # Internet Search
 
 This unit goes over the basics of using Google search and how to evaluate information on the internet. There are fewer activities for pairing in this unit, so for this lesson, we recommend that both mentor & mentee read through these docs ahead of time, and discuss any questions that come up during a meeting.

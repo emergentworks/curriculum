@@ -1,3 +1,12 @@
+---
+layout: default
+title: Digital Literacy
+parent: Supplemental Materials
+nav_order: 4
+has_children: true
+permalink: /supplemental/digitalLiteracy
+---
+
 # Digital Literacy
 
 The lessons in this section are optional and supplementary.
@@ -15,14 +24,6 @@ Each section can be taught as a stand alone unit, or as a series, in a 1:1 mento
 The lessons are divided into 5 unites: Computer Basics, The Internet, Search, Email and Digital Security. Some lessons, such as The Internet and Computer Basics, come with step-by-step instructions on how to accomplish each task; these documents are mostly for reference because most mentees entering this program will already know computer basics if they've applied to our program online. There are many How-To guides on the internet, so the lessons following Computer Basics/The Internet link to external blog posts or documentation that cover the topics in the lesson (all links are kept up to date, so none of the resources should be stale, but if a link is broken, please let us know). For **Computer Basics** and **The Internet**, you can walk through each section with your mentee as a pairing session, or your mentee can study the docs independently and bring any questions they have to the 1:1 session. For **Search**, **Email**, and **Digital Security**, we recommend that the mentor and mentee read through the resources listed in the readme before a session, and then discuss any questions or walk through any activities where the mentee has questions. Both the step-by-step lesson format and the externally linked resources can be used as a guide for the types of tasks to talk about and practice with your mentee.
 
 If your mentee is more advanced and feels comfortable doing self-study, the lessons can be assigned as homework to review the documentation and practice the tasks themselves. If your mentee is an intermediate/beginner level and feels less comfortable with self-study, you can pair on some of the tasks and talk them through the process outlined in each topic. Additional resources and activities are listed at the end of each unit for more practice/discussion. Regardless of whether your mentee will be focused on self-study or pairing, we highly recommend helping them find videos on [Digital Learn](https://www.digitallearn.org/) that correspond to the topics covered below.
-
-| Unit                                    | Prerequisites                 |
-| :-------------------------------------- | :---------------------------- |
-| [Computer Basics](computer-basics.md)   | None                          |
-| [The Internet](the-internet.md)         | Computer Basics               |
-| [Search](search.md)                     | Computer Basics, The Internet |
-| [Email](email.md)                       | Computer Basics, The Internet |
-| [Digital Security](digital-security.md) | Computer Basics, The Internet |
 
 ### Suggested Self-Paced Schedule
 
