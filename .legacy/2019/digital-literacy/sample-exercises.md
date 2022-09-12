@@ -1,3 +1,8 @@
+---
+layout: default
+title: Sample Digital Literacy Exercises
+nav_exclude: true
+---
 # Sample Digital Literacy Exercises
 
 Add sample exercises to this list!
