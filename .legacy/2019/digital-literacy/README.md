@@ -1,3 +1,8 @@
+---
+layout: default
+title: Legacy - digital literacy
+nav_exclude: true
+---
 # Digital Literacy
 
 This is a list of digital literacy skills and concepts orgniazed by topic
