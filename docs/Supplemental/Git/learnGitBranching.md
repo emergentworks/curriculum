@@ -7,15 +7,15 @@ nav_order: 5
 permalink: /supplemental/git/learnGitBranching
 ---
 
-### <a href="https://learngitbranching.js.org/" target="_blank">Learning Git Branching (game)</a>
+# <a href="https://learngitbranching.js.org/" target="_blank">Learning Git Branching (game)</a>
 
-#### Pros:
+## Pros:
 
 Nice graphical presentation of Git commits, branching, etc.
 
 Game challenges can be fun and make git commands a bit more approachable.
 
-#### Cons:
+## Cons:
 
 Some concepts could use a bit more elaboration. They pretty much give you
 just enough to solve the challenge. A bit short on details.
