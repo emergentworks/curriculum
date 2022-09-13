@@ -1,5 +1,9 @@
-<a href="https://emergentworks.org"><img src="EWLogo.png" alt="EmergentWorks Logo" title="EmergentWorks Logo" width="194" height="35"/></a>
-
+---
+layout: default
+title: Code of Conduct
+nav_order: 6
+permalink: /codeofconduct
+---
 # Emergent Works Code of Conduct
 
 This Code of Conduct is based on the [example policy from the Geek Feminism wiki](http://geekfeminism.wikia.com/wiki/Community_anti-harassment), created by the Geek Feminism community.
