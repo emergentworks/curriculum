@@ -5,17 +5,17 @@ parent: Phase 1 - Digital Literacy
 permalink: /phase1/module3
 ---
 
-## Module 3: Research and Automation
+# Module 3: Research and Automation
 
-### Duration
+## Duration
 
 4 weeks
 
-### Facilitation
+## Facilitation
 
 1-on-1 Mentorship sessions
 
-### Learning Topics
+## Learning Topics
 
 - Refreshers
   - <a href="https://edu.gcfglobal.org/en/techsavvy/keyboard-shortcuts/1/" target="_blank">Keyboard shortcuts</a>
@@ -34,17 +34,17 @@ permalink: /phase1/module3
 - Presentation
   - Pick a <a href="https://docs.google.com/document/d/1kOKj_SVUAvNnslnroaot25G773VyYvC32AHjgf462Pc/edit?usp=sharing" target="_blank">technology topic</a> and create presentation using <a href="https://edu.gcfglobal.org/en/googleslides/" target="_blank">Google Slides</a> or infographic using <a href="https://www.canva.com/" target="_blank">Canva</a>
 
-### Key Mentee Deliverables
+## Key Mentee Deliverables
 
 - Group Practical Challenge (online research)
 
-### Learning Outcomes
+## Learning Outcomes
 
 - Empower mentees with skills to safely explore and teach themselves new skills
 - Create a presentation (passion project)
 
-### Supplemental resources
+## Supplemental resources
 
-- Optionally, we have gathered some learning resources for [digital literacy](README.md) for students who are looking for additional tutorials on computer basics, email, the internet, and digital security.
+- Optionally, we have gathered some learning resources for [digital literacy](/Curriculum/supplemental/digitalLiteracy) for students who are looking for additional tutorials on computer basics, email, the internet, and digital security.
 
 ---
