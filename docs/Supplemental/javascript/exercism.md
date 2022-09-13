@@ -7,7 +7,7 @@ nav_order: 3
 permalink: /supplemental/javascript/exercism
 ---
 
-### Exercism
+# Exercism
 
 Exercism has a guided <a href="https://exercism.org/tracks/javascript/concepts" target="_blank">syllabus</a> for learning
 JavaScript. Each lesson is accompanied by an exercise to complete to demonstrate
@@ -18,7 +18,7 @@ link and working locally. The local development experience will be valuable.)
 
 > Recommend this as a source for mentors picking exercises to reinforce learning.
 
-#### Pros:
+## Pros:
 
 There is some flexibility in the students selection of the path through the syllabus, but there
 where there is prerequisite material, you'll need to complete it before moving on. This is pretty nice.
@@ -30,7 +30,7 @@ of exercises (as of this writing there are 139 of them) ranging from easy to dif
 
 It can be a rich source of material to reinforce your understanding of a language.
 
-#### Cons:
+## Cons:
 
 I don't think it's a substitute for the Odin project in the breadth of the
 material that is covered, and some material introducing topics can be pretty "brief"
