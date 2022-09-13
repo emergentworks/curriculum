@@ -18,15 +18,9 @@ Some mentorship pairs may be ready immediately to begin planning a final project
 
 ### [Phase 1: Digital Literacy](/Curriculum/phase1)
 
-### [Phase 2: Web Fundamentals](/Curriculu/phase2)
+### [Phase 2: Web Fundamentals](/Curriculum/phase2)
 
-### [Phase 3: Intro to Programming](/Curriculu/phase3)
-
----
-
-## Emergent Work Legacy Resources
-
-To access any resources from previous years, check the [legacy folder](legacy).
+### [Phase 3: Intro to Programming](/Curriculum/phase3)
 
 ---
 
