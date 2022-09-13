@@ -6,17 +6,17 @@ nav_order: 1
 permalink: /phase1/module1
 ---
 
-## Module 1: Using the internet safely & effectively
+# Module 1: Using the internet safely & effectively
 
-### Duration 
+## Duration 
 
 4 weeks
 
-### Facilitation
+## Facilitation
 
 1-on-1 Mentorship sessions
 
-### Learning Topics
+## Learning Topics
 
 - Using different operating systems
   - <a href="https://www.digitallearn.org/courses/using-a-pc-windows-10-new" target="_blank">PC/Windows</a>
@@ -46,7 +46,7 @@ permalink: /phase1/module1
   - <a href="https://edu.gcfglobal.org/en/thenow/what-are-chatbots/1/" target="_blank">Chatbots</a>
   - <a href="https://edu.gcfglobal.org/en/online-money-tips/how-to-avoid-tax-scams/1/" target="_blank">Avoid tax scams</a>
 
-### Key Mentee Deliverables
+## Key Mentee Deliverables
 
 - Create Google Account and Sync to phone
 - Set up 2-factor Authentication on Google Account
@@ -54,12 +54,12 @@ permalink: /phase1/module1
 - Store password in google’s password manager
 - Get Chrome installed
 
-### Learning Outcomes
+## Learning Outcomes
 
 - Educate mentees on importance of public posts on social media, including how they may be viewed by potential employers and LE
 - Use online services to better understand their financials
 - Mentees will have an understanding of how to create / manage a digital workspace
 
-#### Footnotes
+### Footnotes
 
 † = Articles for mentors to read before teaching the subject
