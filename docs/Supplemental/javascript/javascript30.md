@@ -7,7 +7,7 @@ nav_order: 4
 permalink: /supplemental/javascript/javascript30
 ---
 
-### JavaScript30
+# JavaScript30
 
 <a href="https://javascript30.com" target="_blank">JavaScript30</a>
 
