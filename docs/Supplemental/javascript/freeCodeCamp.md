@@ -7,9 +7,9 @@ nav_order: 1
 permalink: /supplemental/javascript/freecodecamp
 ---
 
-### freeCodeCamp
+# freeCodeCamp
 
-#### Pros:
+## Pros:
 
 Free Code Camp courses tend to be very accessible (easy to get started and provide a
 quick remedy to apprehension a mentee might have about something being
@@ -19,7 +19,7 @@ Pursued completely, their courses to provide a pretty thorough coverage of the m
 The material is well indexed, and it's easy to drill straight into their coverage
 of a single topic. This can be useful if you're just looking for "another explanation"
 
-#### Cons:
+## Cons:
 
 The integrated editor that allows you to get started quickly is good and bad. It
 is not how you'll actually work on projects and this is a lot of material to
