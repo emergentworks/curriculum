@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Curriculum
-nav_order: 1
+nav_exclude: true
 permalink: /
 ---
 # Curriculum
