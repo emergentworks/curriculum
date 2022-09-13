@@ -16,11 +16,11 @@ Some mentorship pairs may be ready immediately to begin planning a final project
 
 ## Navigate by Phases
 
-### [Phase 1: Digital Literacy](/phase1)
+### [Phase 1: Digital Literacy](/Curriculum/phase1)
 
-### [Phase 2: Web Fundamentals](/phase2)
+### [Phase 2: Web Fundamentals](/Curriculu/phase2)
 
-### [Phase 3: Intro to Programming](/phase3)
+### [Phase 3: Intro to Programming](/Curriculu/phase3)
 
 ---
 
