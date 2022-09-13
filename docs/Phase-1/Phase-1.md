@@ -28,4 +28,6 @@ of the phases to fit the mentee's needs.
 - Difficulty navigating computer and smartphone interface
 - No or incomplete professional portfolio
 
+## Supplemental resources
 
+- Optionally, we have gathered some learning resources for [digital literacy](/Curriculum/supplemental/digitalLiteracy) for students who are looking for additional tutorials on computer basics, email, the internet, and digital security.
