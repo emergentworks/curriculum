@@ -67,11 +67,11 @@ There are lots of ways to save files and information from the internet. Here are
 
 ### ACTIVITIES
 
-Go over the above sections using the Emergent Works website [https://emergentworks.org/](https://emergentworks.org/)<br>
+Go over the above sections using the Emergent Works website <a href="https://emergentworks.org/" target="_blank">https://emergentworks.org/</a><br>
 
 - Can your mentee identify the header, footer, and menu? When you resize the browser, can they identify the hamburger menu?
 
-To practice search on a website, you can look up instructions on how to do things on WikiHow: [https://www.wikihow.com/Main-Page](https://www.wikihow.com/Main-Page)
+To practice search on a website, you can look up instructions on how to do things on WikiHow: <a href="https://www.wikihow.com/Main-Page" target="_blank">https://www.wikihow.com/Main-Page</a>
 
 Have your mentee download a photo from Google image search and set it as their desktop background
 

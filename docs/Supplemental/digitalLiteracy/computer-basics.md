@@ -36,7 +36,7 @@ To scroll, use two fingers and move them up and down across the trackpad to scro
 **Highlight**
 To highlight text or images on a page, press down with one finger, then drag it across the area you want to highlight. Release your finger when you’ve highlighted the portion of the page you want.
 
-Additional trackpad gestures for Mac can be found [here](https://support.apple.com/en-us/HT204895)
+Additional trackpad gestures for Mac can be found <a href="https://support.apple.com/en-us/HT204895" target="_blank">here</a>
 
 #### With a mouse:
 
@@ -60,9 +60,9 @@ Depending on how old your computer is, there will be different kinds of ports al
 
 ### Using the Keyboard
 
-An overview of the Mac keyboard can be found [here](https://keyshorts.com/blogs/blog/41999105-the-ultimate-guide-to-macbook-keyboard).
+An overview of the Mac keyboard can be found <a href="https://keyshorts.com/blogs/blog/41999105-the-ultimate-guide-to-macbook-keyboard" target="_blank">here</a>.
 
-An overview of a Windows/PC keyboard can be found [here](https://support.microsoft.com/en-us/windows/using-your-keyboard-18b2efc1-9e32-ba5a-0896-676f9f3b994f).
+An overview of a Windows/PC keyboard can be found <a href="https://support.microsoft.com/en-us/windows/using-your-keyboard-18b2efc1-9e32-ba5a-0896-676f9f3b994f" target="_blank">here</a>.
 
 Make sure your mentee feels comfortable with the basics of typing: letters, capitalization, caps lock, numbers, and special characters with the shift key. Computer controls such as volume and brightness should also be accessible. Additionally, you can show your mention how to type special characters with the alt/option + shift combination.
 
@@ -163,12 +163,12 @@ Have your mentee take some notes using the Text Edit application to work on crea
 
 - Have them copy/paste useful information from an article into their notes and reformat it
 
-[Typing.com](https://www.typing.com/student/lessons) offers some free lessons for typing practice
+<a href="https://www.typing.com/student/lessons" target="_blank">Typing.com</a> offers some free lessons for typing practice
 
-[Speed Coder](https://www.speedcoder.net/lessons/) has free modules for practice typing in different programming languages
+<a href="https://www.speedcoder.net/lessons/" target="_blank">Speed Coder</a> has free modules for practice typing in different programming languages
 
 ### Additional Resources
 
-A full list of Mac keyboard shortcuts can be found [here](https://support.apple.com/en-us/HT201236)
+A full list of Mac keyboard shortcuts can be found <a href="https://support.apple.com/en-us/HT201236" target="_blank">here</a>
 
-A list of PC keyboard shortcuts can be found [here](https://support.microsoft.com/en-us/windows/windows-keyboard-shortcuts-3d444b08-3a00-abd6-67da-ecfc07e86b98#ID0EBD=Windows_11)
+A list of PC keyboard shortcuts can be found <a href="https://support.microsoft.com/en-us/windows/windows-keyboard-shortcuts-3d444b08-3a00-abd6-67da-ecfc07e86b98#ID0EBD=Windows_11" target="_blank">here</a>
