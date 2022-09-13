@@ -9,7 +9,7 @@ permalink: /supplemental/javascript/exercism
 
 # Exercism
 
-Exercism has a guided <a href="https://exercism.org/tracks/javascript/concepts" target="_blank">syllabus</a> for learning
+Exercism has a guided <a href="https://exercism.org/tracks/javascript/concepts" target="_blank" class="external">syllabus</a> for learning
 JavaScript. Each lesson is accompanied by an exercise to complete to demonstrate
 comprehension of the material. Exercises can be completed in an in-browser editor, or
 can be downloaded to complete locally, and the student can upload the results to have
