@@ -6,17 +6,17 @@ nav_order: 2
 permalink: /phase2/module2
 ---
 
-## Module 2: Deep dive into HTML, CSS
+# Module 2: Deep dive into HTML, CSS
 
-### Duration
+## Duration
 
 4 weeks
 
-### Facilitation
+## Facilitation
 
 1-on-1 Mentorship sessions
 
-### Learning Topics
+## Learning Topics
 
 - How to run a local web server to start working on your static HTML page
 - Structure of HTML page
@@ -27,7 +27,7 @@ permalink: /phase2/module2
 - Embedding media with HTML
 - Adding web fonts to your page
 
-### Key Mentee Deliverables
+## Key Mentee Deliverables
 
 - Run a local web server to see your changes in real time
 - 1 page website styled with CSS
@@ -36,14 +36,14 @@ permalink: /phase2/module2
 - Add metadata to your page in HTML
 - A Styled, but static version draft of passion project (no expectation of interactivity that will come from JavaScript)
 
-### Learning Outcomes
+## Learning Outcomes
 
 - Comfortable running local web server
 - Comfortable creating new webpages with HTML & CSS independently
 - Comfortable adding basic interaction to websites
 - Comfort styling websites with CSS
 
-### Supporting Educational Resources
+## Supporting Educational Resources
 
 - The Odin Project
   - <a href="https://www.theodinproject.com/paths/foundations/courses/foundations#css-foundations" target="_blank">CSS Foundation</a>
