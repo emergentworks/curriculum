@@ -6,17 +6,17 @@ nav_order: 2
 permalink: /phase1/module2
 ---
 
-## Module 2: Using the internet for communication and productivity
+# Module 2: Using the internet for communication and productivity
 
-### Duration
+## Duration
 
 4 weeks
 
-### Facilitation
+## Facilitation
 
 1-on-1 Mentorship sessions
 
-### Learning Topics
+## Learning Topics
 
 - Writing
   - Messaging vs email
@@ -49,7 +49,7 @@ permalink: /phase1/module2
 - <a href="https://www.digitallearn.org/courses/cloud-storage" target="_blank">Cloud Storage</a>
   - <a href="https://edu.gcfglobal.org/en/googledriveanddocs/" target="_blank">Google Drive</a>
 
-### Key Mentee Deliverables
+## Key Mentee Deliverables
 
 - Configure Google apps (gmail, calendar, contacts, drive)
 - Create Zoom account
@@ -58,14 +58,14 @@ permalink: /phase1/module2
 - Upload <a href="https://www.learningforjustice.org/sites/default/files/2017-10/TT-Digital-Literacy-Vocabulary-Oct2017.pdf" target="_blank">this</a> to Google Drive
 - Apply SM teachings to their SM profile(s) (Airtable link for assignment)
 
-### Learning Outcomes
+## Learning Outcomes
 
 - Educate mentees on importance of public posts on social media, including how they may be viewed by potential employers and LE
 - Use online services to better understand their financials
 - Mentees will have an understanding of how to create / manage a digital workspace
 - Workflow Management
 
-#### Footnotes
+### Footnotes
 
 \* = Already included in the section’s link
 
