@@ -7,15 +7,15 @@ nav_order: 2
 permalink: /supplemental/javascript/codecademy
 ---
 
-### Codecademy
+# Codecademy
 
-#### Pros:
+## Pros:
 
 Courses tend to be very accessible (easy to get started and provide a
 quick remedy to apprehension a mentee might have about something being "too hard").
 You can work through the material in-browser without any local setup.
 
-#### Cons:
+## Cons:
 
 Quizzes and projects are "Pro" features and are not free.
 
