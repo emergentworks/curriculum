@@ -3,7 +3,7 @@ layout: default
 title: Phase 3 - Intro to Programming
 nav_order: 4
 has_children: true
-permalink: /curriculum/phase3introToProgramming
+permalink: /curriculum/phase3
 ---
 
 # Phase 3 - Intro to Programming
