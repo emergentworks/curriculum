@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Module 2 - Intro to Javascript
+title: Module 3 - Intro to Javascript
 parent: Phase 2 - Web Fundamentals
 nav_order: 3
 permalink: /phase2/module3
