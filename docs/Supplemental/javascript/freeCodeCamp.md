@@ -7,7 +7,9 @@ nav_order: 1
 permalink: /supplemental/javascript/freecodecamp
 ---
 
-# freeCodeCamp
+# FreeCodeCamp
+
+<a href="https://www.freecodecamp.org" target="_blank">FreeCodeCamp</a>
 
 ## Pros:
 
