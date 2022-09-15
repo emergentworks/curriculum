@@ -24,8 +24,8 @@ permalink: /phase3/module3
   - <a href="https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript#react-js" target="_blank">ReactJS</a>
 - Passion Project
   - Suggestions:
-    - <a href="https://emergentworks.github.io/curriculum/webdev/projectTemplates/chatbot/" target="_blank">Chat Bot</a>
-    - <a href="https://emergentworks.github.io/curriculum/webdev/projectTemplates/generator/" target="_blank">Generator</a>
+    - [Chat Bot](/curriculum/supplemental/projectTemplates/chatbot)
+    - [Generator](/curriculum/supplemental/projectTemplates/generator)</a>
 
 ## Key Mentee Deliverables
 
