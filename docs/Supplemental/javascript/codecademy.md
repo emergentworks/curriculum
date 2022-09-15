@@ -9,6 +9,8 @@ permalink: /supplemental/javascript/codecademy
 
 # Codecademy
 
+<a href="https://www.codecademy.com" target="blank">Codecademy</a>
+
 ## Pros:
 
 Courses tend to be very accessible (easy to get started and provide a
