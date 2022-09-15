@@ -29,7 +29,7 @@ permalink: /phase1/module1
   - <a href="https://edu.gcfglobal.org/en/typing/typing/1/" target="_blank">Typing practice</a>
   - <a href="https://edu.gcfglobal.org/en/techsavvy/keyboard-shortcuts/1/" target="_blank">Keyboard shortcuts</a>
 - <a href="https://edu.gcfglobal.org/en/googleaccount/" target="_blank">How to create accounts securely (Google)</a>
-- <a href="https://emergentworks.github.io/curriculum/digital-literacy/digital-security.html" target="_blank">Data Privacy & Security</a><sup>†</sup>
+- Data Privacy & Security<sup>†</sup>
   - <a href="https://edu.gcfglobal.org/en/chrome/privacy-and-security-in-chrome/1/" target="_blank">Security and data in Chrome</a>
   - <a href="https://edu.gcfglobal.org/en/thenow/understanding-login-methods/1/" target="_blank">Login methods</a>
   - <a href="https://edu.gcfglobal.org/en/thenow/what-is-twofactor-authentication/1/" target="_blank">2F-Authentication</a>
@@ -37,8 +37,8 @@ permalink: /phase1/module1
   - <a href="https://nordvpn.com/blog/what-is-ad-blocking/#:~:text=An%20ad%20blocker%20is%20any,web%20page%20against%20massive%20blacklists." target="_blank">Ad Blocker</a><sup>†</sup>
   - <a href="https://edu.gcfglobal.org/en/thenow/common-credit-card-scams/1/" target="_blank">Credit card scams</a>
 - Safely Browsing & finding info online
-  - <a href="https://emergentworks.github.io/curriculum/digital-literacy/the-internet.html" target="_blank">Internet navigation</a><sup>†</sup>
-  - <a href="https://emergentworks.github.io/curriculum/digital-literacy/search.html" target="_blank">Search Basics</a><sup>†</sup>
+  - [Internet navigation](/curriculum/supplemental/digitalLiteracy/theInternet)<sup>†</sup>
+  - [Search Basics](/curriculum/supplemental/digitalLiteracy/internetSearch)<sup>†</sup>
   - <a href="https://edu.gcfglobal.org/en/digital-media-literacy/judging-online-information/1/" target="_blank">Judging online information</a>
   - <a href="https://edu.gcfglobal.org/en/thenow/what-is-fake-news/1/" target="_blank">Fake news</a>
   - <a href="https://edu.gcfglobal.org/en/thenow/what-is-clickbait/1/" target="_blank">Clickbait</a>
