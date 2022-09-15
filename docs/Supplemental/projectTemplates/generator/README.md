@@ -14,7 +14,7 @@ permalink: /supplemental/projectTemplates/generator
 Create either a webpage that generates an entity at random. For example:
 
 - A webpage that generates a random <a href="https://uk-food.glitch.me/" target="_blank">UK-specialty food</a>
-  - <a href="https://www.musicindustryhowto.com/rap-name-generator/" target="_blank">Rapper name generator</a>
+  - <a href="https://www.musicindustryhowto.com/rap-name-generator/" target="_blank">Rap name generator</a>
   - A webpage that generates a unique <a href="https://random-acts-of-kindness-generator.glitch.me/" target="_blank">act of kindness</a>
   - Generate a random and unique <a href="https://quilt-generator.glitch.me/" target="_blank">quilt pattern</a>
 
