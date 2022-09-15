@@ -50,4 +50,4 @@ Have your mentee put in their email on <a href="https://haveibeenpwned.com/" tar
 Have your mentee update their password for one of their online accounts and write it down on paper to store in a safe place (if not using a password manager).
 Have your mentee choose one of the free password managers and download it.
 
-Have your mentee download a free adblocker such as <a href="https://privacybadger.org/" target="_blank">Ghostery</a> or <a href="https://www.ghostery.com/ghostery-browser-extension" target="_blank">PrivacyBadger</a>
+Have your mentee download a free adblocker such as <a href="https://www.ghostery.com/ghostery-browser-extension" target="_blank">Ghostery</a> or <a href="https://privacybadger.org/" target="_blank">PrivacyBadger</a>
