@@ -20,8 +20,8 @@ What is a <a href="https://techterms.com/definition/username#:~:text=A%20usernam
 
 <a href="https://www.cnet.com/how-to/9-rules-for-strong-passwords-how-to-create-and-remember-your-login-credentials/" target="_blank">An overview on the importance of creating secure online accounts</a><br>
 <a href="https://support.google.com/accounts/answer/32040?hl=en) (if you do not want to use a password manager" target="_blank">Helpful tips for creating strong passwords</a><br>
-<a href="https://www.consumerreports.org/digital-security/everything-you-need-to-know-about-password-managers/) (if you do want to use a password manager" target="_blank">An overview on password managers</a><br>
-<a href="https://www.wired.com/story/best-password-managers/) (free and paid options" target="_blank">Wired’s password manager recommendations</a><br>
+<a href="https://www.consumerreports.org/digital-security/everything-you-need-to-know-about-password-managers/" target="_blank">An overview on password managers  (if you do want to use a password manager)</a><br>
+<a href="https://www.wired.com/story/best-password-managers/" target="_blank">Wired’s password manager recommendations) (free and paid options)</a><br>
 
 ## How to identify online scams
 
@@ -37,7 +37,7 @@ The basics of a secure web connection
 - <a href="https://www.makeuseof.com/tag/3-ways-check-security-internet-connection/#:~:text=You%20can%20tell%20if%20a,you%20that%20it's%20using%20HTTPS." target="_blank">Section 3: Check Your Protocol While Browsing</a>
 - <a href="https://www.netspotapp.com/how-to-change-wifi-name.html" target="_blank">Tips on securing your wifi network</a>
   What is “incognito” mode? What can it do for your privacy? What can it not do?
-- Incognito mode settings on <a href="https://support.google.com/chrome/answer/7440301?co=GENIE.Platform%3DAndroid&hl=en" target="_blank">Android](https://www.androidauthority.com/what-is-incognito-mode-1116441/) / [Chrome</a>
+- Incognito mode settings on <a href="https://support.google.com/chrome/answer/7440301?co=GENIE.Platform%3DAndroid&hl=en" target="_blank">Android</a> / <a href="https://www.androidauthority.com/what-is-incognito-mode-1116441/" target="_blank">Chrome</a>
 - <a href="https://www.mozilla.org/en-US/firefox/browsers/incognito-browser/" target="_blank">More from Mozilla</a>
   Browsing the internet with a VPN
 - <a href="https://www.howtogeek.com/133680/htg-explains-what-is-a-vpn/" target="_blank">What is a VPN?</a>
@@ -50,4 +50,4 @@ Have your mentee put in their email on <a href="https://haveibeenpwned.com/" tar
 Have your mentee update their password for one of their online accounts and write it down on paper to store in a safe place (if not using a password manager).
 Have your mentee choose one of the free password managers and download it.
 
-Have your mentee download a free adblocker such as <a href="https://privacybadger.org/" target="_blank">Ghostery](https://www.ghostery.com/ghostery-browser-extension) or [PrivacyBadger</a>
+Have your mentee download a free adblocker such as <a href="https://privacybadger.org/" target="_blank">Ghostery</a> or <a href="https://www.ghostery.com/ghostery-browser-extension" target="_blank">PrivacyBadger</a>
