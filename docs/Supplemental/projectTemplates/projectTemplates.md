@@ -8,5 +8,3 @@ permalink: /supplemental/projectTemplates
 ---
 # Project Templates
 
-- [ChatBot](projectTemplates/chatbot)
-- [Generator](projectTemplates/generator)
