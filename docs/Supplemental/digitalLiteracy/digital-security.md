@@ -13,7 +13,7 @@ This unit goes over some of the basics for securing your accounts online and bro
 
 ## Creating and logging into online accounts
 
-What is a <a href="" target="_blank">username](https://techterms.com/definition/username#:~:text=A%20username%20is%20a%20name,someone%20on%20a%20computer%20system.&text=This%20username%2Fpassword%20combination%20is,enter%20your%20username%20and%20password.) and [password</a>?<br>
+What is a <a href="https://techterms.com/definition/username#:~:text=A%20username%20is%20a%20name,someone%20on%20a%20computer%20system.&text=This%20username%2Fpassword%20combination%20is,enter%20your%20username%20and%20password" target="_blank">username and password</a>?<br>
 <a href="https://searchsecurity.techtarget.com/definition/single-sign-on" target="_blank">Single sign-on</a>: logging into applications using your email account, LinkedIn, Facebook or other profiles
 
 ## Creating and tracking secure passwords
