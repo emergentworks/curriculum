@@ -11,7 +11,7 @@ permalink: /supplemental/javascript/javascript30
 
 <a href="https://javascript30.com" target="_blank">JavaScript30</a>
 
-> Note: This is actually part of the practice section of <a href="https://www.theodinproject.com/lessons/foundations-dom-manipulation-and-events" target="_blank">DOM MANIPULATION AND EVENTS</a>
+> Note: This is actually part of the practice section of <a href="https://www.theodinproject.com/lessons/foundations-dom-manipulation-and-events" target="_blank">DOM Manipulation And Events</a>
 > in The Odin Project curriculum
 
 These are well done tutorials from Wes Bos, a very good instructor. Many of his
