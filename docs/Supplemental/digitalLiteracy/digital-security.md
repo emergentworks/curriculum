@@ -34,7 +34,7 @@ What is a <a href="https://techterms.com/definition/username#:~:text=A%20usernam
 <a href="https://digitalguardian.com/blog/what-data-encryption" target="_blank">What is encryption?</a><br>
 The basics of a secure web connection
 
-- <a href="https://www.makeuseof.com/tag/3-ways-check-security-internet-connection/#:~:text=You%20can%20tell%20if%20a,you%20that%20it's%20using%20HTTPS." target="_blank">Section 3: Check Your Protocol While Browsing</a>
+- <a href="https://www.makeuseof.com/tag/3-ways-check-security-internet-connection/#:~:text=You%20can%20tell%20if%20a,you%20that%20it's%20using%20HTTPS." target="_blank">Check Your Protocol While Browsing</a>
 - <a href="https://www.netspotapp.com/how-to-change-wifi-name.html" target="_blank">Tips on securing your wifi network</a>
   What is “incognito” mode? What can it do for your privacy? What can it not do?
 - Incognito mode settings on <a href="https://support.google.com/chrome/answer/7440301?co=GENIE.Platform%3DAndroid&hl=en" target="_blank">Android</a> / <a href="https://www.androidauthority.com/what-is-incognito-mode-1116441/" target="_blank">Chrome</a>
