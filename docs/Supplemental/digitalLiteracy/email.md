@@ -16,7 +16,7 @@ For creating an email account, we recommend using <a href="https://accounts.goog
 Instructions on creating an email account can be found <a href="https://support.google.com/mail/answer/56256?hl=en" target="_blank">here</a>.
 
 Since Gmail is well documented on the internet, here are additional resources for topics that you can walk through with your mentee if they have questions:<br>
-<a href="https://business.tutsplus.com/tutorials/how-to-compose-and-send-your-first-email-with-gmail--cms-27678) (includes explanations for Bcc/Cc fields, adding photos and attachments" target="_blank">Composing a new email in gmail</a><br>
+<a href="https://business.tutsplus.com/tutorials/how-to-compose-and-send-your-first-email-with-gmail--cms-27678" target="_blank">Composing a new email in gmail (includes explanations for Bcc/Cc fields, adding photos and attachments)</a><br>
 <a href="https://support.google.com/a/users/answer/9260550?hl=en" target="_blank">Organizing your inbox in gmail</a><br>
 <a href="https://www.westtek.co.uk/blog/story/9-tips-on-how-to-identify-a-spam-email" target="_blank">Identifying spam email</a><br>
 <a href="https://support.google.com/a/users/answer/9259943?hl=en&ref_topic=9259942" target="_blank">Searching for specific emails</a><br>

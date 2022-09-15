@@ -30,4 +30,4 @@ of the phases to fit the mentee's needs.
 
 ## Supplemental resources
 
-- Optionally, we have gathered some learning resources for [digital literacy](/Curriculum/supplemental/digitalLiteracy) for students who are looking for additional tutorials on computer basics, email, the internet, and digital security.
+- Optionally, we have gathered some learning resources for [digital literacy](/curriculum/supplemental/digitalLiteracy) for students who are looking for additional tutorials on computer basics, email, the internet, and digital security.

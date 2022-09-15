@@ -22,7 +22,7 @@ This unit goes over the basics of using Google search and how to evaluate inform
 - <a href="https://www.usg.edu/galileo/skills/unit07/internet07_08.phtml" target="_blank">The basics of identifying credible websites</a>
 - <a href="https://www.library.georgetown.edu/tutorials/research-guides/evaluating-internet-content" target="_blank">Identifying accurate content on website</a>
   - <a href="http://agerrtc.washington.edu/info/factsheets/internet" target="_blank">Identifying reliable health information specifically</a>
-   - Identifying fake news tips <a href="https://guides.lib.uconn.edu/fakenews/whatandhowtocheckfakenews" target="_blank">here</a> and <a href="https://www.mindtools.com/pages/article/fake-news.htm">here</a> (some more tips <a href="https://www.npr.org/sections/alltechconsidered/2016/12/05/503581220/fake-or-real-how-to-self-check-the-news-and-get-the-facts" target="_blank">here</a>, too)
+   - Identifying fake news tips <a href="https://guides.lib.uconn.edu/fakenews/whatandhowtocheckfakenews" target="_blank">here</a> and <a href="https://www.mindtools.com/pages/article/fake-news.htm" target="_blank">here</a> (some more tips <a href="https://www.npr.org/sections/alltechconsidered/2016/12/05/503581220/fake-or-real-how-to-self-check-the-news-and-get-the-facts" target="_blank">here</a>, too)
   - Use Wikipedia as a good jumping off point, but not your only source
 
 ## How to use Google maps
