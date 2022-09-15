@@ -25,7 +25,7 @@ permalink: /phase3/module3
 - Passion Project
   - Suggestions:
     - [Chat Bot](/curriculum/supplemental/projectTemplates/chatbot)
-    - [Generator](/curriculum/supplemental/projectTemplates/generator)</a>
+    - [Generator](/curriculum/supplemental/projectTemplates/generator)
 
 ## Key Mentee Deliverables
 
