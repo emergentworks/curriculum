@@ -17,7 +17,7 @@ permalink: /phase3/module1
 ## Learning Topics
 
 - <a href="https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript#organizing-your-javascript-code" target="_blank">Organize JavaScript Code</a>
-- <a href="https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript#javascript-in-the-real-world" target="_blank">JavaScript in Real World</a>
+- <a href="https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript#javascript-in-the-real-world" target="_blank">JavaScript in the Real World</a>
 - <a href="https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript#intermediate-git" target="_blank">Intermediate Git</a>
 - <a href="https://www.theodinproject.com/paths/full-stack-javascript/courses/advanced-html-and-css#responsive-design" target="_blank">Responsive Design</a>
 - <a href="https://www.theodinproject.com/paths/full-stack-javascript/courses/nodejs#introduction-to-nodejs" target="_blank">Introduction to NodeJS</a>
