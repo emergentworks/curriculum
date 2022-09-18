@@ -18,6 +18,19 @@ to take you to the site.
 
 If you want to see builds (to know when your changes have been deployed), go to the `Actions` tab in your repo.
 
+NOTE: If you want to use this method and review the results on Github, you'll proabably want to
+modify a couple of values in the `_config.yml` file to point to your repo:
+
+```
+url: "https://emergentworks.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+```
+
+```
+gh_edit_repository: "https://github.com/emergentworks/curriculum" # the github URL for your repo
+```
+
+You'll want to change "emergentworks" to your GitHub ID. (PLEASE be careful not to include these changes in the PR back to emergentworks)
+
 ## Local
 
 You can run jekyll on your local machine and preview the results there.
