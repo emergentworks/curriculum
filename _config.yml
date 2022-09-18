@@ -52,3 +52,9 @@ search:
   # Enable or disable the search button that appears in the bottom right corner of every page
   # Supports true or false (default)
   button: true
+
+# External navigation links
+nav_external_links:
+  - title: 1:1 Mentorship Session Feedback & Attendance form
+    url: https://airtable.com/shr4s7qWESeM3vu61
+    hide_icon: false # set to true to hide the external link icon - defaults to false
