@@ -18,7 +18,7 @@ to take you to the site.
 
 If you want to see builds (to know when your changes have been deployed), go to the `Actions` tab in your repo.
 
-NOTE: If you want to use this method and review the results on Github, you'll proabably want to
+NOTE: If you want to use this method and review the results on Github, you'll probably want to
 modify a couple of values in the `_config.yml` file to point to your repo:
 
 ```
