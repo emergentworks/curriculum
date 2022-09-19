@@ -18,18 +18,17 @@ to take you to the site.
 
 If you want to see builds (to know when your changes have been deployed), go to the `Actions` tab in your repo.
 
-NOTE: If you want to use this method and review the results on Github, you'll probably want to
-modify a couple of values in the `_config.yml` file to point to your repo:
+NOTE: If you want to use this method and review the results on Github, you may probably want to
+modify the `gh_edit_repository` value in the `_config.yml` file to point to your repo:
 
 ```
-url: "https://emergentworks.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+gh_edit_repository: "https://github.com/<<your GitHub ID>>/curriculum" # the github URL for your repo
 ```
 
-```
-gh_edit_repository: "https://github.com/emergentworks/curriculum" # the github URL for your repo
-```
+You'll want to change "emergentworks" to your GitHub ID.
+This makes it convenient to click on a link to modify a page in your repo.
 
-You'll want to change "emergentworks" to your GitHub ID. (PLEASE be careful not to include these changes in the PR back to emergentworks)
+_(PLEASE be careful not to include these changes in the PR back to emergentworks)_
 
 ## Local
 
