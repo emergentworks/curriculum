@@ -25,12 +25,6 @@ Some mentorship pairs may be ready immediately to begin planning a final project
 
 ---
 
-## For Mentors:
-
-### <a href="https://airtable.com/shr4s7qWESeM3vu61" target="_blank">1:1 Mentorship Session Feedback & Attendance form
-
----
-
 ## Code of Conduct
 
 Emergent Works is dedicated to providing a harassment-free experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, age, race, or religion. We do not tolerate harassment of participants in any form.
