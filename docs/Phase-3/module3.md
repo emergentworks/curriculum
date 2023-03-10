@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Module 3 - Passion Project
+title: Module 3 - JavaScript Backend and Final Project
 parent: Phase 3 - Intro to Programming
 nav_order: 3
 permalink: /phase3/module3
 ---
 
-# Module 3: Passion Project
+# Module 3: JavaScript Backend and Final Project
 
 ## Duration
 
@@ -18,18 +18,16 @@ permalink: /phase3/module3
 
 ## Learning Topics
 
-- If there’s time:
-  - <a href="https://www.theodinproject.com/paths/full-stack-javascript/courses/nodejs" target="_blank">NodeJS</a>
-  - <a href="https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript#a-bit-of-computer-science" target="_blank">A Bit of Computer Science</a>
-  - <a href="https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript#react-js" target="_blank">ReactJS</a>
-- Passion Project
-  - Suggestions:
-    - [Chat Bot](/curriculum/supplemental/projectTemplates/chatbot)
-    - [Generator](/curriculum/supplemental/projectTemplates/generator)
+- <a href="https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript#javascript-and-the-backend" target="_blank">JavaScript and the Backend</a>
+- <a href="https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript#finishing-up-with-javascript" target="_blank">Finishing Up with JavaScript</a>
+
+Note: The "Final Project" assignment is to "Replicate your favorite website as close as possible".  
+This is your Passion Project, so don't feel constrained to this directive.  
+DO show us what you've learned.  This is your chance to "show off"
 
 ## Key Mentee Deliverables
 
-- Build a full-stack web app that utilizes an API library or a database
+- Build a full-stack web app (Passion Project) that utilizes an API library or a database
 
 ## Learning Outcomes
 
