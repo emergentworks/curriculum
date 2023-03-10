@@ -27,14 +27,15 @@ permalink: /phase3/module1
   - Install a JavaScript Linter (ESLint)
 - Organizing you JavaScript Code
   - **Object and Object Constructors** lesson
-    - Github link to assignment
     - Github link to Knowledge Check markdown document
+  - **Project: Library** lesson.
+    - Github link to assignment
   - **Factory Functions And The Module Pattern** lesson
     - Github link to Knowledge Check markdown document
   - **Project: Tic Tac Toe** lesson.
     - Github link to assignment 
   - **Classes** lesson.
-    - Github link to assignment
+    - Github link to Practice
     - Github link to Knowledge Check markdown document
   - **ES6 Modules** lesson.
     - Github link to Knowledge Check markdown document
@@ -44,7 +45,6 @@ permalink: /phase3/module1
   - **Project: Restaurant Page** lesson.
     - Github link to assignment
   - **OOP Principles** lesson.
-    - Github link to assignment
     - Github link to Knowledge Check markdown document
   - **Project: Todo List** lesson.
     - Github link to assignment
@@ -53,19 +53,15 @@ permalink: /phase3/module1
     - Github link to assignment
     - Github link to Knowledge Check markdown document
   - **Form Validation With JavaScript** lesson.
-    - Github link to assignment
     - Github link to Knowledge Check markdown document
 - Asynchronous JavaScript and APIs
-  - **JSON** lesson.
-    - Github link to assignment
   - **Asynchronous Code** lesson.
-    - Github link to assignment
     - Github link to Knowledge Check markdown document
   - **Working With APIs** lesson.
     - Github link to assignment
     - Github link to Knowledge Check markdown document
   - **Async And Await** lesson.
-    - Github link to assignment
+    - Github link to Practice
     - Github link to Knowledge Check markdown document
   - **Project: Weather App** lesson.
     - Github link to assignment

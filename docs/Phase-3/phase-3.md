@@ -25,6 +25,9 @@ these questions.  If a question asks you to write code, then place that code in 
 and link to it as your answer in the markdown file.  For these deliverables, we'll provide a way for you to share 
 a link to the markdown file answering these questions.
 
+Many assignments involved reading and watching resources, and, as such, have no actual deliverables.  
+These assignments should still be completed.
+
 ### Note
 
 This is the first time that we are using The Odin Project's JavaScript Course directly.  
