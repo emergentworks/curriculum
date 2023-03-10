@@ -43,7 +43,7 @@ $ `bundle install`
 
 Then to test locally, run the command:
 
-$ `bundle exec jekyll serve --livereload`
+$ `bundle exec jekyll serve`
 
 This will begin hosting the site and will print out the local address to view it
 (probably [http://127.0.0.1:4000/curriculum/](http://127.0.0.1:4000/curriculum/)).

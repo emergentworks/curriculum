@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Module 2 - Testing, Git, and ReactJS
+title: Module 2 - Intermediate JavaScript
 parent: Phase 3 - Intro to Programming
 nav_order: 2
 permalink: /phase3/module2
 ---
 
-# Module 2: Testing, Git, and ReactJS
+# Module 2: Intermediate JavaScript
 
 ## Duration
 
@@ -18,10 +18,9 @@ permalink: /phase3/module2
 
 ## Learning Topics
 
-- <a href="https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript#a-bit-of-computer-science" target="_blank">A Bit of Computer Science</a>
+- <a href="https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript#asynchronous-javascript-and-apis" target="_blank">Asynchronous JavaScript and APIs</a>
 - <a href="https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript#testing-javascript" target="_blank">Testing JavaScript</a>
-- <a href="https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript#intermediate-git" target="_blank">Intermediate Git</a>
-- <a href="https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript#react-js" target="_blank">ReactJS</a>
+- <a href="https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript#javascript-and-the-backend" target="_blank">JavaScript and the Backend</a>
 
 ## Key Mentee Deliverables
 

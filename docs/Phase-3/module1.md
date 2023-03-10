@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Module 1 - Intro to JavaScript 
+title: Module 1 - Intro to JavaScript and Intermediate HTML/CSS
 parent: Phase 3 - Intro to Programming
 nav_order: 1
 permalink: /phase3/module1
 ---
 
-# Module 1: Intro to JavaScript
+# Module 1: Intro to JavaScript and Intermediate HTML/CSS
 
 ## Duration - 4 weeks
 
@@ -16,59 +16,25 @@ permalink: /phase3/module1
 
 ## Learning Topics
 
-- <a href="https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript#introduction" target="_blank">Introduction</a>
-- <a href="https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript#organizing-your-javascript-code" target="_blank">Organizing your JavaScript Code</a>
+- <a href="https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript#organizing-your-javascript-code" target="_blank">Organize JavaScript Code</a>
 - <a href="https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript#javascript-in-the-real-world" target="_blank">JavaScript in the Real World</a>
-- <a href="https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript#asynchronous-javascript-and-apis" target="_blank">Asynchronous JavaScript and APIs</a>
+- <a href="https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript#intermediate-git" target="_blank">Intermediate Git</a>
+- <a href="https://www.theodinproject.com/paths/full-stack-javascript/courses/advanced-html-and-css#responsive-design" target="_blank">Responsive Design</a>
+- <a href="https://www.theodinproject.com/paths/full-stack-javascript/courses/nodejs#introduction-to-nodejs" target="_blank">Introduction to NodeJS</a>
 
-## Mentee Deliverables
+## Key Mentee Deliverables
 
-- Introduction
-  - Install a JavaScript Linter (ESLint)
-- Organizing you JavaScript Code
-  - **Object and Object Constructors** lesson
-    - Github link to assignment
-    - Github link to Knowledge Check markdown document
-  - **Factory Functions And The Module Pattern** lesson
-    - Github link to Knowledge Check markdown document
-  - **Project: Tic Tac Toe** lesson.
-    - Github link to assignment 
-  - **Classes** lesson.
-    - Github link to assignment
-    - Github link to Knowledge Check markdown document
-  - **ES6 Modules** lesson.
-    - Github link to Knowledge Check markdown document
-  - **Webpack** lesson.
-    - Github link to assignment
-    - Github link to Knowledge Check markdown document 
-  - **Project: Restaurant Page** lesson.
-    - Github link to assignment
-  - **OOP Principles** lesson.
-    - Github link to assignment
-    - Github link to Knowledge Check markdown document
-  - **Project: Todo List** lesson.
-    - Github link to assignment
-- JavaScript in the Real World
-  - **Dynamic User Interface Interactions** lesson.
-    - Github link to assignment
-    - Github link to Knowledge Check markdown document
-  - **Form Validation With JavaScript** lesson.
-    - Github link to assignment
-    - Github link to Knowledge Check markdown document
-- Asynchronous JavaScript and APIs
-  - **JSON** lesson.
-    - Github link to assignment
-  - **Asynchronous Code** lesson.
-    - Github link to assignment
-    - Github link to Knowledge Check markdown document
-  - **Working With APIs** lesson.
-    - Github link to assignment
-    - Github link to Knowledge Check markdown document
-  - **Async And Await** lesson.
-    - Github link to assignment
-    - Github link to Knowledge Check markdown document
-  - **Project: Weather App** lesson.
-    - Github link to assignment
+- Build a simple home page (i.e. Restaurant page) using npm
+- Install a JavaScript Linter (ESLint)
+- Able to explain what Git rebase and merge conflicts are
+- Adapt a project for multiple screen sizes
+- Start a local web server using npm
+
+## Learning Outcomes
+
+- Write code that incorporates multiple functions and classes
+- Use Git’s best practices
+- Debug HTML/CSS for better user experiences
 
 ## Supporting Educational Resources
 
