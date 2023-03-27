@@ -2,7 +2,7 @@
 layout: default
 title: Phase 3 - Intro to Programming
 nav_order: 4
-has_children: true
+has_children: false
 permalink: /phase3
 ---
 
@@ -18,128 +18,17 @@ In the curriculum, the mentor will find hyperlinked resources that they can use.
 
 ## Learning Topics
 
-- **<a href="https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript#introduction" target="_blank">Introduction</a>**
-  - <a href="https://www.theodinproject.com/lessons/node-path-javascript-how-this-course-will-work" target="_blank">How this course will work</a>
-  - <a href="https://www.theodinproject.com/lessons/node-path-javascript-a-quick-review" target="_blank">A Quick Review</a>
-  - <a href="https://www.theodinproject.com/lessons/node-path-javascript-linting" target="_blank">Linting</a>
-    - Install a JavaScript Linter (ESLint)
+- <a href="https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript#introduction" target="_blank">Introduction</a>
 - <a href="https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript#organizing-your-javascript-code" target="_blank">Organizing your JavaScript Code</a>
-  - **Object and Object Constructors** lesson
-    - Github link to Knowledge Check markdown document
-  - **Project: Library** lesson.
-    - Github link to assignment
-  - **Factory Functions And The Module Pattern** lesson
-    - Github link to Knowledge Check markdown document
-  - **Project: Tic Tac Toe** lesson.
-    - Github link to assignment
-  - **Classes** lesson.
-    - Github link to Practice
-    - Github link to Knowledge Check markdown document
-  - **ES6 Modules** lesson.
-    - Github link to Knowledge Check markdown document
-  - **Webpack** lesson.
-    - Github link to assignment
-    - Github link to Knowledge Check markdown document
-  - **Project: Restaurant Page** lesson.
-    - Github link to assignment
-  - **OOP Principles** lesson.
-    - Github link to Knowledge Check markdown document
-  - **Project: Todo List** lesson.
-    - Github link to assignment
 - <a href="https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript#javascript-in-the-real-world" target="_blank">JavaScript in the Real World</a>
-  - **Dynamic User Interface Interactions** lesson.
-    - Github link to assignment
-    - Github link to Knowledge Check markdown document
-  - **Form Validation With JavaScript** lesson.
-    - Github link to Knowledge Check markdown document
 - <a href="https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript#asynchronous-javascript-and-apis" target="_blank">Asynchronous JavaScript and APIs</a>
-  - **Asynchronous Code** lesson.
-    - Github link to Knowledge Check markdown document
-  - **Working With APIs** lesson.
-    - Github link to assignment
-    - Github link to Knowledge Check markdown document
-  - **Async And Await** lesson.
-    - Github link to Practice
-    - Github link to Knowledge Check markdown document
-  - **Project: Weather App** lesson.
-    - Github link to assignment
 - <a href="https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript#a-bit-of-computer-science" target="_blank">A Bit of Computer Science</a>
-  - **A Very Brief Intro To CS** lesson
-    - Github link to Knowledge Check markdown document
-  - **Recursive Methods** lesson
-    - Github link to Test Yourself answers
-    - Github link to Knowledge Check markdown document
-  - **Project: Recursion** lesson
-    - Github link to assignment 1
-    - Github link to assignment 2
-  - **Time Complexity** lesson
-    - Github link to Knowledge Check markdown document
-  - **Space Complexity** lesson
-    - Github link to Knowledge Check markdown document  
-  - **Common Data Structures And Algorithms** lesson
-    - Github link to Knowledge Check markdown document
-  - **Project: Linked Lists** lesson
-    - Github link to assignment
-  - **Project: Binary Search Trees** lesson
-    - Github link to assignment
-  - **Project: Knights Travails** lesson
-    - Github link to assignment
 - <a href="https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript#testing-javascript" target="_blank">Testing JavaScript</a>
-  - **Testing Basics** lesson
-    - Github link to Knowledge Check markdown document
-  - **Project: Testing Practice** lesson
-    - Github link to assignment
-  - **More Testing** lesson
-    - Github link to Knowledge Check markdown document
-  - **Project: Battleship** lesson
-    - Github link to assignment
 - <a href="https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript#intermediate-git" target="_blank">Intermediate Git</a>
-  - **A Deeper Look At Git** lesson
-    - Github link to Knowledge Check markdown document
-  - **Using Git In The Real World** lesson
-    - Github link to results of completing "A Git Workflow For Open Source Contribution" section
-    - Github link to Knowledge Check markdown document
 - <a href="https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript#react-js" target="_blank">ReactJS</a>
-  - **React Introduction** lesson
-    - Github link to Knowledge Check markdown document
-  - **State And Props** lesson
-    - Github link to assignment
-    - Github link to Knowledge Check markdown document
-  - **Handle Inputs And Render Lists** lesson
-    - Github link to assignment (optionally... Easy and Hard optional tasks)
-    - Github link to Knowledge Check markdown document
-  - **Project: CV Application** lesson
-    - Github link to assignment
-  - **Project: CV Application** lesson
-    - Github link to assignment
-  - **Lifecycle Methods** lesson
-    - Github link to assignment
-    - Github link to Knowledge Check markdown document
-  - **Hooks** lesson
-    - Github link to assignment
-    - Github link to Knowledge Check markdown document
-  - **Project: Memory Card** lesson
-    - Github link to assignment
-  - **Router** lesson
-    - Github link to assignment
-    - Github link to Knowledge Check markdown document
-  - **React Testing Part 1** lesson
-    - Github link to Knowledge Check markdown document
-  - **React Testing Part 2** lesson
-    - Github link to Knowledge Check markdown document
-  - **Project: Shopping Cart** lesson
-    - Github link to assignment
-  - **Advanced Concepts** lesson
-    - Github link to Knowledge Check markdown document
 - <a href="https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript#javascript-and-the-backend" target="_blank">JavaScript and the Backend</a>
-  - **Using BaaS For Your Back End** lesson
-    - Github link to assignment
-    - Github link to Knowledge Check markdown document
-  - **Project: Where's Waldo (A Photo Tagging App)** lesson
-    - Github link to assignment
 - <a href="https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript#finishing-up-with-javascript" target="_blank">Finishing Up with JavaScript</a>
-  - **Project: JavaScript Final Project** lesson
-    - Github link to assignment
+
 
 
 Note: The "Final Project" assignment is to "Replicate your favorite website as close as possible".  
