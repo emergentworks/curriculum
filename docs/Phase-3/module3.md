@@ -27,14 +27,19 @@ permalink: /phase3/module3
     - [Chat Bot](/curriculum/supplemental/projectTemplates/chatbot)
     - [Generator](/curriculum/supplemental/projectTemplates/generator)
 
-## Key Mentee Deliverables
+## Mentee Deliverables
 
-- Build a full-stack web app that utilizes an API library or a database
+- JavaScript and the Backend
+  - **Using BaaS For Your Back End** lesson
+    - Github link to assignment
+    - Github link to Knowledge Check markdown document
+  - **Project: Where's Waldo (A Photo Tagging App)** lesson
+    - Github link to assignment
+- Finishing Up with JavaScript
+  - **Project: JavaScript Final Project** lesson
+    - Github link to assignment
 
-## Learning Outcomes
 
-- Gain experience from ideation of a project to deploying it to the web
-- Familiar with server/client side coding
 
 ## Supporting Educational Resources
 

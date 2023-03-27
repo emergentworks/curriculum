@@ -20,7 +20,7 @@ link and working locally. The local development experience will be valuable.)
 
 ## Pros:
 
-There is some flexibility in the students selection of the path through the syllabus, but there
+There is some flexibility in the students selection of the path through the syllabus, but 
 where there is prerequisite material, you'll need to complete it before moving on. This is pretty nice.
 
 All exercises are evaluated using Jest unit tests so the student gets some experience with Test Driven Development.

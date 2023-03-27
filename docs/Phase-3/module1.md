@@ -24,17 +24,49 @@ permalink: /phase3/module1
 
 ## Key Mentee Deliverables
 
-- Build a simple home page (i.e. Restaurant page) using npm
-- Install a JavaScript Linter (ESLint)
-- Able to explain what Git rebase and merge conflicts are
-- Adapt a project for multiple screen sizes
-- Start a local web server using npm
+- Introduction
+  - Install a JavaScript Linter (ESLint)
+- Organizing you JavaScript Code
+  - **Object and Object Constructors** lesson
+    - Github link to Knowledge Check markdown document
+  - **Project: Library** lesson.
+    - Github link to assignment
+  - **Factory Functions And The Module Pattern** lesson
+    - Github link to Knowledge Check markdown document
+  - **Project: Tic Tac Toe** lesson.
+    - Github link to assignment 
+  - **Classes** lesson.
+    - Github link to Practice
+    - Github link to Knowledge Check markdown document
+  - **ES6 Modules** lesson.
+    - Github link to Knowledge Check markdown document
+  - **Webpack** lesson.
+    - Github link to assignment
+    - Github link to Knowledge Check markdown document 
+  - **Project: Restaurant Page** lesson.
+    - Github link to assignment
+  - **OOP Principles** lesson.
+    - Github link to Knowledge Check markdown document
+  - **Project: Todo List** lesson.
+    - Github link to assignment
+- JavaScript in the Real World
+  - **Dynamic User Interface Interactions** lesson.
+    - Github link to assignment
+    - Github link to Knowledge Check markdown document
+  - **Form Validation With JavaScript** lesson.
+    - Github link to Knowledge Check markdown document
+- Asynchronous JavaScript and APIs
+  - **Asynchronous Code** lesson.
+    - Github link to Knowledge Check markdown document
+  - **Working With APIs** lesson.
+    - Github link to assignment
+    - Github link to Knowledge Check markdown document
+  - **Async And Await** lesson.
+    - Github link to Practice
+    - Github link to Knowledge Check markdown document
+  - **Project: Weather App** lesson.
+    - Github link to assignment
 
-## Learning Outcomes
-
-- Write code that incorporates multiple functions and classes
-- Use Git’s best practices
-- Debug HTML/CSS for better user experiences
 
 ## Supporting Educational Resources
 
