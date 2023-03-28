@@ -48,6 +48,10 @@ permalink: /phase1/module2
   - <a href="https://edu.gcfglobal.org/en/online-money-tips/how-to-get-a-free-credit-report/1/" target="_blank">Credit score and credit report</a>
 - <a href="https://www.digitallearn.org/courses/cloud-storage" target="_blank">Cloud Storage</a>
   - <a href="https://edu.gcfglobal.org/en/googledriveanddocs/" target="_blank">Google Drive</a>
+- G-Suite
+  - Google Doc
+  - Google Slide
+  - Google Sheet
 
 ## Key Mentee Deliverables
 
