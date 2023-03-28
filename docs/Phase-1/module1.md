@@ -21,7 +21,7 @@ permalink: /phase1/module1
 - Using different operating systems
   - <a href="https://www.digitallearn.org/courses/using-a-pc-windows-10-new" target="_blank">PC/Windows</a>
   - <a href="https://www.digitallearn.org/courses/using-a-mac-os-x" target="_blank">Mac OSX</a>
-- Computer navigation
+- Computer navigation (<a href="https://docs.google.com/document/d/1pQOH5XaOSlcu9UVA1kr4TJ6O6VwXg1He7AGbeX_vdek/edit">Guide</a>)
   - <a href="https://edu.gcfglobal.org/en/techsavvy/taking-screenshots/1/" target="_blank">Screenshots</a>
   - <a href="https://edu.gcfglobal.org/en/basic-computer-skills/tips-for-speeding-up-your-computer/1/" target="_blank">Speeding your computer up</a>
   - <a href="https://edu.gcfglobal.org/en/basic-computer-skills/installing-software-on-your-mac/1/" target="_blank">Downloading software</a>
