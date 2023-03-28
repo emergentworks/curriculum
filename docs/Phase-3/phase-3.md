@@ -87,3 +87,4 @@ If a mentee is between phases, such as mentee needs a little from Phase 1 & 2, t
   - click on the "Projects" tab.
   - Click on the "Link a Project" button
   - select the project you created to link the two
+- Set up workflow to change status to "done" when issue is closed
