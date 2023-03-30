@@ -2,7 +2,7 @@
 layout: default
 title: Phase 3 - Intro to Programming
 nav_order: 4
-has_children: false
+has_children: true
 permalink: /phase3
 ---
 
@@ -69,22 +69,3 @@ If a mentee is between phases, such as mentee needs a little from Phase 1 & 2, t
 - <a href="https://nodejs.dev/learn/modern-asynchronous-javascript-with-async-and-await" target="_blank">Modern Asynchronous JavaScript with Async and Await</a>
 - <a href="https://leanylabs.com/blog/good-unit-tests/" target="_blank">Good unit tests</a>
 - <a href="https://docs.google.com/document/d/1T_nsVjcdX8ISGTS97GXbvLPcJg_Fj0Bk4GvXMAYAnfI/edit?usp=sharing" target="_blank">List of previous projects</a>
-
-
-## Setting up repository and project
-
-- Set up your repository
-  - Go to the [EmergentWorks phase-3-assignments](https://github.com/emergentworks/phase-3-assignments) repository template.
-  - Click on "Use this template" (option "Create a new repository")
-  - Select your gitHub Home, and assign a repository name (be sure to click the "Include all branches" checkbox)
-    - Keep your new repo "Public"
-- set up your project
-  - Go to the [EmergentWorks phase-3-project](TBD) project.
-  - Go to "make a copy" (click on the ellipsis button in the top right corner, and click "Make a copy")
-  - Be sure to click to click the "Draft issues will be copied if selected" and give your project an appropriate name.
-- connect your project to your repo
-  - Navigate to your new repo
-  - click on the "Projects" tab.
-  - Click on the "Link a Project" button
-  - select the project you created to link the two
-- Set up workflow to change status to "done" when issue is closed
