@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Repository and Project Setup
-nav_order: 4
-has_children: true
+nav_order: 1
+has_children: false
 parent: Phase 3 - Intro to Programming
 permalink: /phase3/repoprojectsetup
 ---
