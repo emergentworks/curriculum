@@ -48,10 +48,10 @@ These assignments should still be completed.
 ### Note
 
 This is the first time that we are using The Odin Project's JavaScript Course directly.  
-The breakdown of modules into 4-week segments is, currently, a "reasonable guess" at how to
-progress through this curriculum, with the intent of completion in 12 weeks.  We welcome, and appreciate
-any feedback as to whether we've broken it up appropriately, and the feasibility of completing these
-lessons in the time allotted.  
+We do not anticipate the mentees will be able to complete the full curriculum in one 12-week cohort.
+In this cohort, just proceed through the curriculum at a comfortable pace.  It's much more important
+that the mentee has a firm grasp of the material in each lesson before moving on, than it is that the
+make quick progress through lessons.   
 
 Program staff will be of assistance for support with lesson planning if needed.
 
