@@ -37,4 +37,32 @@ permalink: /phase3/repoprojectsetup
   - Click on the "Link a Project" button
   - select the project you created to link the two
     <br/><img src="/curriculum/assets/images/ConnectProject2.png"  width="433" height="198">
+  - Be sure to make the project "public" so that your mentor can see it.
+    - Select "Settings"
+    <br/><img src="/curriculum/assets/images/ConnectProject3.png"  width="1131" height="353">
+    - Under "Visibility" select "Public"
+    <br/><img src="/curriculum/assets/images/ConnectProject4.png"  width="790" height="759">
+- Grant the "Write" role to your mentor.
+  - From the Project settings, click the "Manage Access" tab on the left
+  - Find your mentor in the search box for "Invite collaborators"
+  - Make sure the Role is "Write" 
+  - Click "Invite"
+    <br/><img src="/curriculum/assets/images/ConnectProject7.png"  width="1140" height="369">
 - Set up workflow to change status to "done" when issue is closed
+  - From the ellipsis button on your project, click "Workflows"
+    <br/><img src="/curriculum/assets/images/ConnectProject5.png"  width="306" height="161">
+  - select the "Item closed" workflow, and click the pencil icon to edit.
+  - from the "Set value" dropdown, select "Done"
+  - click the "Save and turn on workflow" button
+    <br/><img src="/curriculum/assets/images/ConnectProject6.png"  width="814" height="585">
+- Set up workflow to change status when a pull request is merged
+  - Follow the same process to setup and turn on the "Pull request merged" workflow.
+- Add your mentor as a collaborator
+  - In you repo, select the "Settings" tab at the top
+  - Select the "Collaborators" tab to the left
+  - Click the "Add people" button
+    <br/><img src="/curriculum/assets/images/Collab1.png"  width="1119" height="161">
+  - Use the search to find your mentor and select them as a collaborator
+    <br/><img src="/curriculum/assets/images/Collab2.png"  width="655" height="72">
+  - At this point, your mentor should receive an invite email and will show in your repo as "pending invite"
+  - From the invite email the mentor can click the "View Invitation" button and accept the invite.
