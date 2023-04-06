@@ -14,7 +14,7 @@ and to give the mentee some introductory experience with being assigned issues, 
 a lightweight process (simulating some of the work experience without burdening the learning with too much "process")
 
 - Mentor converts project tasks to Issues in mentee project
-  - Status "Todo"  - (You can set all statuses to "Todo" ahead of time)
+  - Status "Todo"  
 - Mentee selects the next issue and changes status to "In Progress" and begins work in the mentee branch
   - Note: Some projects may warrant their own repo.  If you do this, just put a link to that repo in the README.md file
 - Once complete, the mentee will submit a Pull Request and mark the issue "Submitted for Review"
