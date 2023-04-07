@@ -49,15 +49,15 @@ permalink: /phase1/module2
 - <a href="https://www.digitallearn.org/courses/cloud-storage" target="_blank">Cloud Storage</a>
   - <a href="[https://edu.gcfglobal.org/en/googledriveanddocs/](https://applieddigitalskills.withgoogle.com/c/college-and-continuing-education/en/g-suite-certification-drive/overview.html)" target="_blank">Google Drive</a>
 - G-Suite (Note: Mentees should sign into Google in order to track their progress).
-  - <a href="https://applieddigitalskills.withgoogle.com/c/college-and-continuing-education/en/g-suite-certification-docs-part-1/overview.html">Google Doc - Part 1</a>
-  - <a href="https://applieddigitalskills.withgoogle.com/c/college-and-continuing-education/en/g-suite-certification-docs-part-2/overview.html">Google Doc - Part 2</a>
-  - <a href="https://applieddigitalskills.withgoogle.com/c/college-and-continuing-education/en/g-suite-certification-slides-part-1/overview.html">Google Slide - Part 1</a>
-  - <a href="https://applieddigitalskills.withgoogle.com/c/college-and-continuing-education/en/g-suite-certification-slides-part-2/overview.html">Google Slide - Part 2</a>
-  - <a href="https://applieddigitalskills.withgoogle.com/c/college-and-continuing-education/en/g-suite-certification-slides-part-3/overview.html">Google Slide - Part 3</a>
-  - <a href="https://applieddigitalskills.withgoogle.com/c/college-and-continuing-education/en/g-suite-certification-sheets-part-1/overview.html">Google Sheet - Part 1</a>
-  - <a href="https://applieddigitalskills.withgoogle.com/c/college-and-continuing-education/en/g-suite-certification-sheets-part-2/overview.html">Google Sheet - Part 2</a>
-  - <a href="https://applieddigitalskills.withgoogle.com/c/college-and-continuing-education/en/g-suite-certification-slides-part-3/overview.html">Google Sheet - Part 3</a>
-   - <a href="https://applieddigitalskills.withgoogle.com/c/middle-and-high-school/en/create-and-safeguard-passwords/overview.html">Password and Google Sheets Exercise</a>
+  - <a href="https://applieddigitalskills.withgoogle.com/c/college-and-continuing-education/en/g-suite-certification-docs-part-1/overview.html" target="_blank">Google Doc - Part 1</a>
+  - <a href="https://applieddigitalskills.withgoogle.com/c/college-and-continuing-education/en/g-suite-certification-docs-part-2/overview.html" target="_blank">Google Doc - Part 2</a>
+  - <a href="https://applieddigitalskills.withgoogle.com/c/college-and-continuing-education/en/g-suite-certification-slides-part-1/overview.html" target="_blank">Google Slide - Part 1</a>
+  - <a href="https://applieddigitalskills.withgoogle.com/c/college-and-continuing-education/en/g-suite-certification-slides-part-2/overview.html" target="_blank">Google Slide - Part 2</a>
+  - <a href="https://applieddigitalskills.withgoogle.com/c/college-and-continuing-education/en/g-suite-certification-slides-part-3/overview.html" target="_blank">Google Slide - Part 3</a>
+  - <a href="https://applieddigitalskills.withgoogle.com/c/college-and-continuing-education/en/g-suite-certification-sheets-part-1/overview.html" target="_blank">Google Sheet - Part 1</a>
+  - <a href="https://applieddigitalskills.withgoogle.com/c/college-and-continuing-education/en/g-suite-certification-sheets-part-2/overview.html" target="_blank">Google Sheet - Part 2</a>
+  - <a href="https://applieddigitalskills.withgoogle.com/c/college-and-continuing-education/en/g-suite-certification-slides-part-3/overview.html" target="_blank">Google Sheet - Part 3</a>
+   - <a href="https://applieddigitalskills.withgoogle.com/c/middle-and-high-school/en/create-and-safeguard-passwords/overview.html" target="_blank">Password and Google Sheets Exercise</a>
 
 ## Key Mentee Deliverables
 
