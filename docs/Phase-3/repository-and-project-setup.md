@@ -3,7 +3,7 @@ layout: default
 title: Repository and Project Setup
 nav_order: 1
 has_children: false
-parent: Phase 3 - Intro to Programming
+parent: Phase 3 - Full Stack JavaScript
 permalink: /phase3/repoprojectsetup
 ---
 

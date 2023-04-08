@@ -3,7 +3,7 @@ layout: default
 title: Curriculum Project Workflow
 nav_order: 2
 has_children: false
-parent: Phase 3 - Intro to Programming
+parent: Phase 3 - Full Stack JavaScript
 permalink: /phase3/projectworkflow
 ---
 
