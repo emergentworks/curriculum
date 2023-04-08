@@ -9,7 +9,7 @@ permalink: /phase3/projectworkflow
 
 # Curriculum Project Workflow
 
-This project workflow is designed to assist in tracking progress through The Odin Project's JavaScrip course,
+This project workflow is designed to assist in tracking progress through The Odin Project's JavaScript course,
 and to give the mentee some introductory experience with being assigned issues, and working them using
 a lightweight process (simulating some of the work experience without burdening the learning with too much "process")
 
