@@ -43,6 +43,6 @@ permalink: /phase2/module3
 ## Supporting Educational Resources
 
 - The Odin Project
-  - <a href="https://www.theodinproject.com/paths/foundations/courses/foundations#javascript-basics" target="_blank">JavaScript Basics</a>
-  - Bonus - <a href="https://www.theodinproject.com/paths/foundations/courses/foundations#the-back-end" target="_blank">The Back End</a>
-  - <a href="https://www.theodinproject.com/paths/foundations/courses/foundations#conclusion" target="_blank">Conclusion</a>
+  - <a href="https://www.theodinproject.com/paths/foundations/courses/foundations#javascript-basics" target="_blank" class="external">JavaScript Basics</a>
+  - Bonus - <a href="https://www.theodinproject.com/paths/foundations/courses/foundations#the-back-end" target="_blank" class="external">The Back End</a>
+  - <a href="https://www.theodinproject.com/paths/foundations/courses/foundations#conclusion" target="_blank" class="external">Conclusion</a>

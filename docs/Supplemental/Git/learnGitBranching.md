@@ -9,7 +9,7 @@ permalink: /supplemental/git/learnGitBranching
 
 # Learning Git Branching (game)
 
-<a href="https://learngitbranching.js.org/" target="_blank">Learning Git Branching (game)</a>
+<a href="https://learngitbranching.js.org/" target="_blank" class="external">Learning Git Branching (game)</a>
 
 ## Pros:
 
