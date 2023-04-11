@@ -19,32 +19,32 @@ permalink: /phase1/module1
 ## Learning Topics
 
 - Using different operating systems
-  - <a href="https://www.digitallearn.org/courses/using-a-pc-windows-10-new" target="_blank">PC/Windows</a>
-  - <a href="https://www.digitallearn.org/courses/using-a-mac-os-x" target="_blank">Mac OSX</a>
+  - <a href="https://www.digitallearn.org/courses/using-a-pc-windows-10-new" target="_blank" class="external" class="external">PC/Windows</a>
+  - <a href="https://www.digitallearn.org/courses/using-a-mac-os-x" target="_blank" class="external">Mac OSX</a>
 - Computer navigation
-  - <a href="https://edu.gcfglobal.org/en/techsavvy/taking-screenshots/1/" target="_blank">Screenshots</a>
-  - <a href="https://edu.gcfglobal.org/en/basic-computer-skills/tips-for-speeding-up-your-computer/1/" target="_blank">Speeding your computer up</a>
-  - <a href="https://edu.gcfglobal.org/en/basic-computer-skills/installing-software-on-your-mac/1/" target="_blank">Downloading software</a>
-  - <a href="https://edu.gcfglobal.org/en/basic-computer-skills/understanding-file-extensions/1/" target="_blank">File extensions</a>
-  - <a href="https://edu.gcfglobal.org/en/typing/typing/1/" target="_blank">Typing practice</a>
-  - <a href="https://edu.gcfglobal.org/en/techsavvy/keyboard-shortcuts/1/" target="_blank">Keyboard shortcuts</a>
-- <a href="https://edu.gcfglobal.org/en/googleaccount/" target="_blank">How to create accounts securely (Google)</a>
+  - <a href="https://edu.gcfglobal.org/en/techsavvy/taking-screenshots/1/" target="_blank" class="external">Screenshots</a>
+  - <a href="https://edu.gcfglobal.org/en/basic-computer-skills/tips-for-speeding-up-your-computer/1/" target="_blank" class="external">Speeding your computer up</a>
+  - <a href="https://edu.gcfglobal.org/en/basic-computer-skills/installing-software-on-your-mac/1/" target="_blank" class="external">Downloading software</a>
+  - <a href="https://edu.gcfglobal.org/en/basic-computer-skills/understanding-file-extensions/1/" target="_blank" class="external">File extensions</a>
+  - <a href="https://edu.gcfglobal.org/en/typing/typing/1/" target="_blank" class="external">Typing practice</a>
+  - <a href="https://edu.gcfglobal.org/en/techsavvy/keyboard-shortcuts/1/" target="_blank" class="external">Keyboard shortcuts</a>
+- <a href="https://edu.gcfglobal.org/en/googleaccount/" target="_blank" class="external">How to create accounts securely (Google)</a>
 - Data Privacy & Security<sup>†</sup>
-  - <a href="https://edu.gcfglobal.org/en/chrome/privacy-and-security-in-chrome/1/" target="_blank">Security and data in Chrome</a>
-  - <a href="https://edu.gcfglobal.org/en/thenow/understanding-login-methods/1/" target="_blank">Login methods</a>
-  - <a href="https://edu.gcfglobal.org/en/thenow/what-is-twofactor-authentication/1/" target="_blank">2F-Authentication</a>
-  - <a href="https://edu.gcfglobal.org/en/internetsafety/creating-strong-passwords/1/" target="_blank">Strong passwords</a>
-  - <a href="https://nordvpn.com/blog/what-is-ad-blocking/#:~:text=An%20ad%20blocker%20is%20any,web%20page%20against%20massive%20blacklists." target="_blank">Ad Blocker</a><sup>†</sup>
-  - <a href="https://edu.gcfglobal.org/en/thenow/common-credit-card-scams/1/" target="_blank">Credit card scams</a>
+  - <a href="https://edu.gcfglobal.org/en/chrome/privacy-and-security-in-chrome/1/" target="_blank" class="external">Security and data in Chrome</a>
+  - <a href="https://edu.gcfglobal.org/en/thenow/understanding-login-methods/1/" target="_blank" class="external">Login methods</a>
+  - <a href="https://edu.gcfglobal.org/en/thenow/what-is-twofactor-authentication/1/" target="_blank" class="external">2F-Authentication</a>
+  - <a href="https://edu.gcfglobal.org/en/internetsafety/creating-strong-passwords/1/" target="_blank" class="external">Strong passwords</a>
+  - <a href="https://nordvpn.com/blog/what-is-ad-blocking/#:~:text=An%20ad%20blocker%20is%20any,web%20page%20against%20massive%20blacklists." target="_blank" class="external">Ad Blocker</a><sup>†</sup>
+  - <a href="https://edu.gcfglobal.org/en/thenow/common-credit-card-scams/1/" target="_blank" class="external">Credit card scams</a>
 - Safely Browsing & finding info online
   - [Internet navigation](/curriculum/supplemental/digitalLiteracy/theInternet)<sup>†</sup>
   - [Search Basics](/curriculum/supplemental/digitalLiteracy/internetSearch)<sup>†</sup>
-  - <a href="https://edu.gcfglobal.org/en/digital-media-literacy/judging-online-information/1/" target="_blank">Judging online information</a>
-  - <a href="https://edu.gcfglobal.org/en/thenow/what-is-fake-news/1/" target="_blank">Fake news</a>
-  - <a href="https://edu.gcfglobal.org/en/thenow/what-is-clickbait/1/" target="_blank">Clickbait</a>
-  - <a href="https://edu.gcfglobal.org/en/thenow/what-is-targeted-advertising/1/" target="_blank">Targeted Ads</a>
-  - <a href="https://edu.gcfglobal.org/en/thenow/what-are-chatbots/1/" target="_blank">Chatbots</a>
-  - <a href="https://edu.gcfglobal.org/en/online-money-tips/how-to-avoid-tax-scams/1/" target="_blank">Avoid tax scams</a>
+  - <a href="https://edu.gcfglobal.org/en/digital-media-literacy/judging-online-information/1/" target="_blank" class="external">Judging online information</a>
+  - <a href="https://edu.gcfglobal.org/en/thenow/what-is-fake-news/1/" target="_blank" class="external">Fake news</a>
+  - <a href="https://edu.gcfglobal.org/en/thenow/what-is-clickbait/1/" target="_blank" class="external">Clickbait</a>
+  - <a href="https://edu.gcfglobal.org/en/thenow/what-is-targeted-advertising/1/" target="_blank" class="external">Targeted Ads</a>
+  - <a href="https://edu.gcfglobal.org/en/thenow/what-are-chatbots/1/" target="_blank" class="external">Chatbots</a>
+  - <a href="https://edu.gcfglobal.org/en/online-money-tips/how-to-avoid-tax-scams/1/" target="_blank" class="external">Avoid tax scams</a>
 
 ## Key Mentee Deliverables
 

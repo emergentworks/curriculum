@@ -1,0 +1,12 @@
+a.external:after {
+  background-color: rgb(114, 83, 237);
+  content: "";
+  display: inline-flex;
+  height: 10px;
+  margin-left: 4px;
+  -webkit-mask-image: url(/curriculum/assets/images/external-link.svg);
+  mask-image: url(/curriculum/assets/images/external-link.svg);
+  -webkit-mask-size: cover;
+  mask-size: cover;
+  width: 10px;
+}
