@@ -6,6 +6,8 @@ search_enabled: false
 baseurl: "/curriculum" # the subpath of your site, e.g. /blog
 #url: "https://emergentworks.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
+description: "Emergent Works Curriculum"
+
 permalink: pretty
 exclude: [".legacy", "node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile", "vendor"]
 
