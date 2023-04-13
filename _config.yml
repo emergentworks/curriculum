@@ -4,7 +4,7 @@ color_scheme: "light"
 search_enabled: false
 
 baseurl: "/curriculum" # the subpath of your site, e.g. /blog
-#url: "https://emergentworks.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: PAGES_REPO_NWO # the base hostname & protocol for your site, e.g. http://example.com
 
 description: "Emergent Works Curriculum"
 
