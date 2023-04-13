@@ -58,3 +58,6 @@ search:
 #   - title: 1:1 Mentorship Session Feedback & Attendance form
 #     url: https://airtable.com/shr4s7qWESeM3vu61
 #     hide_icon: false # set to true to hide the external link icon - defaults to false
+
+plugins:
+  - jekyll-target-blank

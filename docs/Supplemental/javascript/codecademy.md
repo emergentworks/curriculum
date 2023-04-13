@@ -24,6 +24,6 @@ Quizzes and projects are "Pro" features and are not free.
 Many of the "cons" for Free Code Camp apply here as well, as both
 take a pretty similar approach.
 
-- <a href="https://www.codecademy.com/learn/learn-html" target="_blank" class="external">Learn HTML</a>
+- [Learn HTML](https://www.codecademy.com/learn/learn-html)
 
-- <a href="https://www.codecademy.com/learn/introduction-to-javascript" target="_blank" class="external">introduction To JavaScript</a>
+- [introduction To JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)
