@@ -17,16 +17,17 @@ Requirements:
 - Basic understanding of requests/response
 - Comprehension of Javascript basics like using variables and if-statements.
 - Twilio account (free to create one).
-- Phone number to test. You can set up a free phone number through <a href="https://voice.google.com/u/0/about" target="_blank" class="external">Google Voice</a>.
+- Phone number to test. You can set up a free phone number through [Google Voice](https://voice.google.com/u/0/about).
 
-   Example here: <a href="https://glitch.com/~not911-bot" target="_blank" class="external">https://glitch.com/~not911-bot</a>. This is a chat bot that allows you to get information found from <a href="https://not911.nyc" target="_blank" class="external">not911.nyc</a>
+   Example here: [https://glitch.com/~not911-bot](https://glitch.com/~not911-bot). 
+   This is a chat bot that allows you to get information found from [not911.nyc](https://not911.nyc)
 
 ### Instructions
 
 1. Come up with an idea for a chat bot. Chat bots are essentially programs that communicate through messages. In this case, you will be building a chat bot that can be accessed through a phone number. Here are some ideas of useful bots:
-   - <a href="https://glitch.com/~pridebot-glitch" target="_blank" class="external">Pride Event Bot</a> - tells you the nearest and latest pride event.
-   - <a href="https://resist.bot/" target="_blank" class="external">Resist Bot</a> - automatically sends letters to your local statehouse and more.
-   - <a href="https://github.com/mee-kell/guess-the-word" target="_blank" class="external">Hangman game</a> Play hangman through text messages.
+   - [Pride Event Bot](https://glitch.com/~pridebot-glitch) - tells you the nearest and latest pride event.
+   - [Resist Bot](https://resist.bot/) - automatically sends letters to your local statehouse and more.
+   - [Hangman game](https://github.com/mee-kell/guess-the-word) Play hangman through text messages.
    - Chat bots don't need to be serious. They can be fun like a chat bot that plays a guessing game, tic-tac-toe, or tells you whether today you should wear pants or shorts. Some other ideas are bots that tell you when the next MTA train is arriving at a station or a bot that generates a poem for you.
 2. Design and build an chat bot using the Twilio API. You can follow the Twilio guide with Node.js to learn how to set up a Twilio account with your node server. It is recommended
    - Design: It’s recommended that you either map out the conversation or create a diagram of possible text messages. Example:
@@ -38,9 +39,10 @@ Requirements:
 
 #### Using ngrok
 
-If you are running your chat bot on your local environment (running on `localhost`), you will need a way to forward your port to a public URL. For an overview of how ngrok works with Twilio, you can check <a href="https://www.youtube.com/watch?v=S1uExj7mMgM" target="_blank" class="external">this video</a> out.You can use <a href="https://ngrok.com/" target="_blank" class="external">ngrok</a> to do this:
+If you are running your chat bot on your local environment (running on `localhost`), you will need a way to forward your port to a public URL. For an overview of how ngrok works with Twilio, you can check [this video](https://www.youtube.com/watch?v=S1uExj7mMgM) 
+out.You can use [ngrok](https://ngrok.com/) to do this:
 
-1. Download and install ngrok by following instructions here: <a href="https://ngrok.com/download" target="_blank" class="external">https://ngrok.com/download</a>
+1. Download and install ngrok by following instructions here: [https://ngrok.com/download](https://ngrok.com/download)
 2. In a terminal window, use `ngrok http 80` except replace `80` with the port number you are using for your node server. This command will start a session that forwards your local port to a public URL. It should print out some information about the session including a link that looks like `https://test.ngrok.io`. Keep your Terminal window open.
 3. Login to Twilio and go to Messaging -> Services and create a Messaging Service. Fill out the name of the service and click `Skip Setup` on the bottom of the page.
 4. Once the service is setup, click on `Integrations` and Check `Send a webhook` and copy/paste the URL from your Terminal session. For `Fallback URL` you can just use `https://www.google.com`. Then click `Save Changes`.

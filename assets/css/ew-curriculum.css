@@ -1,4 +1,4 @@
-a.external:after {
+a[target="_blank"]:after {
   background-color: rgb(114, 83, 237);
   content: "";
   display: inline-flex;
