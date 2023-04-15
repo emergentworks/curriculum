@@ -16,8 +16,8 @@ helping the mentee with these instructions.
 ## Set up your repository
 
 - Go to the repository template.
-  - For course 1 (Intermediate HTML and CSS) use <a href="https://github.com/emergentworks/phase-3-01-intermediate-html-css-assignments" target="_blank" class="external">phase-3-01-intermediate-html-css-assignments</a>
-  - For course 2 (JavaScript) use <a href="https://github.com/emergentworks/phase-3-02-javascript-assignments" target="_blank" class="external">phase-3-02-javascript-assignments</a>
+  - For course 1 (Intermediate HTML and CSS) use [phase-3-01-intermediate-html-css-assignments](https://github.com/emergentworks/phase-3-01-intermediate-html-css-assignments)
+  - For course 2 (JavaScript) use [phase-3-02-javascript-assignments](https://github.com/emergentworks/phase-3-02-javascript-assignments)
 - Click on "Use this template" (option "Create a new repository")
    <br/><img srcset="/curriculum/assets/images/UseTemplate1.png 2x">
 - When the "Create a new repository from [REPO NAME]" pop-up appears:
@@ -31,8 +31,8 @@ helping the mentee with these instructions.
 ## Set up your project
 
 - Go to the matching project.
-  - For course 1 (Intermediate HTML and CSS) use <a href="https://github.com/orgs/emergentworks/projects/4" target="_blank" class="external">EmergentWorks Phase 3 Course 1 Tracking</a>
-  - For course 2 (JavaScript) use <a href="https://github.com/orgs/emergentworks/projects/2" target="_blank" class="external">EmergentWorks Phase 3 Course 2 Tracking</a>
+  - For course 1 (Intermediate HTML and CSS) use [EmergentWorks Phase 3 Course 1 Tracking](https://github.com/orgs/emergentworks/projects/4)
+  - For course 2 (JavaScript) use [EmergentWorks Phase 3 Course 2 Tracking](https://github.com/orgs/emergentworks/projects/2)
 - Click on the ellipses on the right, and click "Make a copy"
   <br/><img srcset="/curriculum/assets/images/CopyProject1.png 2x">
 - When the "Make a Copy" pop-up appears:

@@ -20,34 +20,34 @@ permalink: /phase1/module2
 
 - Writing
   - Messaging vs email
-  - <a href="https://edu.gcfglobal.org/en/internetbasics/understanding-hyperlinks/1/" target="_blank" class="external">Hyperlinks</a>
-  - <a href="https://edu.gcfglobal.org/en/internetbasics/understanding-urls/1/" target="_blank" class="external">URLs</a>
+  - [Hyperlinks](https://edu.gcfglobal.org/en/internetbasics/understanding-hyperlinks/1/)
+  - [URLs](https://edu.gcfglobal.org/en/internetbasics/understanding-urls/1/)
 - Email Basics
-  - <a href="https://edu.gcfglobal.org/en/email101/common-email-features/1/" target="_blank" class="external">Gmail</a>
-  - <a href="https://edu.gcfglobal.org/en/internetsafety/avoiding-spam-and-phishing/1/" target="_blank" class="external">Spam</a>
-  - <a href="https://edu.gcfglobal.org/en/gmail/sending-email/1/" target="_blank" class="external">Sending Emails</a>
-  - <a href="https://edu.gcfglobal.org/en/communicationskills/how-formal-should-an-email-be/1/" target="_blank" class="external">Etiquette</a>
+  - [Gmail](https://edu.gcfglobal.org/en/email101/common-email-features/1/)
+  - [Spam](https://edu.gcfglobal.org/en/internetsafety/avoiding-spam-and-phishing/1/)
+  - [Sending Emails](https://edu.gcfglobal.org/en/gmail/sending-email/1/)
+  - [Etiquette](https://edu.gcfglobal.org/en/communicationskills/how-formal-should-an-email-be/1/)
 - Messaging Basics
-  - <a href="https://edu.gcfglobal.org/en/business-communication/instant-messaging-etiquette/1/" target="_blank" class="external">Etiquette</a>
-  - <a href="https://edu.gcfglobal.org/en/business-communication/overcoming-phone-anxiety/1/" target="_blank" class="external">Phone anxiety</a>
-- <a href="https://www.digitallearn.org/courses/basics-of-video-conferencing-new" target="_blank" class="external">Zoom and Video Calls</a>
-  - <a href="https://edu.gcfglobal.org/en/zoom/getting-started-with-zoom/1/" target="_blank" class="external">Zoom account setup</a>
-  - <a href="https://join.com/recruitment-hr-blog/virtual-meeting-zoom-etiquette/" target="_blank" class="external">Zoom Etiquette</a><sup>†</sup>
-- <a href="https://edu.gcfglobal.org/en/linkedin/" target="_blank" class="external">Linkedin</a>
-  - <a href="https://edu.gcfglobal.org/en/linkedin/adjusting-your-settings-and-privacy-on-linkedin/1/" target="_blank" class="external">Linkedin privacy and etiquette</a>\*
-  - <a href="https://www.linkedin.com/pulse/how-your-social-media-presence-can-influence-job-search-junkova/" target="_blank" class="external">Social media influencing job search</a><sup>†</sup>
+  - [Etiquette](https://edu.gcfglobal.org/en/business-communication/instant-messaging-etiquette/1/)
+  - [Phone anxiety](https://edu.gcfglobal.org/en/business-communication/overcoming-phone-anxiety/1/)
+- [Zoom and Video Calls](https://www.digitallearn.org/courses/basics-of-video-conferencing-new)
+  - [Zoom account setup](https://edu.gcfglobal.org/en/zoom/getting-started-with-zoom/1/)
+  - [Zoom Etiquette](https://join.com/recruitment-hr-blog/virtual-meeting-zoom-etiquette/)<sup>†</sup>
+- [Linkedin](https://edu.gcfglobal.org/en/linkedin/)
+  - [Linkedin privacy and etiquette](https://edu.gcfglobal.org/en/linkedin/adjusting-your-settings-and-privacy-on-linkedin/1/)\*
+  - [Social media influencing job search](https://www.linkedin.com/pulse/how-your-social-media-presence-can-influence-job-search-junkova/)<sup>†</sup>
   - Create account and profile
   - Endorse and write recommendation for a peer in the cohort
-- <a href="https://edu.gcfglobal.org/en/google-tips/getting-started-with-google-calendar/1/" target="_blank" class="external">Calendar Basics</a>
+- [Calendar Basics](https://edu.gcfglobal.org/en/google-tips/getting-started-with-google-calendar/1/)
   - How to accept invites to events (i.e. accept sharing circle invite)
   - Create recurring events for 1:1 session
 - Financial toolsˤ
-  - <a href="https://edu.gcfglobal.org/en/online-money-tips/online-banking-101/1/" target="_blank" class="external">Online banking 101</a>
-  - <a href="https://edu.gcfglobal.org/en/online-money-tips/what-is-venmo/1/" target="_blank" class="external">Venmo</a>
-  - <a href="https://edu.gcfglobal.org/en/online-money-tips/save-money-with-free-budgeting-apps/1/" target="_blank" class="external">Budgeting apps</a>
-  - <a href="https://edu.gcfglobal.org/en/online-money-tips/how-to-get-a-free-credit-report/1/" target="_blank" class="external">Credit score and credit report</a>
-- <a href="https://www.digitallearn.org/courses/cloud-storage" target="_blank" class="external">Cloud Storage</a>
-  - <a href="https://edu.gcfglobal.org/en/googledriveanddocs/" target="_blank" class="external">Google Drive</a>
+  - [Online banking 101](https://edu.gcfglobal.org/en/online-money-tips/online-banking-101/1/)
+  - [Venmo](https://edu.gcfglobal.org/en/online-money-tips/what-is-venmo/1/)
+  - [Budgeting apps](https://edu.gcfglobal.org/en/online-money-tips/save-money-with-free-budgeting-apps/1/)
+  - [Credit score and credit report](https://edu.gcfglobal.org/en/online-money-tips/how-to-get-a-free-credit-report/1/)
+- [Cloud Storage](https://www.digitallearn.org/courses/cloud-storage)
+  - [Google Drive](https://edu.gcfglobal.org/en/googledriveanddocs/)
 
 ## Key Mentee Deliverables
 
@@ -55,7 +55,7 @@ permalink: /phase1/module2
 - Create Zoom account
 - Create a Linkedin profile
 - Write a recommendation for their peer (in cohort) (Linkedin)
-- Upload <a href="https://www.learningforjustice.org/sites/default/files/2017-10/TT-Digital-Literacy-Vocabulary-Oct2017.pdf" target="_blank" class="external">this</a> to Google Drive
+- Upload [this](https://www.learningforjustice.org/sites/default/files/2017-10/TT-Digital-Literacy-Vocabulary-Oct2017.pdf) to Google Drive
 - Apply SM teachings to their SM profile(s) (Airtable link for assignment)
 
 ## Learning Outcomes

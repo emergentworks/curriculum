@@ -4,7 +4,9 @@ color_scheme: "light"
 search_enabled: false
 
 baseurl: "/curriculum" # the subpath of your site, e.g. /blog
-#url: "https://emergentworks.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: PAGES_REPO_NWO # the base hostname & protocol for your site, e.g. http://example.com
+
+description: "Emergent Works Curriculum"
 
 permalink: pretty
 exclude: [".legacy", "node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile", "vendor"]
@@ -22,6 +24,8 @@ gh_edit_repository: "https://github.com/emergentworks/curriculum" # the github U
 gh_edit_branch: "main" # the branch that your docs is served from
 # gh_edit_source: docs # the source that your files originate from
 gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into the editor immediately
+
+github: [metadata]
 
 # Enable or disable heading anchors
 heading_anchors: true
@@ -58,3 +62,6 @@ search:
 #   - title: 1:1 Mentorship Session Feedback & Attendance form
 #     url: https://airtable.com/shr4s7qWESeM3vu61
 #     hide_icon: false # set to true to hide the external link icon - defaults to false
+
+plugins:
+  - jekyll-target-blank
