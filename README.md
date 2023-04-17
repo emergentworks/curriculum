@@ -12,7 +12,7 @@ This will create a lot of commits as you edit directly, and you'll need to wait 
 
 To set this up, go to the "Settings" tab for your repo, and select "Pages" in the left navigation. 
 On that page set the source to `GitHub Actions`
-<br/><img width="336" alt="GitHubActions" src="assets/images/ghActions.png 2">
+<br/><img width="336" alt="GitHubActions" src="assets/images/ghActions.png 2x">
 
 <!--
 <br/><img width="336" alt="GitHubActions" src="https://user-images.githubusercontent.com/2240827/232504400-efee9abb-fbe0-4684-bc10-5dea679f3f2a.png 2">
