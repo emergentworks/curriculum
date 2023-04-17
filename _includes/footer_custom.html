@@ -1,1 +1,3 @@
-{% site.gh_edit_repository = site.repository %}
+{% if site.gh_edit_repository %}
+{% assign site.gh_edit_repository = site.repository %}
+{% endif %}
