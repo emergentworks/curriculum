@@ -12,7 +12,7 @@ This will create a lot of commits as you edit directly, and you'll need to wait 
 
 To set this up, go to the "Settings" tab for your repo, and select "Pages" in the left navigation. 
 On that page set the source to `GitHub Actions`
-<br/><img srcset="assets/images/ghActions.png 2x">
+<br/>![GitHub Actions](assets/images/ghActions.png)
 
 
 You should then get a message at the top of the page telling you that "You site is live at ..." and there should be a `Visit Site` button
