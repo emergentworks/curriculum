@@ -12,7 +12,9 @@ This will create a lot of commits as you edit directly, and you'll need to wait 
 
 To set this up, go to the "Settings" tab for your repo, and select "Pages" in the left navigation. 
 On that page set the source to `GitHub Actions`
-<br/><img serset="https://github.com/github/{repository}/blob/assets/images/ghActions.png 2x"> 
+<br/>
+<img width="336" alt="Screenshot 2023-04-17 at 9 34 55 AM" src="https://user-images.githubusercontent.com/2240827/232504400-efee9abb-fbe0-4684-bc10-5dea679f3f2a.png">
+
 
 
 You should then get a message at the top of the page telling you that "You site is live at ..." and there should be a `Visit Site` button
