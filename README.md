@@ -14,11 +14,6 @@ To set this up, go to the "Settings" tab for your repo, and select "Pages" in th
 On that page set the source to `GitHub Actions`
 <br/><img width="336" alt="GitHubActions" src="assets/images/ghActions.png">
 
-<!--
-<br/><img width="336" alt="GitHubActions" src="https://user-images.githubusercontent.com/2240827/232504400-efee9abb-fbe0-4684-bc10-5dea679f3f2a.png 2">
--->
-
-
 You should then get a message at the top of the page telling you that "You site is live at ..." and there should be a `Visit Site` button
 to take you to the site.
 
