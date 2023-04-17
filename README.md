@@ -10,8 +10,10 @@ If you've forked this repo to contribute to it there are a couple of ways you ca
 You can make your changes directly in your repo and let Github build and deploy the results under your account.
 This will create a lot of commits as you edit directly, and you'll need to wait for GitHub to build and deploy the pages.
 
-To set this up, go to the "Settings~ tab for your repo, and select "Pages" in the left navigation. On that page set the source to `Deploy from a branch`
-and then select the branch you're doing your work under (and point it at the `/ (root)` directory.
+To set this up, go to the "Settings" tab for your repo, and select "Pages" in the left navigation. 
+On that page set the source to `GitHub Actions`
+<br/><img srcset="/curriculum/assets/images/ghActions.png 2x">
+
 
 You should then get a message at the top of the page telling you that "You site is live at ..." and there should be a `Visit Site` button
 to take you to the site.
