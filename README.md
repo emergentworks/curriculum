@@ -20,9 +20,11 @@ to take you to the site.
 If you want to see builds (to know when your changes have been deployed), go to the `Actions` tab in your repo.
 
 NOTE: If you want to use this method and review the results on Github, you may probably want to
-modify the `gh_edit_repository` value in the `_config.yml` file to point to your repo:
+modify the `gh_edit_link` to `true` and the `gh_edit_repository` value in the `_config.yml` file to point to your repo:
 
 ```
+gh_edit_link: true # show or hide edit this page link
+...
 gh_edit_repository: "https://github.com/<<your GitHub ID>>/curriculum" # the github URL for your repo
 ```
 
