@@ -19,14 +19,7 @@ permalink: /phase1/module2
 ## Learning Topics
 
 - Writing
-  - Messaging vs email
-  - [Hyperlinks](https://edu.gcfglobal.org/en/internetbasics/understanding-hyperlinks/1/)
-  - [URLs](https://edu.gcfglobal.org/en/internetbasics/understanding-urls/1/)
-- Email Basics
-  - [Gmail](https://edu.gcfglobal.org/en/email101/common-email-features/1/)
-  - [Spam](https://edu.gcfglobal.org/en/internetsafety/avoiding-spam-and-phishing/1/)
-  - [Sending Emails](https://edu.gcfglobal.org/en/gmail/sending-email/1/)
-  - [Etiquette](https://edu.gcfglobal.org/en/communicationskills/how-formal-should-an-email-be/1/)
+  - [Emails in the Workplace](https://applieddigitalskills.withgoogle.com/c/college-and-continuing-education/en/send-professional-emails/materials.html)
 - Messaging Basics
   - [Etiquette](https://edu.gcfglobal.org/en/business-communication/instant-messaging-etiquette/1/)
   - [Phone anxiety](https://edu.gcfglobal.org/en/business-communication/overcoming-phone-anxiety/1/)
