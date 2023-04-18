@@ -65,6 +65,9 @@ permalink: /phase1/module2
 - Create a Linkedin profile
 - Write a recommendation for their peer (in cohort) (Linkedin)
 - Upload [this](https://www.learningforjustice.org/sites/default/files/2017-10/TT-Digital-Literacy-Vocabulary-Oct2017.pdf) to Google Drive
+- Finish all Google Suite lessons
+
+## Supplemental Activities
 - Complete the [Password and Google Sheets Exercise](https://applieddigitalskills.withgoogle.com/c/middle-and-high-school/en/create-and-safeguard-passwords/overview.html)
 
 ## Learning Outcomes
