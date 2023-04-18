@@ -51,11 +51,12 @@ You can begin this module by gauging your mentee's digital skills [here](/supple
 
 ## Key Mentee Deliverables
 
+- Get Chrome installed
 - Create Google Account and Sync to phone
 - Set up 2-factor Authentication on Google Account
 - Install ad blocker in browser (ublock)
 - Store password in google’s password manager
-- Get Chrome installed
+- Complete [module 1 checkpoint](https://forms.gle/EjDknbwERwHbL91k8)
 
 ## Learning Outcomes
 
