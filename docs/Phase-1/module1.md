@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Module 1 - Using the internet safely & effectively
+title: Module 1 - Digital Navigation and Safety
 parent: Phase 1 - Digital Literacy
 nav_order: 1
 permalink: /phase1/module1
 ---
 
-# Module 1: Using the internet safely & effectively
+# Module 1: Digital Navigation and Safety
 
 ## Duration 
 
