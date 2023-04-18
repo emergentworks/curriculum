@@ -8,6 +8,8 @@ permalink: /phase1/module1
 
 # Module 1: Digital Navigation and Safety
 
+You can begin this module by gauging your mentee's digital skills [here](/supplemental/digitalLiteracy/digitalProficiencyPairing).
+
 ## Duration 
 
 4 weeks
