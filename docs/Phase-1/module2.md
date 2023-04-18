@@ -70,6 +70,7 @@ permalink: /phase1/module2
 
 ## Supplemental Activities
 - Complete the [Password and Google Sheets Exercise](https://applieddigitalskills.withgoogle.com/c/middle-and-high-school/en/create-and-safeguard-passwords/overview.html)
+- [Create a cookbook in Google Slides](https://applieddigitalskills.withgoogle.com/c/college-and-continuing-education/en/create-a-cookbook-in-google-slides/overview.html)
 
 ## Learning Outcomes
 
