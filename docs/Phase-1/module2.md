@@ -40,7 +40,7 @@ permalink: /phase1/module2
   - [Venmo](https://edu.gcfglobal.org/en/online-money-tips/what-is-venmo/1/)
   - [Budgeting apps](https://edu.gcfglobal.org/en/online-money-tips/save-money-with-free-budgeting-apps/1/)
   - [Credit score and credit report](https://edu.gcfglobal.org/en/online-money-tips/how-to-get-a-free-credit-report/1/)
-- [Cloud Storage](https://www.digitallearn.org/courses/cloud-storage)
+- [Google Drive](https://edu.gcfglobal.org/en/googledriveanddocs/)
 - Google Suite
   - [Google Doc - Part 1](https://applieddigitalskills.withgoogle.com/c/college-and-continuing-education/en/g-suite-certification-docs-part-1/overview.html)
   - [Google Doc - Part 2](https://applieddigitalskills.withgoogle.com/c/college-and-continuing-education/en/g-suite-certification-docs-part-2/overview.html)
