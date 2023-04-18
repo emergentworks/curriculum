@@ -65,6 +65,7 @@ permalink: /phase1/module2
 - Create a Linkedin profile
 - Write a recommendation for their peer (in cohort) (Linkedin)
 - Upload [this](https://www.learningforjustice.org/sites/default/files/2017-10/TT-Digital-Literacy-Vocabulary-Oct2017.pdf) to Google Drive
+- Complete [module 2 checkpoint](https://forms.gle/UGK5nFDZNtd8yLKB8)
 - Finish all Google Suite lessons
 
 ## Supplemental Activities
