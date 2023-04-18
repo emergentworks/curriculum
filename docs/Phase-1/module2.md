@@ -23,7 +23,8 @@ permalink: /phase1/module2
 - Messaging Basics
   - [Etiquette](https://edu.gcfglobal.org/en/business-communication/instant-messaging-etiquette/1/)
   - [Phone anxiety](https://edu.gcfglobal.org/en/business-communication/overcoming-phone-anxiety/1/)
-- [Zoom and Video Calls](https://www.digitallearn.org/courses/basics-of-video-conferencing-new)
+- Video Conferencing
+  - [Google Meet](https://edu.gcfglobal.org/en/google-meet/)
   - [Zoom account setup](https://edu.gcfglobal.org/en/zoom/getting-started-with-zoom/1/)
   - [Zoom Etiquette](https://join.com/recruitment-hr-blog/virtual-meeting-zoom-etiquette/)<sup>†</sup>
 - [Linkedin](https://edu.gcfglobal.org/en/linkedin/)
