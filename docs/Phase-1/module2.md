@@ -42,15 +42,21 @@ permalink: /phase1/module2
   - [Credit score and credit report](https://edu.gcfglobal.org/en/online-money-tips/how-to-get-a-free-credit-report/1/)
 - [Google Drive](https://edu.gcfglobal.org/en/googledriveanddocs/)
 - Google Suite
-  - [Google Doc - Part 1](https://applieddigitalskills.withgoogle.com/c/college-and-continuing-education/en/g-suite-certification-docs-part-1/overview.html)
-  - [Google Doc - Part 2](https://applieddigitalskills.withgoogle.com/c/college-and-continuing-education/en/g-suite-certification-docs-part-2/overview.html)
-  - [Google Slide - Part 1](https://applieddigitalskills.withgoogle.com/c/college-and-continuing-education/en/g-suite-certification-slides-part-1/overview.html)
-  - [Google Slide - Part 2](https://applieddigitalskills.withgoogle.com/c/college-and-continuing-education/en/g-suite-certification-slides-part-2/overview.html)
-  - [Google Slide - Part 3](https://applieddigitalskills.withgoogle.com/c/college-and-continuing-education/en/g-suite-certification-slides-part-3/overview.html)
-  - [Google Sheet - Part 1](https://applieddigitalskills.withgoogle.com/c/college-and-continuing-education/en/g-suite-certification-sheets-part-1/overview.html)
-  - [Google Sheet - Part 2](https://applieddigitalskills.withgoogle.com/c/college-and-continuing-education/en/g-suite-certification-sheets-part-2/overview.html)
-  - [Google Sheet - Part 3](https://applieddigitalskills.withgoogle.com/c/college-and-continuing-education/en/g-suite-certification-slides-part-3/overview.html)
-  - [Password and Google Sheets Exercise](https://applieddigitalskills.withgoogle.com/c/middle-and-high-school/en/create-and-safeguard-passwords/overview.html)
+  - Mentees are enroll into our Google Classroom for these exercises by:
+    - Go to g.co/AppliedDigitalSkills
+    - Click "Sign in" in the top right
+    - Sign in with your Google account, or create a new one
+    - Click "I am a student"
+    - Click "Join a class" and enter class code found [here](https://docs.google.com/document/d/1D5p7NUNFTey3hc4W_5uLe-80lZUOPptZoh7lp9XG1ZU/edit?usp=sharing)
+  - Otherwise, they can complete these lessons on their own:
+    - [Google Doc - Part 1](https://applieddigitalskills.withgoogle.com/c/college-and-continuing-education/en/g-suite-certification-docs-part-1/overview.html)
+    - [Google Doc - Part 2](https://applieddigitalskills.withgoogle.com/c/college-and-continuing-education/en/g-suite-certification-docs-part-2/overview.html)
+    - [Google Slide - Part 1](https://applieddigitalskills.withgoogle.com/c/college-and-continuing-education/en/g-suite-certification-slides-part-1/overview.html)
+    - [Google Slide - Part 2](https://applieddigitalskills.withgoogle.com/c/college-and-continuing-education/en/g-suite-certification-slides-part-2/overview.html)
+    - [Google Slide - Part 3](https://applieddigitalskills.withgoogle.com/c/college-and-continuing-education/en/g-suite-certification-slides-part-3/overview.html)
+    - [Google Sheet - Part 1](https://applieddigitalskills.withgoogle.com/c/college-and-continuing-education/en/g-suite-certification-sheets-part-1/overview.html)
+    - [Google Sheet - Part 2](https://applieddigitalskills.withgoogle.com/c/college-and-continuing-education/en/g-suite-certification-sheets-part-2/overview.html)
+    - [Google Sheet - Part 3](https://applieddigitalskills.withgoogle.com/c/college-and-continuing-education/en/g-suite-certification-sheets-part-3/overview.html)
 
 ## Key Mentee Deliverables
 
@@ -59,7 +65,7 @@ permalink: /phase1/module2
 - Create a Linkedin profile
 - Write a recommendation for their peer (in cohort) (Linkedin)
 - Upload [this](https://www.learningforjustice.org/sites/default/files/2017-10/TT-Digital-Literacy-Vocabulary-Oct2017.pdf) to Google Drive
-- Apply SM teachings to their SM profile(s) (Airtable link for assignment)
+- Complete the [Password and Google Sheets Exercise](https://applieddigitalskills.withgoogle.com/c/middle-and-high-school/en/create-and-safeguard-passwords/overview.html)
 
 ## Learning Outcomes
 
