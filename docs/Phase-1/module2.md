@@ -19,7 +19,7 @@ permalink: /phase1/module2
 ## Learning Topics
 
 - Writing
-  - [Emails in the Workplace](https://applieddigitalskills.withgoogle.com/c/college-and-continuing-education/en/send-professional-emails/materials.html)
+  - [Business Email](https://edu.gcfglobal.org/en/business-communication/how-to-write-an-effective-business-email/1/)
 - Messaging Basics
   - [Etiquette](https://edu.gcfglobal.org/en/business-communication/instant-messaging-etiquette/1/)
   - [Phone anxiety](https://edu.gcfglobal.org/en/business-communication/overcoming-phone-anxiety/1/)
