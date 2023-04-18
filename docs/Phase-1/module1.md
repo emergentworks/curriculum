@@ -30,6 +30,7 @@ You can begin this module by gauging your mentee's digital skills [here](/supple
   - [File extensions](https://edu.gcfglobal.org/en/basic-computer-skills/understanding-file-extensions/1/)
   - [Typing practice](https://edu.gcfglobal.org/en/typing/typing/1/)
   - [Keyboard shortcuts](https://edu.gcfglobal.org/en/techsavvy/keyboard-shortcuts/1/)
+  - [Understanding the Cloud](https://edu.gcfglobal.org/en/computerbasics/understanding-the-cloud/1/)
 - [How to create accounts securely (Google)](https://edu.gcfglobal.org/en/googleaccount/)
 - [Internet Safety](https://edu.gcfglobal.org/en/internetsafety/)
 - Data Privacy & Security<sup>†</sup>
