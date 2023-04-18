@@ -31,11 +31,11 @@ You can begin this module by gauging your mentee's digital skills [here](/supple
   - [Typing practice](https://edu.gcfglobal.org/en/typing/typing/1/)
   - [Keyboard shortcuts](https://edu.gcfglobal.org/en/techsavvy/keyboard-shortcuts/1/)
 - [How to create accounts securely (Google)](https://edu.gcfglobal.org/en/googleaccount/)
+- [Internet Safety](https://edu.gcfglobal.org/en/internetsafety/)
 - Data Privacy & Security<sup>†</sup>
   - [Security and data in Chrome](https://edu.gcfglobal.org/en/chrome/privacy-and-security-in-chrome/1/)
   - [Login methods](https://edu.gcfglobal.org/en/thenow/understanding-login-methods/1/)
   - [2F-Authentication](https://edu.gcfglobal.org/en/thenow/what-is-twofactor-authentication/1/)
-  - [Strong passwords](https://edu.gcfglobal.org/en/internetsafety/creating-strong-passwords/1/)
   - [Ad Blocker](https://nordvpn.com/blog/what-is-ad-blocking/#:~:text=An%20ad%20blocker%20is%20any,web%20page%20against%20massive%20blacklists.)<sup>†</sup>
   - [Credit card scams](https://edu.gcfglobal.org/en/thenow/common-credit-card-scams/1/)
 - Safely Browsing & finding info online
