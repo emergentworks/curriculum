@@ -13,10 +13,10 @@ permalink: /supplemental/projectTemplates/generator
 
 Create either a webpage that generates an entity at random. For example:
 
-- A webpage that generates a random <a href="https://uk-food.glitch.me/" target="_blank">UK-specialty food</a>
-  - <a href="https://www.musicindustryhowto.com/rap-name-generator/" target="_blank">Rap name generator</a>
-  - A webpage that generates a unique <a href="https://random-acts-of-kindness-generator.glitch.me/" target="_blank">act of kindness</a>
-  - Generate a random and unique <a href="https://quilt-generator.glitch.me/" target="_blank">quilt pattern</a>
+- A webpage that generates a random [UK-specialty food](https://uk-food.glitch.me/)
+  - [Rap name generator](https://www.musicindustryhowto.com/rap-name-generator/)
+  - A webpage that generates a unique [act of kindness](https://random-acts-of-kindness-generator.glitch.me/)
+  - Generate a random and unique [quilt pattern](https://quilt-generator.glitch.me/)
 
 Requirements:
 
@@ -43,4 +43,4 @@ const dataset = ["banana", "apple", "cherry", "peach"]; // for generating a rand
 6. Now make your generator more complex! Here are some ideas:
 
 - Need to rhyme words together? Look up an API that helps you generate rhyming words!
-- Let a user input words/image and generate something from that input. Check out this tutorial on <a href="https://www.geeksforgeeks.org/how-to-create-sentiment-analysis-application-using-node-js/" target="_blank">how to analyze sentiment in a Node.js application</a>
+- Let a user input words/image and generate something from that input. Check out this tutorial on [how to analyze sentiment in a Node.js application](https://www.geeksforgeeks.org/how-to-create-sentiment-analysis-application-using-node-js/)

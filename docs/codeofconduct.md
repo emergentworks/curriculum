@@ -6,7 +6,7 @@ permalink: /codeofconduct
 ---
 # Emergent Works Code of Conduct
 
-This Code of Conduct is based on the <a href="http://geekfeminism.wikia.com/wiki/Community_anti-harassment" target="_blank">example policy from the Geek Feminism wiki</a>, created by the Geek Feminism community.
+This Code of Conduct is based on the [example policy from the Geek Feminism wiki](http://geekfeminism.wikia.com/wiki/Community_anti-harassment), created by the Geek Feminism community.
 
 ## Shorter version
 

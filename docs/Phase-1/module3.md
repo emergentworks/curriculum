@@ -18,10 +18,10 @@ permalink: /phase1/module3
 ## Learning Topics
 
 - Try out expertises
-  - <a href="https://applieddigitalskills.withgoogle.com/c/college-and-continuing-education/en/try-a-career-in-digital-marketing-and-e-commerce/overview.html" target="_blank">Digital Marketing</a>
-  - <a href="https://applieddigitalskills.withgoogle.com/c/college-and-continuing-education/en/try-a-career-in-data-analytics/overview.html" target="_blank">Data Analytics</a>
-  - <a href="https://applieddigitalskills.withgoogle.com/c/college-and-continuing-education-uk/en-uk/manage-a-project-with-digital-tools/overview.html?utm_source=&utm_medium=&utm_campaign=20191014-Digital%20Garage/YouTube--cce-stu-00&src=partners-website-20191014-Digital%20Garage/YouTube--cce-stu-00" target="_blank">Manage a Project with Digital Tools</a>
-  - <a href="https://edu.gcfglobal.org/en/beginning-graphic-design/" target="_blank">Graphic Design</a>
+  - [Digital Marketing](https://applieddigitalskills.withgoogle.com/c/college-and-continuing-education/en/try-a-career-in-digital-marketing-and-e-commerce/overview.html)
+  - [Data Analytics](https://applieddigitalskills.withgoogle.com/c/college-and-continuing-education/en/try-a-career-in-data-analytics/overview.html)
+  - [Manage a Project with Digital Tools](https://applieddigitalskills.withgoogle.com/c/college-and-continuing-education-uk/en-uk/manage-a-project-with-digital-tools/overview.html)
+  - [Graphic Design](https://edu.gcfglobal.org/en/beginning-graphic-design/)
 
 ## Key Mentee Deliverables
 

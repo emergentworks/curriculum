@@ -9,17 +9,17 @@ permalink: /supplemental/javascript/javascriptVisualized
 
 # JavaScript Visualized
 
-<a href="https://dev.to/lydiahallie/series/3341" target="_blank">JavaScript Visualized</a>
+[JavaScript Visualized](https://dev.to/lydiahallie/series/3341)
 
 I very nice series of blog posts covering:
 
-- <a href="https://dev.to/lydiahallie/javascript-visualized-event-loop-3dif" target="_blank">Event Loop</a>
-- <a href="https://dev.to/lydiahallie/javascript-visualized-hoisting-478h" target="_blank">Hoisting</a>
-- <a href="https://dev.to/lydiahallie/javascript-visualized-scope-chain-13pd" target="_blank">Scope</a>
-- <a href="https://dev.to/lydiahallie/javascript-visualized-the-javascript-engine-4cdf" target="_blank">JavaScript Engine</a>
-- <a href="https://dev.to/lydiahallie/javascript-visualized-prototypal-inheritance-47co" target="_blank">Prototypal Inheritance</a>
-- <a href="https://dev.to/lydiahallie/javascript-visualized-generators-and-iterators-e36" target="_blank">Generators and Iterators</a>
-- <a href="https://dev.to/lydiahallie/javascript-visualized-promises-async-await-5gke" target="_blank">Promises and Async/Await</a>
+- [Event Loop](https://dev.to/lydiahallie/javascript-visualized-event-loop-3dif)
+- [Hoisting](https://dev.to/lydiahallie/javascript-visualized-hoisting-478h)
+- [Scope](https://dev.to/lydiahallie/javascript-visualized-scope-chain-13pd)
+- [JavaScript Engine](https://dev.to/lydiahallie/javascript-visualized-the-javascript-engine-4cdf)
+- [Prototypal Inheritance](https://dev.to/lydiahallie/javascript-visualized-prototypal-inheritance-47co)
+- [Generators and Iterators](https://dev.to/lydiahallie/javascript-visualized-generators-and-iterators-e36)
+- [Promises and Async/Await](https://dev.to/lydiahallie/javascript-visualized-promises-async-await-5gke)
 
 ## Pros
 

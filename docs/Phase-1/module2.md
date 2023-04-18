@@ -20,44 +20,43 @@ permalink: /phase1/module2
 
 - Writing
   - Messaging vs email
-  - <a href="https://edu.gcfglobal.org/en/internetbasics/understanding-hyperlinks/1/" target="_blank">Hyperlinks</a>
-  - <a href="https://edu.gcfglobal.org/en/internetbasics/understanding-urls/1/" target="_blank">URLs</a>
+  - [Hyperlinks](https://edu.gcfglobal.org/en/internetbasics/understanding-hyperlinks/1/)
+  - [URLs](https://edu.gcfglobal.org/en/internetbasics/understanding-urls/1/)
 - Email Basics
-  - <a href="https://edu.gcfglobal.org/en/email101/common-email-features/1/" target="_blank">Gmail</a>
-  - <a href="https://edu.gcfglobal.org/en/internetsafety/avoiding-spam-and-phishing/1/" target="_blank">Spam</a>
-  - <a href="https://edu.gcfglobal.org/en/gmail/sending-email/1/" target="_blank">Sending Emails</a>
-  - <a href="https://edu.gcfglobal.org/en/communicationskills/how-formal-should-an-email-be/1/" target="_blank">Etiquette</a>
+  - [Gmail](https://edu.gcfglobal.org/en/email101/common-email-features/1/)
+  - [Spam](https://edu.gcfglobal.org/en/internetsafety/avoiding-spam-and-phishing/1/)
+  - [Sending Emails](https://edu.gcfglobal.org/en/gmail/sending-email/1/)
+  - [Etiquette](https://edu.gcfglobal.org/en/communicationskills/how-formal-should-an-email-be/1/)
 - Messaging Basics
-  - <a href="https://edu.gcfglobal.org/en/business-communication/instant-messaging-etiquette/1/" target="_blank">Etiquette</a>
-  - <a href="https://edu.gcfglobal.org/en/business-communication/overcoming-phone-anxiety/1/" target="_blank">Phone anxiety</a>
-- <a href="https://www.digitallearn.org/courses/basics-of-video-conferencing-new" target="_blank">Zoom and Video Calls</a>
-  - <a href="https://edu.gcfglobal.org/en/zoom/getting-started-with-zoom/1/" target="_blank">Zoom account setup</a>
-  - <a href="https://join.com/recruitment-hr-blog/virtual-meeting-zoom-etiquette/" target="_blank">Zoom Etiquette</a><sup>†</sup>
-- <a href="https://edu.gcfglobal.org/en/linkedin/" target="_blank">Linkedin</a>
-  - <a href="https://edu.gcfglobal.org/en/linkedin/adjusting-your-settings-and-privacy-on-linkedin/1/" target="_blank">Linkedin privacy and etiquette</a>\*
-  - <a href="https://www.linkedin.com/pulse/how-your-social-media-presence-can-influence-job-search-junkova/" target="_blank">Social media influencing job search</a><sup>†</sup>
+  - [Etiquette](https://edu.gcfglobal.org/en/business-communication/instant-messaging-etiquette/1/)
+  - [Phone anxiety](https://edu.gcfglobal.org/en/business-communication/overcoming-phone-anxiety/1/)
+- [Zoom and Video Calls](https://www.digitallearn.org/courses/basics-of-video-conferencing-new)
+  - [Zoom account setup](https://edu.gcfglobal.org/en/zoom/getting-started-with-zoom/1/)
+  - [Zoom Etiquette](https://join.com/recruitment-hr-blog/virtual-meeting-zoom-etiquette/)<sup>†</sup>
+- [Linkedin](https://edu.gcfglobal.org/en/linkedin/)
+  - [Linkedin privacy and etiquette](https://edu.gcfglobal.org/en/linkedin/adjusting-your-settings-and-privacy-on-linkedin/1/)\*
+  - [Social media influencing job search](https://www.linkedin.com/pulse/how-your-social-media-presence-can-influence-job-search-junkova/)<sup>†</sup>
   - Create account and profile
   - Endorse and write recommendation for a peer in the cohort
-- <a href="https://edu.gcfglobal.org/en/google-tips/getting-started-with-google-calendar/1/" target="_blank">Calendar Basics</a>
+- [Calendar Basics](https://edu.gcfglobal.org/en/google-tips/getting-started-with-google-calendar/1/)
   - How to accept invites to events (i.e. accept sharing circle invite)
   - Create recurring events for 1:1 session
 - Financial toolsˤ
-  - <a href="https://edu.gcfglobal.org/en/online-money-tips/online-banking-101/1/" target="_blank">Online banking 101</a>
-  - <a href="https://edu.gcfglobal.org/en/online-money-tips/what-is-venmo/1/" target="_blank">Venmo</a>
-  - <a href="https://edu.gcfglobal.org/en/online-money-tips/save-money-with-free-budgeting-apps/1/" target="_blank">Budgeting apps</a>
-  - <a href="https://edu.gcfglobal.org/en/online-money-tips/how-to-get-a-free-credit-report/1/" target="_blank">Credit score and credit report</a>
-- <a href="https://www.digitallearn.org/courses/cloud-storage" target="_blank">Cloud Storage</a>
-  - <a href="[https://edu.gcfglobal.org/en/googledriveanddocs/](https://applieddigitalskills.withgoogle.com/c/college-and-continuing-education/en/g-suite-certification-drive/overview.html)" target="_blank">Google Drive</a>
-- G-Suite (Note: Mentees should sign into Google in order to track their progress).
-  - <a href="https://applieddigitalskills.withgoogle.com/c/college-and-continuing-education/en/g-suite-certification-docs-part-1/overview.html" target="_blank">Google Doc - Part 1</a>
-  - <a href="https://applieddigitalskills.withgoogle.com/c/college-and-continuing-education/en/g-suite-certification-docs-part-2/overview.html" target="_blank">Google Doc - Part 2</a>
-  - <a href="https://applieddigitalskills.withgoogle.com/c/college-and-continuing-education/en/g-suite-certification-slides-part-1/overview.html" target="_blank">Google Slide - Part 1</a>
-  - <a href="https://applieddigitalskills.withgoogle.com/c/college-and-continuing-education/en/g-suite-certification-slides-part-2/overview.html" target="_blank">Google Slide - Part 2</a>
-  - <a href="https://applieddigitalskills.withgoogle.com/c/college-and-continuing-education/en/g-suite-certification-slides-part-3/overview.html" target="_blank">Google Slide - Part 3</a>
-  - <a href="https://applieddigitalskills.withgoogle.com/c/college-and-continuing-education/en/g-suite-certification-sheets-part-1/overview.html" target="_blank">Google Sheet - Part 1</a>
-  - <a href="https://applieddigitalskills.withgoogle.com/c/college-and-continuing-education/en/g-suite-certification-sheets-part-2/overview.html" target="_blank">Google Sheet - Part 2</a>
-  - <a href="https://applieddigitalskills.withgoogle.com/c/college-and-continuing-education/en/g-suite-certification-slides-part-3/overview.html" target="_blank">Google Sheet - Part 3</a>
-   - <a href="https://applieddigitalskills.withgoogle.com/c/middle-and-high-school/en/create-and-safeguard-passwords/overview.html" target="_blank">Password and Google Sheets Exercise</a>
+  - [Online banking 101](https://edu.gcfglobal.org/en/online-money-tips/online-banking-101/1/)
+  - [Venmo](https://edu.gcfglobal.org/en/online-money-tips/what-is-venmo/1/)
+  - [Budgeting apps](https://edu.gcfglobal.org/en/online-money-tips/save-money-with-free-budgeting-apps/1/)
+  - [Credit score and credit report](https://edu.gcfglobal.org/en/online-money-tips/how-to-get-a-free-credit-report/1/)
+- [Cloud Storage](https://www.digitallearn.org/courses/cloud-storage)
+- Google Suite
+  - [Google Doc - Part 1](https://applieddigitalskills.withgoogle.com/c/college-and-continuing-education/en/g-suite-certification-docs-part-1/overview.html)
+  - [Google Doc - Part 2](https://applieddigitalskills.withgoogle.com/c/college-and-continuing-education/en/g-suite-certification-docs-part-2/overview.html)
+  - [Google Slide - Part 1](https://applieddigitalskills.withgoogle.com/c/college-and-continuing-education/en/g-suite-certification-slides-part-1/overview.html)
+  - [Google Slide - Part 2](https://applieddigitalskills.withgoogle.com/c/college-and-continuing-education/en/g-suite-certification-slides-part-2/overview.html)
+  - [Google Slide - Part 3](https://applieddigitalskills.withgoogle.com/c/college-and-continuing-education/en/g-suite-certification-slides-part-3/overview.html)
+  - [Google Sheet - Part 1](https://applieddigitalskills.withgoogle.com/c/college-and-continuing-education/en/g-suite-certification-sheets-part-1/overview.html)
+  - [Google Sheet - Part 2](https://applieddigitalskills.withgoogle.com/c/college-and-continuing-education/en/g-suite-certification-sheets-part-2/overview.html)
+  - [Google Sheet - Part 3](https://applieddigitalskills.withgoogle.com/c/college-and-continuing-education/en/g-suite-certification-slides-part-3/overview.html)
+  - [Password and Google Sheets Exercise](https://applieddigitalskills.withgoogle.com/c/middle-and-high-school/en/create-and-safeguard-passwords/overview.html)
 
 ## Key Mentee Deliverables
 
@@ -65,7 +64,7 @@ permalink: /phase1/module2
 - Create Zoom account
 - Create a Linkedin profile
 - Write a recommendation for their peer (in cohort) (Linkedin)
-- Upload <a href="https://www.learningforjustice.org/sites/default/files/2017-10/TT-Digital-Literacy-Vocabulary-Oct2017.pdf" target="_blank">this</a> to Google Drive
+- Upload [this](https://www.learningforjustice.org/sites/default/files/2017-10/TT-Digital-Literacy-Vocabulary-Oct2017.pdf) to Google Drive
 - Apply SM teachings to their SM profile(s) (Airtable link for assignment)
 
 ## Learning Outcomes

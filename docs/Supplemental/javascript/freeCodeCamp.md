@@ -9,7 +9,7 @@ permalink: /supplemental/javascript/freecodecamp
 
 # FreeCodeCamp
 
-<a href="https://www.freecodecamp.org" target="_blank">FreeCodeCamp</a>
+[FreeCodeCamp](https://www.freecodecamp.org)
 
 ## Pros:
 
@@ -35,8 +35,8 @@ really recall all of the material covered. This is _normal_ for the way the mate
 It provides a basic exposure, but you will have to go back and look up things that were
 covered.
 
-- <a href="https://www.freecodecamp.org/learn/responsive-web-design/" target="_blank">Responsive Web Design</a>
-- <a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/" target="_blank">JavaScript Algorithms and Data Structures</a>
+- [Responsive Web Design](https://www.freecodecamp.org/learn/responsive-web-design/)
+- [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
   > The JavaScript curriculum is notably lacking in any sort of DOM interaction. This can result
   > in quite a lengthy period of learning JavaScript, without connecting it back to
   > how it's going to tie back into what you've learned about HTML and CSS and can improve

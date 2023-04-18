@@ -46,5 +46,5 @@ permalink: /phase2/module2
 ## Supporting Educational Resources
 
 - The Odin Project
-  - <a href="https://www.theodinproject.com/paths/foundations/courses/foundations#css-foundations" target="_blank">CSS Foundation</a>
-  - <a href="https://www.theodinproject.com/paths/foundations/courses/foundations#flexbox" target="_blank">Flexbox</a>
+  - [CSS Foundation](https://www.theodinproject.com/paths/foundations/courses/foundations#css-foundations)
+  - [Flexbox](https://www.theodinproject.com/paths/foundations/courses/foundations#flexbox)

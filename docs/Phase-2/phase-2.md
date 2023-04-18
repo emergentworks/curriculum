@@ -16,7 +16,7 @@ adjust the pace of it according to their mentee's needs.
 
 In the curriculum, the mentor will find hyperlinked resources that they can use.
 
-Mentors will also be provided with a <a href="https://docs.google.com/document/d/1zxx33pMIud3dbVyI-OS6yUb64AkhTxDSpJbNCj7lftE/edit" target="_blank">lesson plan template</a> that can be used to structure each lesson in accordance with the curriculum.
+Mentors will also be provided with a [lesson plan template](https://docs.google.com/document/d/1zxx33pMIud3dbVyI-OS6yUb64AkhTxDSpJbNCj7lftE/edit) that can be used to structure each lesson in accordance with the curriculum.
 
 Program staff will be of assistance for support with lesson planning if needed.
 If a mentee is between phases, such as mentee needs a little from Phase 1 & 2, then the mentor will combine parts of each of the phases to fit the mentee's needs.

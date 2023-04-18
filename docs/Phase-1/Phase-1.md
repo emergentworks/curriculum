@@ -14,7 +14,7 @@ Phase 1 consists of 3 Modules, with each module being 4 weeks.
 During the mentorship, the mentor is expected to utilize the Phase 1 curriculum and adjust the pace of it according to their mentee's needs.
 
 In the curriculum, the mentor will find hyperlinked resources that they can use.
-A <a href="https://docs.google.com/document/d/1zxx33pMIud3dbVyI-OS6yUb64AkhTxDSpJbNCj7lftE/edit" target="_blank">lesson plan template</a> is available to mentors and can be used to structure each lesson in accordance with the curriculum.
+A [lesson plan template](https://docs.google.com/document/d/1zxx33pMIud3dbVyI-OS6yUb64AkhTxDSpJbNCj7lftE/edit) is available to mentors and can be used to structure each lesson in accordance with the curriculum.
 
 Program staff will be of assistance for support with lesson planning if needed.
 

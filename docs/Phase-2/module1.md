@@ -41,7 +41,7 @@ permalink: /phase2/module1
 ## Supporting Educational Resources
 
 - The Odin Project
-  - <a href="https://www.theodinproject.com/paths/foundations/courses/foundations#introduction" target="_blank">Introduction</a>
-  - <a href="https://www.theodinproject.com/paths/foundations/courses/foundations#prerequisites" target="_blank">Prerequisites</a>
-  - <a href="https://www.theodinproject.com/paths/foundations/courses/foundations#git-basics" target="_blank">Git Basics</a>
-  - <a href="https://www.theodinproject.com/paths/foundations/courses/foundations#html-foundations" target="_blank">HTML Foundations</a>
+  - [Introduction](https://www.theodinproject.com/paths/foundations/courses/foundations#introduction)
+  - [Prerequisites](https://www.theodinproject.com/paths/foundations/courses/foundations#prerequisites)
+  - [Git Basics](https://www.theodinproject.com/paths/foundations/courses/foundations#git-basics)
+  - [HTML Foundations](https://www.theodinproject.com/paths/foundations/courses/foundations#html-foundations)
