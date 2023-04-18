@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Module 3 - Research and Automation
+title: Module 3 - Applying your Skillset
 parent: Phase 1 - Digital Literacy
 permalink: /phase1/module3
 ---
 
-# Module 3: Research and Automation
+# Module 3: Applying your Skillset
 
 ## Duration
 
