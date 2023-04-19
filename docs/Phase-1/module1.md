@@ -1,12 +1,14 @@
 ---
 layout: default
-title: Module 1 - Using the internet safely & effectively
+title: Module 1 - Digital Navigation and Safety
 parent: Phase 1 - Digital Literacy
 nav_order: 1
 permalink: /phase1/module1
 ---
 
-# Module 1: Using the internet safely & effectively
+# Module 1: Digital Navigation and Safety
+
+You can begin this module by gauging your mentee's digital skills [here](/supplemental/digitalLiteracy/digitalProficiencyPairing).
 
 ## Duration 
 
@@ -28,12 +30,13 @@ permalink: /phase1/module1
   - [File extensions](https://edu.gcfglobal.org/en/basic-computer-skills/understanding-file-extensions/1/)
   - [Typing practice](https://edu.gcfglobal.org/en/typing/typing/1/)
   - [Keyboard shortcuts](https://edu.gcfglobal.org/en/techsavvy/keyboard-shortcuts/1/)
+  - [Understanding the Cloud](https://edu.gcfglobal.org/en/computerbasics/understanding-the-cloud/1/)
 - [How to create accounts securely (Google)](https://edu.gcfglobal.org/en/googleaccount/)
+- [Internet Safety](https://edu.gcfglobal.org/en/internetsafety/)
 - Data Privacy & Security<sup>†</sup>
   - [Security and data in Chrome](https://edu.gcfglobal.org/en/chrome/privacy-and-security-in-chrome/1/)
   - [Login methods](https://edu.gcfglobal.org/en/thenow/understanding-login-methods/1/)
   - [2F-Authentication](https://edu.gcfglobal.org/en/thenow/what-is-twofactor-authentication/1/)
-  - [Strong passwords](https://edu.gcfglobal.org/en/internetsafety/creating-strong-passwords/1/)
   - [Ad Blocker](https://nordvpn.com/blog/what-is-ad-blocking/#:~:text=An%20ad%20blocker%20is%20any,web%20page%20against%20massive%20blacklists.)<sup>†</sup>
   - [Credit card scams](https://edu.gcfglobal.org/en/thenow/common-credit-card-scams/1/)
 - Safely Browsing & finding info online
@@ -48,11 +51,12 @@ permalink: /phase1/module1
 
 ## Key Mentee Deliverables
 
+- Get Chrome installed
 - Create Google Account and Sync to phone
 - Set up 2-factor Authentication on Google Account
 - Install ad blocker in browser (ublock)
 - Store password in google’s password manager
-- Get Chrome installed
+- Complete [module 1 checkpoint](https://forms.gle/EjDknbwERwHbL91k8)
 
 ## Learning Outcomes
 
