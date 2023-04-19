@@ -21,7 +21,7 @@ Some mentorship pairs may be ready immediately to begin planning a final project
 
 ### [Phase 2: Web Fundamentals](/curriculum/phase2)
 
-### [Phase 3: Intro to Programming](/curriculum/phase3)
+### [Phase 3: Full Stack JavaScript](/curriculum/phase3)
 
 ---
 

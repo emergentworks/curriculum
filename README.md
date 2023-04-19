@@ -10,8 +10,9 @@ If you've forked this repo to contribute to it there are a couple of ways you ca
 You can make your changes directly in your repo and let Github build and deploy the results under your account.
 This will create a lot of commits as you edit directly, and you'll need to wait for GitHub to build and deploy the pages.
 
-To set this up, go to the "Settings~ tab for your repo, and select "Pages" in the left navigation. On that page set the source to `Deploy from a branch`
-and then select the branch you're doing your work under (and point it at the `/ (root)` directory.
+To set this up, go to the "Settings" tab for your repo, and select "Pages" in the left navigation. 
+On that page set the source to `GitHub Actions`
+<br/><img width="336" alt="GitHubActions" src="assets/images/ghActions.png">
 
 You should then get a message at the top of the page telling you that "You site is live at ..." and there should be a `Visit Site` button
 to take you to the site.
@@ -19,9 +20,11 @@ to take you to the site.
 If you want to see builds (to know when your changes have been deployed), go to the `Actions` tab in your repo.
 
 NOTE: If you want to use this method and review the results on Github, you may probably want to
-modify the `gh_edit_repository` value in the `_config.yml` file to point to your repo:
+modify the `gh_edit_link` to `true` and the `gh_edit_repository` value in the `_config.yml` file to point to your repo:
 
 ```
+gh_edit_link: true # show or hide edit this page link
+...
 gh_edit_repository: "https://github.com/<<your GitHub ID>>/curriculum" # the github URL for your repo
 ```
 
