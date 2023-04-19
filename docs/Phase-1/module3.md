@@ -22,10 +22,25 @@ permalink: /phase1/module3
   - [Data Analytics](https://applieddigitalskills.withgoogle.com/c/college-and-continuing-education/en/try-a-career-in-data-analytics/overview.html)
   - [Manage a Project with Digital Tools](https://applieddigitalskills.withgoogle.com/c/college-and-continuing-education-uk/en-uk/manage-a-project-with-digital-tools/overview.html)
   - [Graphic Design](https://edu.gcfglobal.org/en/beginning-graphic-design/)
+- Final Project
+  - Pick a skillset from above and put it towards a project. Here are some examples if you need an idea:
+    - Digital Marketing
+      - Present a Google Slide presentation on selling a brand or a product
+    - Data Analytics
+      - [Build a machine learning model using Google Sheets](https://applieddigitalskills.withgoogle.com/c/middle-and-high-school/en/introduction-to-machine-learning/overview.html)
+      - Build charts and visualizations for a [dataset](https://datasetsearch.research.google.com/).
+    - Project Management
+      - Build a business or project charter (extension from [Manage a Project with Digital Tools](https://applieddigitalskills.withgoogle.com/c/college-and-continuing-education-uk/en-uk/manage-a-project-with-digital-tools/overview.html))
+    - Graphic Design
+      - Create a cookbook of your family and friends’ recipes
+      - Design an ad for your favorite musician or movie
+      - Create an infographic about yourself
+      - Create a social media post for Emergent Works
+
 
 ## Key Mentee Deliverables
 
-- Group Practical Challenge (online research)
+- Final project should be presentable to the EW community
 
 ## Learning Outcomes
 
