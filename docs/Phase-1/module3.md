@@ -45,5 +45,5 @@ permalink: /phase1/module3
 ## Learning Outcomes
 
 - Empower mentees with skills to safely explore and teach themselves new skills
-- Create a presentation (passion project)
+- Create a project that's based on one of the four expertises
 
