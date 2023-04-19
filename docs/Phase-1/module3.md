@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Module 3 - Research and Automation
+title: Module 3 - Applying your Skillset
 parent: Phase 1 - Digital Literacy
 permalink: /phase1/module3
 ---
 
-# Module 3: Research and Automation
+# Module 3: Applying your Skillset
 
 ## Duration
 
@@ -17,29 +17,33 @@ permalink: /phase1/module3
 
 ## Learning Topics
 
-- Refreshers
-  - [Keyboard shortcuts](https://edu.gcfglobal.org/en/techsavvy/keyboard-shortcuts/1/)
-  - [Mac OSX shortcuts](https://edu.gcfglobal.org/en/osxbasics/keyboard-shortcuts-in-os-x/1/)
-- Online research
-  - [Effective search on Wikipedia](https://edu.gcfglobal.org/en/using-the-web-to-get-stuff-done/effective-research-with-wikipedia/1/)
-  - [Advanced google queries](https://edu.gcfglobal.org/en/search-better-2018/hidden-features-of-google-search/1/)
-  - [Practice evaluating a web page](https://edu.gcfglobal.org/en/digital-media-literacy/practice-evaluating-a-webpage/1/)
-- Automation and creation (at least one)
-  - Build an Applet with [IFFT](https://ifttt.com/explore/welcome_to_ifttt)
-  - Build a website(i.e. [Squarespace](https://support.squarespace.com/hc/en-us/articles/205809798-Video-Series-Getting-Started-with-Squarespace))
-  - [Create a note-taking template](https://support.google.com/a/users/answer/9308885?hl=en) in Google Docs
-  - Custom cover photo and profile picture on LinkedIn
-  - Build monthly budget in [Google Sheets](https://edu.gcfglobal.org/en/googlespreadsheets/getting-started-with-google-sheets/1/)
-  - Find 3 people on Linkedin with your dream job
-- Presentation
-  - Pick a [technology topic](https://docs.google.com/document/d/1kOKj_SVUAvNnslnroaot25G773VyYvC32AHjgf462Pc/edit?usp=sharing) and create presentation using [Google Slides](https://edu.gcfglobal.org/en/googleslides/) or infographic using [Canva](https://www.canva.com/)
+- Try out expertises
+  - [Digital Marketing](https://applieddigitalskills.withgoogle.com/c/college-and-continuing-education/en/try-a-career-in-digital-marketing-and-e-commerce/overview.html)
+  - [Data Analytics](https://applieddigitalskills.withgoogle.com/c/college-and-continuing-education/en/try-a-career-in-data-analytics/overview.html)
+  - [Manage a Project with Digital Tools](https://applieddigitalskills.withgoogle.com/c/college-and-continuing-education-uk/en-uk/manage-a-project-with-digital-tools/overview.html)
+  - [Graphic Design](https://edu.gcfglobal.org/en/beginning-graphic-design/)
+- Final Project
+  - Pick a skillset from above and put it towards a project. Here are some examples if you need an idea:
+    - Digital Marketing
+      - Present a Google Slide presentation on selling a brand or a product
+    - Data Analytics
+      - [Build a machine learning model using Google Sheets](https://applieddigitalskills.withgoogle.com/c/middle-and-high-school/en/introduction-to-machine-learning/overview.html)
+      - Build charts and visualizations for a [dataset](https://datasetsearch.research.google.com/).
+    - Project Management
+      - Build a business or project charter (extension from [Manage a Project with Digital Tools](https://applieddigitalskills.withgoogle.com/c/college-and-continuing-education-uk/en-uk/manage-a-project-with-digital-tools/overview.html))
+    - Graphic Design
+      - Create a cookbook of your family and friends’ recipes
+      - Design an ad for your favorite musician or movie
+      - Create an infographic about yourself
+      - Create a social media post for Emergent Works
+
 
 ## Key Mentee Deliverables
 
-- Group Practical Challenge (online research)
+- Final project should be presentable to the EW community
 
 ## Learning Outcomes
 
 - Empower mentees with skills to safely explore and teach themselves new skills
-- Create a presentation (passion project)
+- Create a project that's based on one of the four expertises
 

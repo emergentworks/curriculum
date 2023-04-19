@@ -11,7 +11,7 @@ permalink: /phase1
 This is EW's Phase 1 Mentee Curriculum during the 12 weeks mentorship.
 Phase 1 consists of 3 Modules, with each module being 4 weeks.
 
-During the mentorship, the mentor is expected to utilize the Phase 1 curriculum and adjust the pace of it according to their mentee's needs.
+During the mentorship, the mentor is expected to utilize the Phase 1 curriculum and adjust the pace of it according to their mentee's needs. Many of the learning topics are articles that be used for self-study. You can assign many of these to your mentee and use your 1:1 sessions for questions and clarifications. That being said, it helps to also go through these articles as a mentor so you are prepared to explain any of it to your mentee.
 
 In the curriculum, the mentor will find hyperlinked resources that they can use.
 A [lesson plan template](https://docs.google.com/document/d/1zxx33pMIud3dbVyI-OS6yUb64AkhTxDSpJbNCj7lftE/edit) is available to mentors and can be used to structure each lesson in accordance with the curriculum.
