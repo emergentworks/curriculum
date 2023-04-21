@@ -54,7 +54,7 @@ You can begin this module by gauging your mentee's digital skills [here](/supple
 - Get Chrome installed
 - Create Google Account and Sync to phone
 - Set up 2-factor Authentication on Google Account
-- Install ad blocker in browser (ublock)
+- Install ad blocker in browser ([ublock](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en))
 - Store password in google’s password manager
 - Complete [module 1 checkpoint](https://forms.gle/EjDknbwERwHbL91k8)
 
