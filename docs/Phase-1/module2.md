@@ -30,11 +30,7 @@ permalink: /phase1/module2
 - [Linkedin](https://edu.gcfglobal.org/en/linkedin/)
   - [Linkedin privacy and etiquette](https://edu.gcfglobal.org/en/linkedin/adjusting-your-settings-and-privacy-on-linkedin/1/)\*
   - [Social media influencing job search](https://www.linkedin.com/pulse/how-your-social-media-presence-can-influence-job-search-junkova/)<sup>†</sup>
-  - Create account and profile
-  - Endorse and write recommendation for a peer in the cohort
 - [Calendar Basics](https://edu.gcfglobal.org/en/google-tips/getting-started-with-google-calendar/1/)
-  - How to accept invites to events (i.e. accept sharing circle invite)
-  - Create recurring events for 1:1 session
 - Financial toolsˤ
   - [Online banking 101](https://edu.gcfglobal.org/en/online-money-tips/online-banking-101/1/)
   - [Venmo](https://edu.gcfglobal.org/en/online-money-tips/what-is-venmo/1/)
@@ -71,6 +67,7 @@ permalink: /phase1/module2
 ## Supplemental Activities
 - Complete the [Password and Google Sheets Exercise](https://applieddigitalskills.withgoogle.com/c/middle-and-high-school/en/create-and-safeguard-passwords/overview.html)
 - [Create a cookbook in Google Slides](https://applieddigitalskills.withgoogle.com/c/college-and-continuing-education/en/create-a-cookbook-in-google-slides/overview.html)
+- [Discover AI in Daily Life](https://applieddigitalskills.withgoogle.com/c/middle-and-high-school/en/discover-ai-in-daily-life/overview.html)
 
 ## Learning Outcomes
 
