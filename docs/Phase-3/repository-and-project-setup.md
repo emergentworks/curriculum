@@ -26,13 +26,11 @@ helping the mentee with these instructions.
   - Keep your new repo "Public"
     <br/><img srcset="/curriculum/assets/images/UseTemplate2.png 2x">
   - Click the "Create repository from template" button
-  - In your new repo create a "Mentee" branch off the "main" branch
-    <br/><img srcset="/curriculum/assets/images/createMenteeBranch.png 2x">
   - Go back to your "main" branch, and click the link to "Protect this branch"
     <br/><img srcset="/curriculum/assets/images/protectBranch1.png 2x">
   - Select "Require a pull request before merging", "Require approvals", "Dismiss stale pull request approvals when new commits are pushed" 
     and "Require approval of the most recent reviewable push".
-    These changes will require you to work on the mentee branch and then submit a PR for mentor review in order to merge them to the main
+    These changes will require you to work on issue specific branches and then submit a PR for mentor review in order to merge them to the main
     branch.  
     <br/><img srcset="/curriculum/assets/images/protectBranch2.png 2x">
     Push the "Create" button.
