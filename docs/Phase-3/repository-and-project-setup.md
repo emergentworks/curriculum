@@ -20,6 +20,7 @@ helping the mentee with these instructions.
   - For course 2 (JavaScript) use [phase-3-02-javascript-assignments](https://github.com/emergentworks/phase-3-02-javascript-assignments)
 - Click on "Use this template" (option "Create a new repository")
    <br/><img srcset="/curriculum/assets/images/UseTemplate1.png 2x">
+   (Note: This button may not show up if your browser window is too narrow 🤷🏼‍♂️.  Try expanding your window if you don't see it).
 - When the "Create a new repository from [REPO NAME]" pop-up appears:
   - Select your gitHub account
   - Assign a repository name 
