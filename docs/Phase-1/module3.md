@@ -21,7 +21,7 @@ permalink: /phase1/module3
   - [Digital Marketing](https://applieddigitalskills.withgoogle.com/c/college-and-continuing-education/en/try-a-career-in-digital-marketing-and-e-commerce/overview.html)
   - [Data Analytics](https://applieddigitalskills.withgoogle.com/c/college-and-continuing-education/en/try-a-career-in-data-analytics/overview.html)
   - [Manage a Project with Digital Tools](https://applieddigitalskills.withgoogle.com/c/college-and-continuing-education-uk/en-uk/manage-a-project-with-digital-tools/overview.html)
-  - [Graphic Design](https://edu.gcfglobal.org/en/beginning-graphic-design/)
+  - [Graphic Design](https://www.canva.com/designschool/courses/graphic-design-basics/)
 - Final Project
   - Pick a skillset from above and put it towards a project. Here are some examples if you need an idea:
     - Digital Marketing
@@ -32,10 +32,11 @@ permalink: /phase1/module3
     - Project Management
       - Build a business or project charter (extension from [Manage a Project with Digital Tools](https://applieddigitalskills.withgoogle.com/c/college-and-continuing-education-uk/en-uk/manage-a-project-with-digital-tools/overview.html))
     - Graphic Design
+      - Learn to use Canva [here](https://www.canva.com/designschool/tutorials/getting-started/)
       - Create a cookbook of your family and friends’ recipes
       - Design an ad for your favorite musician or movie
       - Create an infographic about yourself
-      - Create a social media post for Emergent Works
+      - Create a social media post for Emergent Works ([course on social media branding](https://www.canva.com/designschool/courses/social-media-mastery/))
 
 
 ## Key Mentee Deliverables
