@@ -20,13 +20,34 @@ helping the mentee with these instructions.
   - For course 2 (JavaScript) use [phase-3-02-javascript-assignments](https://github.com/emergentworks/phase-3-02-javascript-assignments)
 - Click on "Use this template" (option "Create a new repository")
    <br/><img srcset="/curriculum/assets/images/UseTemplate1.png 2x">
+   <br/>(Note: This button may not show up if your browser window is too narrow 🤷🏼‍♂️.  Try expanding your window if you don't see it).
 - When the "Create a new repository from [REPO NAME]" pop-up appears:
   - Select your gitHub account
   - Assign a repository name 
   - Keep your new repo "Public"
-  - Click the "Include all branches" checkbox (this will copy the "mentee" branch that's important for issue links to work)
     <br/><img srcset="/curriculum/assets/images/UseTemplate2.png 2x">
   - Click the "Create repository from template" button
+  - Go back to your "main" branch, and click the link to "Protect this branch"
+    <br/><img srcset="/curriculum/assets/images/protectBranch1.png 2x">
+  - Select "Require a pull request before merging", "Require approvals", "Dismiss stale pull request approvals when new commits are pushed" 
+    and "Require approval of the most recent reviewable push".
+    These changes will require you to work on issue specific branches and then submit a PR for mentor review in order to merge them to the main
+    branch.  
+    <br/><img srcset="/curriculum/assets/images/protectBranch2.png 2x">
+    Push the "Create" button.
+    
+    This discipline will help your mentor review your work, and mirrors the way many organizations will work.
+
+## Add your mentor as a collaborator
+
+- In you repo, select the "Settings" tab at the top
+- Select the "Collaborators" tab to the left
+- Click the "Add people" button
+  <br/><img srcset="/curriculum/assets/images/Collab1.png 2x">
+- Use the search to find your mentor and select them as a collaborator
+  <br/><img srcset="/curriculum/assets/images/Collab2.png 2x">
+- At this point, your mentor should receive an invite email and will show in your repo as "pending invite"
+- From the invite email the mentor can click the "View Invitation" button and accept the invite.
 
 ## Set up your project
 
@@ -70,6 +91,7 @@ helping the mentee with these instructions.
 - From the ellipsis button on your project, click "Workflows"
   <br/><img srcset="/curriculum/assets/images/ConnectProject5.png 2x">
 - select the "Item closed" workflow, and click the pencil icon to edit.
+  <br/><img srcset="/curriculum/assets/images/ConnectProject9.png 2x">
 - from the "Set value" dropdown, select "Done"
 - click the "Save and turn on workflow" button
   <br/><img srcset="/curriculum/assets/images/ConnectProject6.png 2x">
@@ -77,17 +99,6 @@ helping the mentee with these instructions.
 ## Set up workflow to change status when a pull request is merged
 
 - Follow the same process to setup and turn on the "Pull request merged" workflow.
-
-## Add your mentor as a collaborator
-
-- In you repo, select the "Settings" tab at the top
-- Select the "Collaborators" tab to the left
-- Click the "Add people" button
-  <br/><img srcset="/curriculum/assets/images/Collab1.png 2x">
-- Use the search to find your mentor and select them as a collaborator
-  <br/><img srcset="/curriculum/assets/images/Collab2.png 2x">
-- At this point, your mentor should receive an invite email and will show in your repo as "pending invite"
-- From the invite email the mentor can click the "View Invitation" button and accept the invite.
 
 ## (Optional) Configure a board project view for the mentee
 - You can add a new View of type "board"

@@ -15,9 +15,13 @@ a lightweight process (simulating some of the work experience without burdening 
 
 - Mentor converts project tasks to Issues in mentee project
   - Status "Todo"  
-- Mentee selects the next issue and changes status to "In Progress" and begins work in the mentee branch
+- Mentee selects the next issue and changes status to "In Progress".
+- Mentee creates new branch off the `main` branch.
+  (Mentor and mentee can settle on a branch naming convention)
+  All work for that task/issue will be done on this branch.
   - Note: Some projects may warrant their own repo.  If you do this, just put a link to that repo in the README.md file
 - Once complete, the mentee will submit a Pull Request and mark the issue "Submitted for Review"
 - Mentor will review the submitted work, and may add comments, and request revisions if necessary to consider work satisfactorily completed.
-- Mentor will merge PR to the "main" branch and set the status to "Done" 
+- Mentor will merge PR to the "main" branch and set the status to "Done".
   - Status change may be automated if you set up the workflow during setup.
+  
